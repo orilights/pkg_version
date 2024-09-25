@@ -1,0 +1,195 @@
+{
+    "retcode": 0,
+    "message": "OK",
+    "data": {
+        "build_id": "r9KNiBRtCPLt",
+        "tag": "4.2.0",
+        "manifests": [
+            {
+                "category_id": "10017",
+                "category_name": "游戏资源-外网",
+                "manifest": {
+                    "id": "manifest_2bd138466b83a87a_a003975a9375c7ee6acd566653f82b48",
+                    "checksum": "a003975a9375c7ee6acd566653f82b48",
+                    "compressed_size": "4376805",
+                    "uncompressed_size": "9070044"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.yuanshen.com/client_app/sophon/chunks/cxgf44wie1a8/FW5Jsqqpfqku",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.yuanshen.com/client_app/sophon/manifests/cxgf44wie1a8/FW5Jsqqpfqku",
+                    "url_suffix": ""
+                },
+                "matching_field": "game",
+                "stats": {
+                    "compressed_size": "69856478997",
+                    "uncompressed_size": "71027762434",
+                    "file_count": "14786",
+                    "chunk_count": "68599"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "69797694724",
+                    "uncompressed_size": "70926531805",
+                    "file_count": "14786",
+                    "chunk_count": "68515"
+                }
+            },
+            {
+                "category_id": "10018",
+                "category_name": "语音包-中文-外网",
+                "manifest": {
+                    "id": "manifest_6569b56d80aa83e0_3aa6f1cfe20968f7a39fa3c8c8004ac3",
+                    "checksum": "3aa6f1cfe20968f7a39fa3c8c8004ac3",
+                    "compressed_size": "637007",
+                    "uncompressed_size": "1218647"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.yuanshen.com/client_app/sophon/chunks/cxgf44wie1a8/FW5Jsqqpfqku",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.yuanshen.com/client_app/sophon/manifests/cxgf44wie1a8/FW5Jsqqpfqku",
+                    "url_suffix": ""
+                },
+                "matching_field": "zh-cn",
+                "stats": {
+                    "compressed_size": "10811812770",
+                    "uncompressed_size": "12476797473",
+                    "file_count": "124",
+                    "chunk_count": "10918"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "10811538199",
+                    "uncompressed_size": "12476477049",
+                    "file_count": "124",
+                    "chunk_count": "10917"
+                }
+            },
+            {
+                "category_id": "10019",
+                "category_name": "语音包-英文-外网",
+                "manifest": {
+                    "id": "manifest_297648db1824b150_02b0275cdd3ed56b6df46210bcce56f3",
+                    "checksum": "02b0275cdd3ed56b6df46210bcce56f3",
+                    "compressed_size": "713198",
+                    "uncompressed_size": "1359398"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.yuanshen.com/client_app/sophon/chunks/cxgf44wie1a8/FW5Jsqqpfqku",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.yuanshen.com/client_app/sophon/manifests/cxgf44wie1a8/FW5Jsqqpfqku",
+                    "url_suffix": ""
+                },
+                "matching_field": "en-us",
+                "stats": {
+                    "compressed_size": "13290346431",
+                    "uncompressed_size": "14389189486",
+                    "file_count": "124",
+                    "chunk_count": "12184"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "13289513114",
+                    "uncompressed_size": "14388207562",
+                    "file_count": "124",
+                    "chunk_count": "12183"
+                }
+            },
+            {
+                "category_id": "10021",
+                "category_name": "语音包-日文-外网",
+                "manifest": {
+                    "id": "manifest_c099d104bec4daea_a26495e9eef72e02fd28a2e13f8a7a9b",
+                    "checksum": "a26495e9eef72e02fd28a2e13f8a7a9b",
+                    "compressed_size": "792506",
+                    "uncompressed_size": "1516406"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.yuanshen.com/client_app/sophon/chunks/cxgf44wie1a8/FW5Jsqqpfqku",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.yuanshen.com/client_app/sophon/manifests/cxgf44wie1a8/FW5Jsqqpfqku",
+                    "url_suffix": ""
+                },
+                "matching_field": "ja-jp",
+                "stats": {
+                    "compressed_size": "12815411328",
+                    "uncompressed_size": "16263057432",
+                    "file_count": "124",
+                    "chunk_count": "13606"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "12815411328",
+                    "uncompressed_size": "16263057432",
+                    "file_count": "124",
+                    "chunk_count": "13606"
+                }
+            },
+            {
+                "category_id": "10020",
+                "category_name": "语音包-韩文-外网",
+                "manifest": {
+                    "id": "manifest_c281ce220f0da48e_ea29af0a3997c06bfd00a54e7d79ab03",
+                    "checksum": "ea29af0a3997c06bfd00a54e7d79ab03",
+                    "compressed_size": "596221",
+                    "uncompressed_size": "1138933"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.yuanshen.com/client_app/sophon/chunks/cxgf44wie1a8/FW5Jsqqpfqku",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.yuanshen.com/client_app/sophon/manifests/cxgf44wie1a8/FW5Jsqqpfqku",
+                    "url_suffix": ""
+                },
+                "matching_field": "ko-kr",
+                "stats": {
+                    "compressed_size": "10587017669",
+                    "uncompressed_size": "12221989787",
+                    "file_count": "124",
+                    "chunk_count": "10196"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "10587017669",
+                    "uncompressed_size": "12221989787",
+                    "file_count": "124",
+                    "chunk_count": "10196"
+                }
+            }
+        ]
+    }
+}
