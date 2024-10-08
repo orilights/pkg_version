@@ -4412,9 +4412,9 @@
         },
         "decompressed_path": "https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20240927184320_gqJy4a3Dv3oQiDRv/ScatteredFiles",
         "chunk": {
-            "branch": "predownload",
+            "branch": "main",
             "package_id": "8xfMve0uwQ",
-            "password": "EPq5oNru9q",
+            "password": "CW8GbLNU8f",
             "tag": "5.1.0"
         }
     }
