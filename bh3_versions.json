@@ -54,5 +54,29 @@
         "update": {},
         "decompressed_path": "https://autopatchcn.bh3.com/ptpublic/rel/20241025151816_Y1hlFtfrB4sR5Scd/PC/extract",
         "chunk": null
+    },
+    "7.9.1": {
+        "game": {
+            "full": {
+                "name": "BH3_v7.9.0_37db88484689_m.7z",
+                "url": "https://autopatchcn.bh3.com/ptpublic/rel/20241031142146_Q5Xm5aZOG1hPyJZW/PC/BH3_v7.9.0_37db88484689_m.7z",
+                "checksum": "7c8ce62b48ecdd54c61c5e140f04e008",
+                "size": 20467806960
+            }
+        },
+        "voice": {},
+        "update": {
+            "7.9.0": {
+                "game": {
+                    "name": "game_7.9.0_7.9.1_diff_eKgosBseIgDxwyKn.7z",
+                    "url": "https://autopatchcn.bh3.com/tmp/pc_client/product/update/bh3_cn/game_7.9.0_7.9.1_diff_eKgosBseIgDxwyKn.7z",
+                    "checksum": "f56c5c15375b5c08ab4af93a2b0276a3",
+                    "size": 9989
+                },
+                "voice": {}
+            }
+        },
+        "decompressed_path": "https://autopatchcn.bh3.com/ptpublic/rel/20241031142146_Q5Xm5aZOG1hPyJZW/PC/extract",
+        "chunk": null
     }
 }
