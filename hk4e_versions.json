@@ -4413,6 +4413,7 @@
         "decompressed_path": "https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20240927184320_gqJy4a3Dv3oQiDRv/ScatteredFiles",
         "chunk": {
             "branch": "main",
+            "diff_tags": [],
             "package_id": "8xfMve0uwQ",
             "password": "CW8GbLNU8f",
             "tag": "5.1.0"

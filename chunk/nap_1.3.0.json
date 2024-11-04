@@ -1,0 +1,195 @@
+{
+    "retcode": 0,
+    "message": "OK",
+    "data": {
+        "build_id": "DaI3kolUKKQ2",
+        "tag": "1.3.0",
+        "manifests": [
+            {
+                "category_id": "10047",
+                "category_name": "游戏资源-外网",
+                "manifest": {
+                    "id": "manifest_e0efcbff041a41b9_41642f2aa8ff59e37e4320f6467b3d28",
+                    "checksum": "41642f2aa8ff59e37e4320f6467b3d28",
+                    "compressed_size": "5487366",
+                    "uncompressed_size": "10652538"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/10047",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/10047",
+                    "url_suffix": ""
+                },
+                "matching_field": "game",
+                "stats": {
+                    "compressed_size": "66176243589",
+                    "uncompressed_size": "72299840803",
+                    "file_count": "9984",
+                    "chunk_count": "66429"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "65993287211",
+                    "uncompressed_size": "72096516902",
+                    "file_count": "9984",
+                    "chunk_count": "66220"
+                }
+            },
+            {
+                "category_id": "10048",
+                "category_name": "语音包-中文-外网",
+                "manifest": {
+                    "id": "manifest_81f9ddfe82916cab_21cec0265322564763f0c46b119bd8f5",
+                    "checksum": "21cec0265322564763f0c46b119bd8f5",
+                    "compressed_size": "63512",
+                    "uncompressed_size": "118108"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/10048",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/10048",
+                    "url_suffix": ""
+                },
+                "matching_field": "zh-cn",
+                "stats": {
+                    "compressed_size": "914479816",
+                    "uncompressed_size": "919595361",
+                    "file_count": "20",
+                    "chunk_count": "795"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "914479816",
+                    "uncompressed_size": "919595361",
+                    "file_count": "20",
+                    "chunk_count": "795"
+                }
+            },
+            {
+                "category_id": "10049",
+                "category_name": "语音包-英文-外网",
+                "manifest": {
+                    "id": "manifest_00be271a08c75ae6_4f8f69e7ccc937935ad55bae371cfa89",
+                    "checksum": "4f8f69e7ccc937935ad55bae371cfa89",
+                    "compressed_size": "64287",
+                    "uncompressed_size": "119476"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/10049",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/10049",
+                    "url_suffix": ""
+                },
+                "matching_field": "en-us",
+                "stats": {
+                    "compressed_size": "941007935",
+                    "uncompressed_size": "946812507",
+                    "file_count": "20",
+                    "chunk_count": "804"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "941007935",
+                    "uncompressed_size": "946812507",
+                    "file_count": "20",
+                    "chunk_count": "804"
+                }
+            },
+            {
+                "category_id": "10050",
+                "category_name": "语音包-韩文-外网",
+                "manifest": {
+                    "id": "manifest_f3775d70e0f48e4d_1eaed04476eb014783169558ca3ac48d",
+                    "checksum": "1eaed04476eb014783169558ca3ac48d",
+                    "compressed_size": "71436",
+                    "uncompressed_size": "132671"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/10050",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/10050",
+                    "url_suffix": ""
+                },
+                "matching_field": "ko-kr",
+                "stats": {
+                    "compressed_size": "1047709935",
+                    "uncompressed_size": "1052932890",
+                    "file_count": "20",
+                    "chunk_count": "895"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "1047709935",
+                    "uncompressed_size": "1052932890",
+                    "file_count": "20",
+                    "chunk_count": "895"
+                }
+            },
+            {
+                "category_id": "10051",
+                "category_name": "语音包-日文-外网",
+                "manifest": {
+                    "id": "manifest_097638dc07db53aa_17ae7ab78c868837965b446b6aa43888",
+                    "checksum": "17ae7ab78c868837965b446b6aa43888",
+                    "compressed_size": "78860",
+                    "uncompressed_size": "146432"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/10051",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/10051",
+                    "url_suffix": ""
+                },
+                "matching_field": "ja-jp",
+                "stats": {
+                    "compressed_size": "1160854356",
+                    "uncompressed_size": "1166136927",
+                    "file_count": "20",
+                    "chunk_count": "989"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "1160854356",
+                    "uncompressed_size": "1166136927",
+                    "file_count": "20",
+                    "chunk_count": "989"
+                }
+            }
+        ]
+    }
+}
