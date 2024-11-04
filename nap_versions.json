@@ -361,13 +361,7 @@
             }
         },
         "decompressed_path": "https://autopatchcn.juequling.com/package_download/op/client_app/download/20240911115906_wjfScbWlNMAKDsNd/SplitAudioZip",
-        "chunk": {
-            "branch": "main",
-            "diff_tags": [],
-            "package_id": "FfGDa3bsvp",
-            "password": "FJCF1CT6Z4nz",
-            "tag": "1.2.0"
-        }
+        "chunk": null
     },
     "1.3.0": {
         "game": {
