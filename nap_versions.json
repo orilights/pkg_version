@@ -702,10 +702,10 @@
         },
         "decompressed_path": "https://autopatchcn.juequling.com/package_download/op/client_app/download/20241206104439_q0vK6ciW6eHU9uUG/SplitAudioZip",
         "chunk": {
-            "branch": "predownload",
+            "branch": "main",
             "diff_tags": [],
             "package_id": "FfGDa3bsvp",
-            "password": "xGT32wXaBk86",
+            "password": "FJCF1CT6Z4nz",
             "tag": "1.4.0"
         }
     }
