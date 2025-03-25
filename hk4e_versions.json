@@ -5047,13 +5047,13 @@
         },
         "decompressed_path": "https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20250314105313_OcRjEyGXX8Txtqm4/ScatteredFiles",
         "chunk": {
-            "branch": "predownload",
+            "branch": "main",
             "diff_tags": [
                 "5.4.0",
                 "5.3.0"
             ],
             "package_id": "8xfMve0uwQ",
-            "password": "EPq5oNru9q",
+            "password": "CW8GbLNU8f",
             "tag": "5.5.0"
         }
     }
