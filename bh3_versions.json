@@ -106,5 +106,19 @@
         "update": {},
         "decompressed_path": "https://autopatchcn.bh3.com/ptpublic/rel/20250120104717_JKPilwZ9G9BSw6JF/PC/extract",
         "chunk": null
+    },
+    "8.2.0": {
+        "game": {
+            "full": {
+                "name": "BH3_v8.2.0_070c445c9ac0.7z",
+                "url": "https://autopatchcn.bh3.com/ptpublic/rel/20250321105946_GHQTTjbASRjRe2s6/PC/BH3_v8.2.0_070c445c9ac0.7z",
+                "checksum": "9f16eb08a73c55f258b9844ed2095435",
+                "size": 21834314960
+            }
+        },
+        "voice": {},
+        "update": {},
+        "decompressed_path": "https://autopatchcn.bh3.com/ptpublic/rel/20250321105946_GHQTTjbASRjRe2s6/PC/extract",
+        "chunk": null
     }
 }
