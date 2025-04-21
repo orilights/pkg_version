@@ -5048,6 +5048,7 @@
         "decompressed_path": "https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20250314105313_OcRjEyGXX8Txtqm4/ScatteredFiles",
         "chunk": {
             "branch": "main",
+            "categories": [],
             "diff_tags": [
                 "5.4.0",
                 "5.3.0"
