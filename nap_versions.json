@@ -1217,7 +1217,6 @@
         "decompressed_path": "https://autopatchcn.juequling.com/package_download/op/client_app/download/20250401110033_AUTTA15vOBQ6Ll40/SplitAudioZip",
         "chunk": {
             "branch": "main",
-            "categories": [],
             "diff_tags": [
                 "1.6.0",
                 "1.5.0"
