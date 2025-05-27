@@ -1,0 +1,47 @@
+{
+    "retcode": 0,
+    "message": "OK",
+    "data": {
+        "build_id": "6H8QvYqRWaj3",
+        "tag": "8.3.0",
+        "manifests": [
+            {
+                "category_id": "10059",
+                "category_name": "游戏资源-外网",
+                "manifest": {
+                    "id": "manifest_508e9e9d2983d830_69ef4144ca29a0371f5e46957271427a",
+                    "checksum": "69ef4144ca29a0371f5e46957271427a",
+                    "compressed_size": "2025988",
+                    "uncompressed_size": "3781745"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.bh3.com/ptpublic/rel/chunk/chunks/cxi8tkx5vdog/6H8QvYqRWaj3",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.bh3.com/ptpublic/rel/chunk/manifests/cxi8tkx5vdog/6H8QvYqRWaj3",
+                    "url_suffix": ""
+                },
+                "matching_field": "game",
+                "stats": {
+                    "compressed_size": "26670056736",
+                    "uncompressed_size": "29873992741",
+                    "file_count": "944",
+                    "chunk_count": "25444"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "26660263222",
+                    "uncompressed_size": "29852040307",
+                    "file_count": "944",
+                    "chunk_count": "25429"
+                }
+            }
+        ]
+    }
+}
