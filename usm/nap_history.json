@@ -1202,6 +1202,12 @@
                 "state": "AVAILABLE",
                 "md5": "ce8cd3e6ce1270930ece903772436ac4",
                 "size": 1593152
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "f16209ef183f03ebed41e80c9caea94e",
+                "size": 967808
             }
         ]
     },
@@ -2041,7 +2047,7 @@
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/ManualQTEDialog_AutoMode.usm": {
         "filename": "ManualQTEDialog_AutoMode.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
@@ -2054,12 +2060,18 @@
                 "state": "AVAILABLE",
                 "md5": "15aa7736f5bc803220efc67921cd26e8",
                 "size": 6029312
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/ManualQTEDialog_ManualMode.usm": {
         "filename": "ManualQTEDialog_ManualMode.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
@@ -2072,6 +2084,12 @@
                 "state": "AVAILABLE",
                 "md5": "1a41345d116e95041f657c1a7c59e56f",
                 "size": 7450560
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -3343,7 +3361,7 @@
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_Ellen.usm": {
         "filename": "Gacha_Ellen.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
@@ -3356,6 +3374,12 @@
                 "state": "AVAILABLE",
                 "md5": "939413a55916e5ed07ee9d4b199fe6d5",
                 "size": 6238496
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -3673,7 +3697,7 @@
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_ZhuYuan.usm": {
         "filename": "Gacha_ZhuYuan.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
@@ -3686,6 +3710,12 @@
                 "state": "AVAILABLE",
                 "md5": "f57aa845fda0d9ca5466a645ed8f0eb4",
                 "size": 10590144
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -4766,6 +4796,12 @@
                 "state": "AVAILABLE",
                 "md5": "49b3d5a89ea8f5ac36a652ce70c64331",
                 "size": 29942016
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "6efaf95653f61b6df453fcfcd969d6e9",
+                "size": 29942016
             }
         ]
     },
@@ -4843,6 +4879,12 @@
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "f1151be659cc16804c91221549357731",
+                "size": 29698496
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "c046b2edeeb72833bd99fddc97456585",
                 "size": 29698496
             }
         ]
@@ -5077,6 +5119,12 @@
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "f5ee8fa211607193b14cc03469593a0f",
+                "size": 24502752
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "e6b26d4ee66b43dc4282e671c4c58e33",
                 "size": 24502752
             }
         ]
@@ -9524,6 +9572,12 @@
                 "state": "AVAILABLE",
                 "md5": "b8d9ee6de115b32ecdef530ab56ddd8b",
                 "size": 1059296
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "28beeefbc5abbe620799d5888b3e9546",
+                "size": 838816
             }
         ]
     },
@@ -9542,6 +9596,12 @@
                 "state": "AVAILABLE",
                 "md5": "cd87d0a02be23278a8d79c85558bd4e1",
                 "size": 1117184
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "2f4935f6866eac0631ecb7afb62f59ba",
+                "size": 1068992
             }
         ]
     },
@@ -11534,6 +11594,12 @@
                 "state": "AVAILABLE",
                 "md5": "5806397d0ccf2d1eba68f254d6ec0680",
                 "size": 7007616
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "dfc3ae5043366dd0eaf09f1b09200735",
+                "size": 8907488
             }
         ]
     },
@@ -11546,6 +11612,12 @@
                 "state": "AVAILABLE",
                 "md5": "58adafc911e77ae65940421d172a86e8",
                 "size": 10776224
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "7d979f4e4225bfcdd463a6deaf1e3f24",
+                "size": 5249408
             }
         ]
     },
@@ -11558,6 +11630,12 @@
                 "state": "AVAILABLE",
                 "md5": "11f36362324bd59e90dce98899511940",
                 "size": 13155680
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "a84cb24063161f14fb6ab17445eddd98",
+                "size": 5641312
             }
         ]
     },
@@ -11576,6 +11654,12 @@
                 "state": "AVAILABLE",
                 "md5": "3a2a01f253ae2deac865db12a6e1bc75",
                 "size": 17722560
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "1075e8f153ef9530b6fa735f16a53a30",
+                "size": 7597344
             }
         ]
     },
@@ -11588,6 +11672,12 @@
                 "state": "AVAILABLE",
                 "md5": "c650f20c2658accd1b871fc69a5821ac",
                 "size": 13147328
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "f4cffced982108b891daac1892817da8",
+                "size": 9648896
             }
         ]
     },
@@ -11600,6 +11690,12 @@
                 "state": "AVAILABLE",
                 "md5": "6b8be82c6bb55cf2de8bbcb8ea8eff8d",
                 "size": 15969312
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "d889a6217d7631c5dd2fd68ce39db6cc",
+                "size": 6641856
             }
         ]
     },
@@ -11612,6 +11708,12 @@
                 "state": "AVAILABLE",
                 "md5": "dbe288f16f38b7ccd5ea96be8c67fe8b",
                 "size": 25847872
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "ef26424f56408273d5601f6594826aae",
+                "size": 11008576
             }
         ]
     },
@@ -11624,6 +11726,12 @@
                 "state": "AVAILABLE",
                 "md5": "9c924b66f67075d72aebd76b1b6ea5af",
                 "size": 16073728
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "9fc6ef212933533a149d277be7c938c6",
+                "size": 7300256
             }
         ]
     },
@@ -11636,6 +11744,12 @@
                 "state": "AVAILABLE",
                 "md5": "098e5e423b3fa9780945c8b7c3c5d9ec",
                 "size": 14796640
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "d10ee855961affc8675a3dee00e9755c",
+                "size": 6023168
             }
         ]
     },
@@ -11660,6 +11774,12 @@
                 "state": "AVAILABLE",
                 "md5": "165873cf4cde4adcf170cf9b844b7cb0",
                 "size": 22677600
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "88a3fa58f8c03f08dc2fcab25214fb77",
+                "size": 9623808
             }
         ]
     },
@@ -11672,6 +11792,12 @@
                 "state": "AVAILABLE",
                 "md5": "8715f3601e567b5dea962ffdc9aa4d13",
                 "size": 17215968
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "e993dedd031f742d9909b087a5dbef4d",
+                "size": 7817120
             }
         ]
     },
@@ -11684,6 +11810,12 @@
                 "state": "AVAILABLE",
                 "md5": "48322670675db15c5332b990a2cd59da",
                 "size": 12459200
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "fdc2413405c5a250dc5a41a7fd06f3e9",
+                "size": 5168672
             }
         ]
     },
@@ -11696,6 +11828,12 @@
                 "state": "AVAILABLE",
                 "md5": "44dc1e737b103a593b3b0e1d416b069c",
                 "size": 24230144
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "59c7a166535e1dfa6e6ded0dc1012dff",
+                "size": 10347424
             }
         ]
     },
@@ -11708,6 +11846,12 @@
                 "state": "AVAILABLE",
                 "md5": "997709fe3010a69364a9d369d89c8af6",
                 "size": 8700544
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "8db5dc4803a8ee567358f9b158cf95e7",
+                "size": 5653216
             }
         ]
     },
@@ -11720,6 +11864,12 @@
                 "state": "AVAILABLE",
                 "md5": "7b4b88d99efcd51906ddd31797297658",
                 "size": 20026816
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "943d45789be864949dbc1cc908498772",
+                "size": 8965728
             }
         ]
     },
@@ -11732,6 +11882,12 @@
                 "state": "AVAILABLE",
                 "md5": "91e7abee74e0a7b4950dd0f217160ac0",
                 "size": 72956800
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "9e43056a1d7dac654a63eb56ac80c76c",
+                "size": 35704160
             }
         ]
     },
@@ -11762,6 +11918,12 @@
                 "state": "AVAILABLE",
                 "md5": "f5c666ee61083b237885b017dc2c9d60",
                 "size": 14773408
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "eb78bc7d65487bc64a30fc0f00f15563",
+                "size": 6360192
             }
         ]
     },
@@ -11792,6 +11954,12 @@
                 "state": "AVAILABLE",
                 "md5": "98502b6fde47d94582230574bca57808",
                 "size": 33283872
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "ce8433f4e9eb72c5cbe0c4486991ff79",
+                "size": 15360640
             }
         ]
     },
@@ -11804,6 +11972,12 @@
                 "state": "AVAILABLE",
                 "md5": "9cbcd627fdcc6aaa073037434989d67e",
                 "size": 25190944
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "408761c52f5a7a1c10443935602af513",
+                "size": 10313760
             }
         ]
     },
@@ -11816,6 +11990,12 @@
                 "state": "AVAILABLE",
                 "md5": "4a81e325a513e31dcd8176227bf3c7e1",
                 "size": 23010624
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "09f192302bd5ae4b24437a334991229f",
+                "size": 10050240
             }
         ]
     },
@@ -11828,6 +12008,12 @@
                 "state": "AVAILABLE",
                 "md5": "ff752352092a3fde6077c002329cc8dc",
                 "size": 18581952
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "49f5ba2edb26c6e2a6c46e102f40ae0a",
+                "size": 7557248
             }
         ]
     },
@@ -11840,6 +12026,12 @@
                 "state": "AVAILABLE",
                 "md5": "7da843d349bba5c73404022224027520",
                 "size": 18425952
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "0bafff628208c30a931a192c1baa357a",
+                "size": 7383296
             }
         ]
     },
@@ -11888,6 +12080,12 @@
                 "state": "AVAILABLE",
                 "md5": "6fcd0a05b8f7c6949f6aa1d07a0cc74a",
                 "size": 117952
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "c384314de0f0b339f048a47172bf82c8",
+                "size": 90400
             }
         ]
     },
@@ -12667,49 +12865,73 @@
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Chinese/MainStoryChapter00.usm": {
         "filename": "MainStoryChapter00.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "bde2f143fdfc06cbe06ee2543a2c0e8a",
                 "size": 6238624
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Chinese/MainStoryChapter00_Cn.usm": {
         "filename": "MainStoryChapter00_Cn.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "70a63cfc81932c19fda6e4d9f79a8c6f",
                 "size": 5584992
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Chinese/MainStoryChapter01.usm": {
         "filename": "MainStoryChapter01.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "7a0378fcd18152e7046c7e1d0379c8c7",
                 "size": 5714592
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Chinese/MainStoryChapter01_Cn.usm": {
         "filename": "MainStoryChapter01_Cn.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "a3639cbf949871f3887fab582b814cf6",
                 "size": 5147584
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -12733,757 +12955,1135 @@
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Chinese/MainStoryChapter02_Cn.usm": {
         "filename": "MainStoryChapter02_Cn.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "a524237f4f3a05a90bf63c30de851052",
                 "size": 5825088
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Chinese/MainStoryChapter03_Cn.usm": {
         "filename": "MainStoryChapter03_Cn.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "32ac804d40afbaf60ede5230ee5474c8",
                 "size": 5918016
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/CHS/MainStoryChapter02Interlude_CHS.usm": {
         "filename": "MainStoryChapter02Interlude_CHS.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "5f72cd1a97b1bb49b7d915e73430e26d",
                 "size": 5193728
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/CHT/MainStoryChapter02Interlude_CHT.usm": {
         "filename": "MainStoryChapter02Interlude_CHT.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "00b6d598d507c4932e1dbd1c2aea0b4d",
                 "size": 5143328
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/DE/MainStoryChapter00_De.usm": {
         "filename": "MainStoryChapter00_De.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "6e135b600c6bd38981103b2e6a670e72",
                 "size": 5819648
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/DE/MainStoryChapter01_De.usm": {
         "filename": "MainStoryChapter01_De.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "59ca311de4ea3173b7575d209f13a522",
                 "size": 5678688
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/DE/MainStoryChapter02Interlude_DE.usm": {
         "filename": "MainStoryChapter02Interlude_DE.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "e781bfae11b3440e80177bbb281856ee",
                 "size": 5736320
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/DE/MainStoryChapter02_De.usm": {
         "filename": "MainStoryChapter02_De.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "93dedef4508efa7a996aafabfaa18f81",
                 "size": 5911584
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/DE/MainStoryChapter03_De.usm": {
         "filename": "MainStoryChapter03_De.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "d87184a9d174c526a41604db3f0249e3",
                 "size": 5579840
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/EN/MainStoryChapter02Interlude_EN.usm": {
         "filename": "MainStoryChapter02Interlude_EN.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "00ec6694373eaddd86790120177dc6ed",
                 "size": 5687360
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/English/MainStoryChapter00_En.usm": {
         "filename": "MainStoryChapter00_En.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "c09a5b22cec944eee3c6fcd3f1c02524",
                 "size": 6106336
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/English/MainStoryChapter01_En.usm": {
         "filename": "MainStoryChapter01_En.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "84f51845e3ba28f9f2af07697a5609be",
                 "size": 5747840
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/English/MainStoryChapter02_En.usm": {
         "filename": "MainStoryChapter02_En.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "2706445215fc68fb9da4cda26113a4e9",
                 "size": 5979584
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/English/MainStoryChapter03_En.usm": {
         "filename": "MainStoryChapter03_En.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "78f4f659763145dd2313d632e402c794",
                 "size": 5834624
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ES/MainStoryChapter02Interlude_ES.usm": {
         "filename": "MainStoryChapter02Interlude_ES.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "2a7721dd89be79cee80f65c9b1427c32",
                 "size": 5593568
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/FR/MainStoryChapter00_Fr.usm": {
         "filename": "MainStoryChapter00_Fr.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "b5a36be6378113788a1c3bf389845eea",
                 "size": 5724896
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/FR/MainStoryChapter01_Fr.usm": {
         "filename": "MainStoryChapter01_Fr.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "1862d55a66bd5f9792b311ecf3f9445c",
                 "size": 5627584
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/FR/MainStoryChapter02Interlude_FR.usm": {
         "filename": "MainStoryChapter02Interlude_FR.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "9f75332497c31164be5bf5c34e53d1cb",
                 "size": 5859712
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/FR/MainStoryChapter02_Fr.usm": {
         "filename": "MainStoryChapter02_Fr.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "5e8e2fbef6c883d5df8e95d2e3701c68",
                 "size": 5794368
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/FR/MainStoryChapter03_Fr.usm": {
         "filename": "MainStoryChapter03_Fr.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "6415dd8ab93fcd5899cbc4b08e0271bb",
                 "size": 5640800
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ID/MainStoryChapter02Interlude_ID.usm": {
         "filename": "MainStoryChapter02Interlude_ID.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "9859ae71d69e9b1d8522b41deb341424",
                 "size": 5352288
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Indonesia/MainStoryChapter00_INa.usm": {
         "filename": "MainStoryChapter00_INa.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "9f10fa554aa0eb825d64ba412d238595",
                 "size": 6214400
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Indonesia/MainStoryChapter01_INa.usm": {
         "filename": "MainStoryChapter01_INa.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "398ac19ec76f49b037c965a4156bb1d1",
                 "size": 5871552
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Indonesia/MainStoryChapter02_INa.usm": {
         "filename": "MainStoryChapter02_INa.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "bcbdf996a6961bb6e41b10d1e616b4ad",
                 "size": 5754336
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Indonesia/MainStoryChapter03_INa.usm": {
         "filename": "MainStoryChapter03_INa.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "286c5fbebd22d5ebe0f9ee3a510f0399",
                 "size": 6014304
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/JA/MainStoryChapter02Interlude_JA.usm": {
         "filename": "MainStoryChapter02Interlude_JA.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "b919d3b455590212845aaa769a21751a",
                 "size": 5972064
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Japanese/MainStoryChapter00_Jp.usm": {
         "filename": "MainStoryChapter00_Jp.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "10a899d4f96de3784271f5cc82c7acb4",
                 "size": 5997664
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Japanese/MainStoryChapter01_Jp.usm": {
         "filename": "MainStoryChapter01_Jp.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "5944ff617d738ed57f0504a67bd0f90b",
                 "size": 5734080
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Japanese/MainStoryChapter02_Jp.usm": {
         "filename": "MainStoryChapter02_Jp.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "a07d23abff43fd1a13df9ebb202fee93",
                 "size": 5896672
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Japanese/MainStoryChapter03_Jp.usm": {
         "filename": "MainStoryChapter03_Jp.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "18f86ede5fe4a4eeb9ff9ca36c8d56f7",
                 "size": 5827584
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/KO/MainStoryChapter02Interlude_KO.usm": {
         "filename": "MainStoryChapter02Interlude_KO.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "d3417ccd5e0d30b231627f8af87920b1",
                 "size": 4881856
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Korean/MainStoryChapter00_Kr.usm": {
         "filename": "MainStoryChapter00_Kr.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "3dc159c892effea57e64d119d7113257",
                 "size": 5490304
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Korean/MainStoryChapter01_Kr.usm": {
         "filename": "MainStoryChapter01_Kr.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "fc0f4b18035df8a93803050d369638d8",
                 "size": 5538272
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Korean/MainStoryChapter02_Kr.usm": {
         "filename": "MainStoryChapter02_Kr.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "14c7aa855041ea03286f7dd69d5844a5",
                 "size": 5906080
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Korean/MainStoryChapter03_Kr.usm": {
         "filename": "MainStoryChapter03_Kr.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "9cc0b9f8b14ea746c46f62a55601052a",
                 "size": 5907008
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/PT/MainStoryChapter00_Pt.usm": {
         "filename": "MainStoryChapter00_Pt.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "689f58c3c3a6558d77b86b74efd33920",
                 "size": 5949408
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/PT/MainStoryChapter01_Pt.usm": {
         "filename": "MainStoryChapter01_Pt.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "33615e1582cd21f41d2277ce31aa78c9",
                 "size": 5805728
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/PT/MainStoryChapter02Interlude_PT.usm": {
         "filename": "MainStoryChapter02Interlude_PT.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "128565dde19cf5d7ee12e68a65973f56",
                 "size": 5883680
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/PT/MainStoryChapter02_Pt.usm": {
         "filename": "MainStoryChapter02_Pt.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "902188d00315d6ae2cfcba16b3e48ed3",
                 "size": 6019488
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/PT/MainStoryChapter03_Pt.usm": {
         "filename": "MainStoryChapter03_Pt.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "5abca19150194d8ef5d07bcf3e5d81ad",
                 "size": 5977952
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/RU/MainStoryChapter00_Ru.usm": {
         "filename": "MainStoryChapter00_Ru.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "3c8687f0f0c9ad9cd1485e344c043e0d",
                 "size": 5984960
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/RU/MainStoryChapter01_Ru.usm": {
         "filename": "MainStoryChapter01_Ru.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "7411733e9fab371d1943ef6840a4c30a",
                 "size": 5561056
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/RU/MainStoryChapter02Interlude_RU.usm": {
         "filename": "MainStoryChapter02Interlude_RU.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "667dcb0f41cdfc6732d6cc2601356a56",
                 "size": 6183808
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/RU/MainStoryChapter02_Ru.usm": {
         "filename": "MainStoryChapter02_Ru.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "00765e39cab0d723699fd7fac3322b8e",
                 "size": 5555616
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/RU/MainStoryChapter03_Ru.usm": {
         "filename": "MainStoryChapter03_Ru.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "431484ade9dc5b9a1084a83af3f5f5df",
                 "size": 5765824
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Spanish/MainStoryChapter00_Es.usm": {
         "filename": "MainStoryChapter00_Es.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "bd01f55903e532c5e81b118a8e38d012",
                 "size": 6105152
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Spanish/MainStoryChapter01_Es.usm": {
         "filename": "MainStoryChapter01_Es.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "8d0d6711d29c02c001418c2fdc565e26",
                 "size": 6014496
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Spanish/MainStoryChapter02_Es.usm": {
         "filename": "MainStoryChapter02_Es.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "2a65cb3cf3e90123aea799a15fc9a060",
                 "size": 5837568
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/Spanish/MainStoryChapter03_Es.usm": {
         "filename": "MainStoryChapter03_Es.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "c7eb9ab46777e92d90109f3a618724d4",
                 "size": 5944064
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/TH/MainStoryChapter02Interlude_TH.usm": {
         "filename": "MainStoryChapter02Interlude_TH.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "d4e665c00bb6db3c031726ee3e825520",
                 "size": 5994592
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ThaiLanguage/MainStoryChapter00_Th.usm": {
         "filename": "MainStoryChapter00_Th.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "8d8e09ca644d82d2f903d7bc69fd5218",
                 "size": 6054240
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ThaiLanguage/MainStoryChapter01_Th.usm": {
         "filename": "MainStoryChapter01_Th.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "ba0628c52d3cfdb7f626298ebf7dc8f8",
                 "size": 5925632
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ThaiLanguage/MainStoryChapter02_Th.usm": {
         "filename": "MainStoryChapter02_Th.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "436e731d99f63e3cae0235692b093a90",
                 "size": 6019232
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ThaiLanguage/MainStoryChapter03_Th.usm": {
         "filename": "MainStoryChapter03_Th.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "d0c50e2ae93fcb0c1dbbba15aa5c6b99",
                 "size": 5883776
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/TraditionalChinese/MainStoryChapter00_TCh.usm": {
         "filename": "MainStoryChapter00_TCh.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "91a5aac93ada4b21760b1f03bc400bfe",
                 "size": 5611936
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/TraditionalChinese/MainStoryChapter01_TCh.usm": {
         "filename": "MainStoryChapter01_TCh.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "3b43173ebda9e28f4802da955266d68a",
                 "size": 5431424
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/TraditionalChinese/MainStoryChapter02_TCh.usm": {
         "filename": "MainStoryChapter02_TCh.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "9ebe2c1270a2691381f4f875fc64bdab",
                 "size": 5849504
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/TraditionalChinese/MainStoryChapter03_TCh.usm": {
         "filename": "MainStoryChapter03_TCh.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "7ea6b1f6a9c29abbeb479588ce539ba0",
                 "size": 5960416
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/VI/MainStoryChapter00_Vi.usm": {
         "filename": "MainStoryChapter00_Vi.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "2dc397c45ca6d00a9ee9a90f97172580",
                 "size": 5621184
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/VI/MainStoryChapter01_Vi.usm": {
         "filename": "MainStoryChapter01_Vi.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "1b770d19af9cb81f2c472661a2b855e8",
                 "size": 5391264
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/VI/MainStoryChapter02Interlude_VI.usm": {
         "filename": "MainStoryChapter02Interlude_VI.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "a1c374cfc73a8604fedc8d2147726d05",
                 "size": 6050400
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/VI/MainStoryChapter02_Vi.usm": {
         "filename": "MainStoryChapter02_Vi.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "993fc2ec195613d30fd66002ec914db4",
                 "size": 5347456
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/VI/MainStoryChapter03_Vi.usm": {
         "filename": "MainStoryChapter03_Vi.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "10dda41f994f40b748124dc3d3aca491",
                 "size": 5201728
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -15121,6 +15721,12 @@
                 "version": "1.0.0",
                 "state": "AVAILABLE",
                 "md5": "c7b3b2ba1160e0ce680e86157ce66074",
+                "size": 11040
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "37b701e7722d47e98a2dc9fee40d782e",
                 "size": 11040
             }
         ]
@@ -18601,13 +19207,19 @@
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_Jane.usm": {
         "filename": "Gacha_Jane.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.1.0",
                 "state": "AVAILABLE",
                 "md5": "bbfe1fca103143b6f85d428c74a8f781",
                 "size": 4617504
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -18733,13 +19345,19 @@
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_QingYi.usm": {
         "filename": "Gacha_QingYi.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.1.0",
                 "state": "AVAILABLE",
                 "md5": "74b0449f7d2af39ec7898c53a9277c04",
                 "size": 5460288
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -19147,157 +19765,235 @@
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/CHS/SpecialEpisodesChapter01_CHS.usm": {
         "filename": "SpecialEpisodesChapter01_CHS.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.1.0",
                 "state": "AVAILABLE",
                 "md5": "f9ca2822aa9f7d1da37f2284c7331e12",
                 "size": 5185472
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/CHT/SpecialEpisodesChapter01_CHT.usm": {
         "filename": "SpecialEpisodesChapter01_CHT.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.1.0",
                 "state": "AVAILABLE",
                 "md5": "061dc120fce028ac2918e1cf71aef39a",
                 "size": 5114816
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/DE/SpecialEpisodesChapter01_DE.usm": {
         "filename": "SpecialEpisodesChapter01_DE.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.1.0",
                 "state": "AVAILABLE",
                 "md5": "05eb3502f143c36febab5ea3b61cc337",
                 "size": 6066048
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/EN/SpecialEpisodesChapter01_EN.usm": {
         "filename": "SpecialEpisodesChapter01_EN.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.1.0",
                 "state": "AVAILABLE",
                 "md5": "223b5c9070dccc93dd23c9e8d22019ef",
                 "size": 5835840
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ES/SpecialEpisodesChapter01_ES.usm": {
         "filename": "SpecialEpisodesChapter01_ES.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.1.0",
                 "state": "AVAILABLE",
                 "md5": "a42a265ce230aacf00d71474a3cd6cd9",
                 "size": 6225408
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/FR/SpecialEpisodesChapter01_FR.usm": {
         "filename": "SpecialEpisodesChapter01_FR.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.1.0",
                 "state": "AVAILABLE",
                 "md5": "ca42f7b2ed2082e2eb32c1c849723994",
                 "size": 6086976
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ID/SpecialEpisodesChapter01_ID.usm": {
         "filename": "SpecialEpisodesChapter01_ID.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.1.0",
                 "state": "AVAILABLE",
                 "md5": "0e8c44c5c096eb3eed76abadce781544",
                 "size": 5962336
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/JA/SpecialEpisodesChapter01_JA.usm": {
         "filename": "SpecialEpisodesChapter01_JA.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.1.0",
                 "state": "AVAILABLE",
                 "md5": "0f702d499be16584e4825fbac6c4b9ba",
                 "size": 5859584
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/KO/SpecialEpisodesChapter01_KO.usm": {
         "filename": "SpecialEpisodesChapter01_KO.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.1.0",
                 "state": "AVAILABLE",
                 "md5": "aeb5a748bc823f1d443049b4093fa701",
                 "size": 5974880
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/PT/SpecialEpisodesChapter01_PT.usm": {
         "filename": "SpecialEpisodesChapter01_PT.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.1.0",
                 "state": "AVAILABLE",
                 "md5": "6133f5d7c8c615883f05345e48dc3dba",
                 "size": 5867648
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/RU/SpecialEpisodesChapter01_RU.usm": {
         "filename": "SpecialEpisodesChapter01_RU.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.1.0",
                 "state": "AVAILABLE",
                 "md5": "21e8af18da4b3336a05ae094d5d58016",
                 "size": 6122656
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/TH/SpecialEpisodesChapter01_TH.usm": {
         "filename": "SpecialEpisodesChapter01_TH.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.1.0",
                 "state": "AVAILABLE",
                 "md5": "9252b587737e090c7332d2599b290df6",
                 "size": 5597952
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/VI/SpecialEpisodesChapter01_VI.usm": {
         "filename": "SpecialEpisodesChapter01_VI.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.1.0",
                 "state": "AVAILABLE",
                 "md5": "9f609ada4f3c630e0d8b1af52d1de3ed",
                 "size": 6004384
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -20143,13 +20839,19 @@
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_Burnice.usm": {
         "filename": "Gacha_Burnice.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.2.0",
                 "state": "AVAILABLE",
                 "md5": "6db88f6188114b6f4f802dbe1646092c",
                 "size": 6988640
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -20372,162 +21074,246 @@
                 "state": "AVAILABLE",
                 "md5": "755464638c1f42d73343a975d46524a3",
                 "size": 21481152
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "c0070a723530eceac23d91f0d748d2c2",
+                "size": 8681472
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/CHS/MainStoryChapter04_CHS.usm": {
         "filename": "MainStoryChapter04_CHS.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.2.0",
                 "state": "AVAILABLE",
                 "md5": "87a7ceeb9430a7dd8dee2a277058f3fe",
                 "size": 5723584
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/CHT/MainStoryChapter04_CHT.usm": {
         "filename": "MainStoryChapter04_CHT.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.2.0",
                 "state": "AVAILABLE",
                 "md5": "edeb57fb479445c51bf7cff7fe98e6d6",
                 "size": 4994464
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/DE/MainStoryChapter04_DE.usm": {
         "filename": "MainStoryChapter04_DE.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.2.0",
                 "state": "AVAILABLE",
                 "md5": "8c633b7f89d3bedd16bfe22a3ef83ba6",
                 "size": 5970336
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/EN/MainStoryChapter04_EN.usm": {
         "filename": "MainStoryChapter04_EN.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.2.0",
                 "state": "AVAILABLE",
                 "md5": "ee1ee65da0e67a52ae3886872bf842e5",
                 "size": 5844960
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ES/MainStoryChapter04_ES.usm": {
         "filename": "MainStoryChapter04_ES.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.2.0",
                 "state": "AVAILABLE",
                 "md5": "c00028f106e90441d4a8dd53ab76e148",
                 "size": 5902656
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/FR/MainStoryChapter04_FR.usm": {
         "filename": "MainStoryChapter04_FR.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.2.0",
                 "state": "AVAILABLE",
                 "md5": "be801ef2e6d46673e577268aac7861a1",
                 "size": 5458048
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ID/MainStoryChapter04_ID.usm": {
         "filename": "MainStoryChapter04_ID.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.2.0",
                 "state": "AVAILABLE",
                 "md5": "a869c3fb76dfc16bd131a010b2d2bd8f",
                 "size": 5820544
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/JA/MainStoryChapter04_JA.usm": {
         "filename": "MainStoryChapter04_JA.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.2.0",
                 "state": "AVAILABLE",
                 "md5": "602c7e59103a5c687eaf854d1c26239b",
                 "size": 5725792
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/KO/MainStoryChapter04_KO.usm": {
         "filename": "MainStoryChapter04_KO.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.2.0",
                 "state": "AVAILABLE",
                 "md5": "e211b5b44697a4d1256c80d579c77af8",
                 "size": 5850048
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/PT/MainStoryChapter04_PT.usm": {
         "filename": "MainStoryChapter04_PT.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.2.0",
                 "state": "AVAILABLE",
                 "md5": "c08d2ca8f6413143c97de76639d12ac1",
                 "size": 5956192
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/RU/MainStoryChapter04_RU.usm": {
         "filename": "MainStoryChapter04_RU.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.2.0",
                 "state": "AVAILABLE",
                 "md5": "dc70fa46530e4bb9b790338c9885f0e4",
                 "size": 5513728
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/TH/MainStoryChapter04_TH.usm": {
         "filename": "MainStoryChapter04_TH.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.2.0",
                 "state": "AVAILABLE",
                 "md5": "6f96cb65b73f156b7ff68e9cf470def5",
                 "size": 5413280
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/VI/MainStoryChapter04_VI.usm": {
         "filename": "MainStoryChapter04_VI.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.2.0",
                 "state": "AVAILABLE",
                 "md5": "862d390dcca10aa994a92bd916c73b6b",
                 "size": 5872288
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -21703,25 +22489,37 @@
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_Lighter.usm": {
         "filename": "Gacha_Lighter.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.3.0",
                 "state": "AVAILABLE",
                 "md5": "21006ad30af8d2a4350d095e3210d59e",
                 "size": 5482208
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_Yanagi.usm": {
         "filename": "Gacha_Yanagi.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.3.0",
                 "state": "AVAILABLE",
                 "md5": "bd397dd72f745125dab9153b3fb81826",
                 "size": 6207648
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -21944,6 +22742,12 @@
                 "state": "AVAILABLE",
                 "md5": "09712f194a21d75454c78098c8114d66",
                 "size": 14154528
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "bd45b8b8d104b32ec1d7a5cbff53e772",
+                "size": 7070048
             }
         ]
     },
@@ -22009,7 +22813,7 @@
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/CHS/SpecialEpisodesChapter02_CHS.usm": {
         "filename": "SpecialEpisodesChapter02_CHS.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.3.0",
@@ -22022,12 +22826,18 @@
                 "state": "AVAILABLE",
                 "md5": "a7fa09926f3e69a210f1a20e312c63eb",
                 "size": 5344576
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/CHT/SpecialEpisodesChapter02_CHT.usm": {
         "filename": "SpecialEpisodesChapter02_CHT.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.3.0",
@@ -22040,72 +22850,108 @@
                 "state": "AVAILABLE",
                 "md5": "a39c5180c1607e6efb9498b9ba51bd7e",
                 "size": 5168416
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/DE/SpecialEpisodesChapter02_DE.usm": {
         "filename": "SpecialEpisodesChapter02_DE.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.3.0",
                 "state": "AVAILABLE",
                 "md5": "793db163ff057b315e4666f8422776d7",
                 "size": 5896864
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/EN/SpecialEpisodesChapter02_EN.usm": {
         "filename": "SpecialEpisodesChapter02_EN.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.3.0",
                 "state": "AVAILABLE",
                 "md5": "5f7b63fb11872f4cad1917959c6ae4e6",
                 "size": 5929920
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ES/SpecialEpisodesChapter02_ES.usm": {
         "filename": "SpecialEpisodesChapter02_ES.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.3.0",
                 "state": "AVAILABLE",
                 "md5": "75ee157f58d7e8348feb206973e2e906",
                 "size": 5972224
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/FR/SpecialEpisodesChapter02_FR.usm": {
         "filename": "SpecialEpisodesChapter02_FR.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.3.0",
                 "state": "AVAILABLE",
                 "md5": "095c0825e5118ce38184067ff7691fb5",
                 "size": 6039424
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ID/SpecialEpisodesChapter02_ID.usm": {
         "filename": "SpecialEpisodesChapter02_ID.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.3.0",
                 "state": "AVAILABLE",
                 "md5": "f5b70fea560243a27b89ec296f26ce20",
                 "size": 6006208
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/JA/SpecialEpisodesChapter02_JA.usm": {
         "filename": "SpecialEpisodesChapter02_JA.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.3.0",
@@ -22118,66 +22964,102 @@
                 "state": "AVAILABLE",
                 "md5": "422783359e183449fb8c88225b282150",
                 "size": 6112160
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/KO/SpecialEpisodesChapter02_KO.usm": {
         "filename": "SpecialEpisodesChapter02_KO.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.3.0",
                 "state": "AVAILABLE",
                 "md5": "e84333bfb48f2000ac514a723201ff9a",
                 "size": 5885568
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/PT/SpecialEpisodesChapter02_PT.usm": {
         "filename": "SpecialEpisodesChapter02_PT.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.3.0",
                 "state": "AVAILABLE",
                 "md5": "b13071f020f272cbe6d70b21291c7616",
                 "size": 5918272
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/RU/SpecialEpisodesChapter02_RU.usm": {
         "filename": "SpecialEpisodesChapter02_RU.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.3.0",
                 "state": "AVAILABLE",
                 "md5": "c9ae61d0e880cf318a683caa4e7fe9ec",
                 "size": 5998752
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/TH/SpecialEpisodesChapter02_TH.usm": {
         "filename": "SpecialEpisodesChapter02_TH.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.3.0",
                 "state": "AVAILABLE",
                 "md5": "e20bd63018cd8b7b386b28ad5a9a8666",
                 "size": 5207904
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/VI/SpecialEpisodesChapter02_VI.usm": {
         "filename": "SpecialEpisodesChapter02_VI.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.3.0",
                 "state": "AVAILABLE",
                 "md5": "61ad057b67c3195199f1b7c4d2c88f16",
                 "size": 6068224
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -22394,6 +23276,12 @@
                 "state": "AVAILABLE",
                 "md5": "d882f2b71257cc0b2c8f5237323e2cf1",
                 "size": 10199136
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "e479883489530832ce089d42facdf728",
+                "size": 4112128
             }
         ]
     },
@@ -22975,13 +23863,19 @@
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_Miyabi.usm": {
         "filename": "Gacha_Miyabi.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.4.0",
                 "state": "AVAILABLE",
                 "md5": "36c0643efc8d0c6194a9f3739f34c475",
                 "size": 6536544
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -23054,6 +23948,12 @@
                 "state": "AVAILABLE",
                 "md5": "52c4d9db5b81ab3a6115d9d340baca69",
                 "size": 44376320
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "9538af573685c52affed3eeb0b32eb46",
+                "size": 17875520
             }
         ]
     },
@@ -23066,6 +23966,12 @@
                 "state": "AVAILABLE",
                 "md5": "0a2a709bc0bf3edd21c338f5c69106fe",
                 "size": 31526144
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "9b51e8340612fb27dbc4e658f6e9de24",
+                "size": 17886112
             }
         ]
     },
@@ -23078,162 +23984,246 @@
                 "state": "AVAILABLE",
                 "md5": "422d1ac5a6905dc7f80a0d41ed81de24",
                 "size": 23228160
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "628d4616bbafd6b61391163c707fdcd4",
+                "size": 10879680
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/CHS/MainStoryChapter05_CHS.usm": {
         "filename": "MainStoryChapter05_CHS.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.4.0",
                 "state": "AVAILABLE",
                 "md5": "97b2ed6d57fa8f9938213eb76d34cb87",
                 "size": 5331104
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/CHT/MainStoryChapter05_CHT.usm": {
         "filename": "MainStoryChapter05_CHT.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.4.0",
                 "state": "AVAILABLE",
                 "md5": "90349977d3c1fde15852e93a149a2261",
                 "size": 5175744
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/DE/MainStoryChapter05_DE.usm": {
         "filename": "MainStoryChapter05_DE.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.4.0",
                 "state": "AVAILABLE",
                 "md5": "bd4dbcb9795604f5b71b6394b1d3baee",
                 "size": 5790112
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/EN/MainStoryChapter05_EN.usm": {
         "filename": "MainStoryChapter05_EN.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.4.0",
                 "state": "AVAILABLE",
                 "md5": "0da861668ebc66fc3e19fcdf1881d703",
                 "size": 6050656
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ES/MainStoryChapter05_ES.usm": {
         "filename": "MainStoryChapter05_ES.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.4.0",
                 "state": "AVAILABLE",
                 "md5": "a156327000bc390b57bea91ae2c28a59",
                 "size": 5981568
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/FR/MainStoryChapter05_FR.usm": {
         "filename": "MainStoryChapter05_FR.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.4.0",
                 "state": "AVAILABLE",
                 "md5": "04141b3c8759035d2e3ad487f7903ab5",
                 "size": 5934016
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ID/MainStoryChapter05_ID.usm": {
         "filename": "MainStoryChapter05_ID.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.4.0",
                 "state": "AVAILABLE",
                 "md5": "ec74ae2c9f21ae04566148eb905dcf6f",
                 "size": 5993760
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/JA/MainStoryChapter05_JA.usm": {
         "filename": "MainStoryChapter05_JA.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.4.0",
                 "state": "AVAILABLE",
                 "md5": "78025115bf5e5d78ec1282177dbf844d",
                 "size": 6210304
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/KO/MainStoryChapter05_KO.usm": {
         "filename": "MainStoryChapter05_KO.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.4.0",
                 "state": "AVAILABLE",
                 "md5": "bebb71fd5a59d2b4daef8ae7620081d7",
                 "size": 5576992
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/PT/MainStoryChapter05_PT.usm": {
         "filename": "MainStoryChapter05_PT.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.4.0",
                 "state": "AVAILABLE",
                 "md5": "584ce7058ddc2bb6de1aae2c49103c49",
                 "size": 6056320
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/RU/MainStoryChapter05_RU.usm": {
         "filename": "MainStoryChapter05_RU.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.4.0",
                 "state": "AVAILABLE",
                 "md5": "e2ccc98e9262ca2cb0f749b4a1259754",
                 "size": 5877120
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/TH/MainStoryChapter05_TH.usm": {
         "filename": "MainStoryChapter05_TH.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.4.0",
                 "state": "AVAILABLE",
                 "md5": "833a77a9a48f8979f73ffc30317aa748",
                 "size": 5663616
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/VI/MainStoryChapter05_VI.usm": {
         "filename": "MainStoryChapter05_VI.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.4.0",
                 "state": "AVAILABLE",
                 "md5": "198f8dc9e05d200ece676851e0d95e60",
                 "size": 5616288
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -24013,13 +25003,19 @@
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_Evelyn.usm": {
         "filename": "Gacha_Evelyn.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.5.0",
                 "state": "AVAILABLE",
                 "md5": "f37451a66429a2ca4d57cbdf7552f7d0",
                 "size": 5284128
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -24073,157 +25069,235 @@
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/CHS/SpecialEpisodesChapter03_CHS.usm": {
         "filename": "SpecialEpisodesChapter03_CHS.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.5.0",
                 "state": "AVAILABLE",
                 "md5": "86fb7b77a501bbe49e4fc39b246cdafb",
                 "size": 5509408
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/CHT/SpecialEpisodesChapter03_CHT.usm": {
         "filename": "SpecialEpisodesChapter03_CHT.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.5.0",
                 "state": "AVAILABLE",
                 "md5": "03324da1b12c8ae8a3c04dfb568135d8",
                 "size": 5155808
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/DE/SpecialEpisodesChapter03_DE.usm": {
         "filename": "SpecialEpisodesChapter03_DE.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.5.0",
                 "state": "AVAILABLE",
                 "md5": "5b4743066ed6a64ec418c7ba283e609f",
                 "size": 6028672
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/EN/SpecialEpisodesChapter03_EN.usm": {
         "filename": "SpecialEpisodesChapter03_EN.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.5.0",
                 "state": "AVAILABLE",
                 "md5": "c77de77e6e88bcc25bdf6cac4c2b20d6",
                 "size": 6035680
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ES/SpecialEpisodesChapter03_ES.usm": {
         "filename": "SpecialEpisodesChapter03_ES.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.5.0",
                 "state": "AVAILABLE",
                 "md5": "5d2e486de6fe32a3837b36580589a057",
                 "size": 6128544
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/FR/SpecialEpisodesChapter03_FR.usm": {
         "filename": "SpecialEpisodesChapter03_FR.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.5.0",
                 "state": "AVAILABLE",
                 "md5": "be131e2debb0c4487e29518ca7627650",
                 "size": 6002400
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ID/SpecialEpisodesChapter03_ID.usm": {
         "filename": "SpecialEpisodesChapter03_ID.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.5.0",
                 "state": "AVAILABLE",
                 "md5": "c05aaf3337ab7fa9ea69cb6097cea0a4",
                 "size": 6014880
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/JA/SpecialEpisodesChapter03_JA.usm": {
         "filename": "SpecialEpisodesChapter03_JA.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.5.0",
                 "state": "AVAILABLE",
                 "md5": "5bb824e8548f75ea466683e46f7267eb",
                 "size": 5823040
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/KO/SpecialEpisodesChapter03_KO.usm": {
         "filename": "SpecialEpisodesChapter03_KO.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.5.0",
                 "state": "AVAILABLE",
                 "md5": "b4f75ef0ebe1d3f7fb005c2fb8093916",
                 "size": 5875232
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/PT/SpecialEpisodesChapter03_PT.usm": {
         "filename": "SpecialEpisodesChapter03_PT.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.5.0",
                 "state": "AVAILABLE",
                 "md5": "9506c55a858d0b8f55dd59b2279a465f",
                 "size": 6017664
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/RU/SpecialEpisodesChapter03_RU.usm": {
         "filename": "SpecialEpisodesChapter03_RU.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.5.0",
                 "state": "AVAILABLE",
                 "md5": "ba2a597772a8210641e83c1ed2dd0b08",
                 "size": 6019168
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/TH/SpecialEpisodesChapter03_TH.usm": {
         "filename": "SpecialEpisodesChapter03_TH.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.5.0",
                 "state": "AVAILABLE",
                 "md5": "a8ceed9bb52cb28d7743991b92a2f3bb",
                 "size": 5319456
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/VI/SpecialEpisodesChapter03_VI.usm": {
         "filename": "SpecialEpisodesChapter03_VI.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.5.0",
                 "state": "AVAILABLE",
                 "md5": "defa018a8b043c25198101cefee0cf9b",
                 "size": 5952704
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -24973,25 +26047,37 @@
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_SilverAnby.usm": {
         "filename": "Gacha_SilverAnby.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.6.0",
                 "state": "AVAILABLE",
                 "md5": "0464c09325ce38a3865b40bc0db28126",
                 "size": 4572672
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_Trigger.usm": {
         "filename": "Gacha_Trigger.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.6.0",
                 "state": "AVAILABLE",
                 "md5": "5ac82758cd0ff3e4369a0f0747444eb6",
                 "size": 3830496
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -25069,55 +26155,79 @@
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/CHS/MainStoryChapter06_CHS.usm": {
         "filename": "MainStoryChapter06_CHS.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.6.0",
                 "state": "AVAILABLE",
                 "md5": "58df14d8f0e162459dabf9da905b1138",
                 "size": 5605312
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/CHT/MainStoryChapter06_CHT.usm": {
         "filename": "MainStoryChapter06_CHT.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.6.0",
                 "state": "AVAILABLE",
                 "md5": "dbcb86cfff7e5bf138822c0f605ac2be",
                 "size": 5527968
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/DE/MainStoryChapter06_DE.usm": {
         "filename": "MainStoryChapter06_DE.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.6.0",
                 "state": "AVAILABLE",
                 "md5": "5abcd5193a4c12eed0b3061c429f8ecc",
                 "size": 6113120
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/EN/MainStoryChapter06_EN.usm": {
         "filename": "MainStoryChapter06_EN.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.6.0",
                 "state": "AVAILABLE",
                 "md5": "7fce57653d43eaa24bf45567f2cc9e39",
                 "size": 6144032
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ES/MainStoryChapter06_ES.usm": {
         "filename": "MainStoryChapter06_ES.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.6.0",
@@ -25130,72 +26240,108 @@
                 "state": "AVAILABLE",
                 "md5": "05e41863fdff9c6c61b6c77b7b190dbf",
                 "size": 6189344
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/FR/MainStoryChapter06_FR.usm": {
         "filename": "MainStoryChapter06_FR.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.6.0",
                 "state": "AVAILABLE",
                 "md5": "4091ad8e24f7986d396cce140776cbaa",
                 "size": 6237248
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ID/MainStoryChapter06_ID.usm": {
         "filename": "MainStoryChapter06_ID.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.6.0",
                 "state": "AVAILABLE",
                 "md5": "d612027f2dc7f27e53d0bb8193df260b",
                 "size": 6200448
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/JA/MainStoryChapter06_JA.usm": {
         "filename": "MainStoryChapter06_JA.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.6.0",
                 "state": "AVAILABLE",
                 "md5": "79c138a7476f0103bb3a4c5bd6765316",
                 "size": 6037152
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/KO/MainStoryChapter06_KO.usm": {
         "filename": "MainStoryChapter06_KO.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.6.0",
                 "state": "AVAILABLE",
                 "md5": "b7aaf673778c0e8842194016379f8316",
                 "size": 5842176
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/PT/MainStoryChapter06_PT.usm": {
         "filename": "MainStoryChapter06_PT.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.6.0",
                 "state": "AVAILABLE",
                 "md5": "6bf192a72993e1d80027a6f2f769558c",
                 "size": 6215424
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/RU/MainStoryChapter06_RU.usm": {
         "filename": "MainStoryChapter06_RU.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.6.0",
@@ -25208,30 +26354,48 @@
                 "state": "AVAILABLE",
                 "md5": "efa2161c91d3e988eaa9d91f3f80cb74",
                 "size": 6255616
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/TH/MainStoryChapter06_Th.usm": {
         "filename": "MainStoryChapter06_Th.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.6.0",
                 "state": "AVAILABLE",
                 "md5": "b8939b468a2ad3a95ed7f444199a4d94",
                 "size": 5602944
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/VI/MainStoryChapter06_Vi.usm": {
         "filename": "MainStoryChapter06_Vi.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.6.0",
                 "state": "AVAILABLE",
                 "md5": "08478f861aacd53a259aaaae0680964c",
                 "size": 6136160
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -25682,6 +26846,12 @@
                 "state": "AVAILABLE",
                 "md5": "42369a11ce850087067be69bdea2ee43",
                 "size": 5163200
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "5b75f55153d8dd958df12b1ef5e877e6",
+                "size": 5419776
             }
         ]
     },
@@ -25694,6 +26864,12 @@
                 "state": "AVAILABLE",
                 "md5": "4902133df7395c1331ff5a03bd04cb03",
                 "size": 6247488
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "cad8ead336e402def3b68e1dc0da6926",
+                "size": 6075328
             }
         ]
     },
@@ -25706,234 +26882,354 @@
                 "state": "AVAILABLE",
                 "md5": "876a58d446518bbb40818cdf1301321e",
                 "size": 5013888
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "bd5936e6530408c7f43879d5ed591f2b",
+                "size": 5182080
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_Hugo.usm": {
         "filename": "Gacha_Hugo.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.7.0",
                 "state": "AVAILABLE",
                 "md5": "5b92dec45927820df9f17fdef0dddff4",
                 "size": 9956000
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_Vivian.usm": {
         "filename": "Gacha_Vivian.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.7.0",
                 "state": "AVAILABLE",
                 "md5": "0d775907d935814bcf78be9e23467f8b",
                 "size": 10005568
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_WeaponContrast_Hugo.usm": {
         "filename": "Gacha_WeaponContrast_Hugo.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.7.0",
                 "state": "AVAILABLE",
                 "md5": "0f22e9bc08be445507b31f0f0ba2c2d4",
                 "size": 9416128
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_WeaponContrast_JaneDoe.usm": {
         "filename": "Gacha_WeaponContrast_JaneDoe.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.7.0",
                 "state": "AVAILABLE",
                 "md5": "f5e3521ce1900de56c9473c90bd5b5e2",
                 "size": 10493504
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_WeaponContrast_Lighter.usm": {
         "filename": "Gacha_WeaponContrast_Lighter.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.7.0",
                 "state": "AVAILABLE",
                 "md5": "3492cbd8f213561ed21a4fb3b4d2cd03",
                 "size": 10719744
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_WeaponContrast_Vivian.usm": {
         "filename": "Gacha_WeaponContrast_Vivian.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.7.0",
                 "state": "AVAILABLE",
                 "md5": "8628c0298454ed2433bb313e1a327348",
                 "size": 10735328
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/CHS/MainStoryChapter07_CHS.usm": {
         "filename": "MainStoryChapter07_CHS.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.7.0",
                 "state": "AVAILABLE",
                 "md5": "46e55864479eb8a7b10f67154de5abcf",
                 "size": 5623328
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/CHT/MainStoryChapter07_CHT.usm": {
         "filename": "MainStoryChapter07_CHT.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.7.0",
                 "state": "AVAILABLE",
                 "md5": "81d90fa3ce43f65952e5782e444a71d6",
                 "size": 5834752
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/DE/MainStoryChapter07_DE.usm": {
         "filename": "MainStoryChapter07_DE.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.7.0",
                 "state": "AVAILABLE",
                 "md5": "8444282ec9e7b05f977d6e48fa9d8631",
                 "size": 6143520
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/EN/MainStoryChapter07_EN.usm": {
         "filename": "MainStoryChapter07_EN.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.7.0",
                 "state": "AVAILABLE",
                 "md5": "27ca7b36d7962939a6e02af81091a6a2",
                 "size": 6084928
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ES/MainStoryChapter07_ES.usm": {
         "filename": "MainStoryChapter07_ES.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.7.0",
                 "state": "AVAILABLE",
                 "md5": "2a32e2b30c27dbe3cf2b092b7f277986",
                 "size": 6303392
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/FR/MainStoryChapter07_FR.usm": {
         "filename": "MainStoryChapter07_FR.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.7.0",
                 "state": "AVAILABLE",
                 "md5": "0e3aacea0bd1f566727068a37421d273",
                 "size": 6321088
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/ID/MainStoryChapter07_ID.usm": {
         "filename": "MainStoryChapter07_ID.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.7.0",
                 "state": "AVAILABLE",
                 "md5": "da04807e9b09878de984adf93bf30d72",
                 "size": 6228864
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/JA/MainStoryChapter07_JA.usm": {
         "filename": "MainStoryChapter07_JA.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.7.0",
                 "state": "AVAILABLE",
                 "md5": "05d959a3ed707eee9cc86524b255f245",
                 "size": 6031456
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/KO/MainStoryChapter07_KO.usm": {
         "filename": "MainStoryChapter07_KO.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.7.0",
                 "state": "AVAILABLE",
                 "md5": "1ecc74f7119e01d3bb5bec8e988a17f7",
                 "size": 5842432
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/PT/MainStoryChapter07_PT.usm": {
         "filename": "MainStoryChapter07_PT.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.7.0",
                 "state": "AVAILABLE",
                 "md5": "5f9c001cc5447345fb58e6b5925ac034",
                 "size": 6171488
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/RU/MainStoryChapter07_RU.usm": {
         "filename": "MainStoryChapter07_RU.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.7.0",
                 "state": "AVAILABLE",
                 "md5": "2c3c229a5990ccd0df706ba5ed96de25",
                 "size": 6189760
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/TH/MainStoryChapter07_Th.usm": {
         "filename": "MainStoryChapter07_Th.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.7.0",
                 "state": "AVAILABLE",
                 "md5": "efb334a7f5e930355e730db482f8ef36",
                 "size": 5647776
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/Chapter/VI/MainStoryChapter07_Vi.usm": {
         "filename": "MainStoryChapter07_Vi.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "1.7.0",
                 "state": "AVAILABLE",
                 "md5": "445b67ef773bb9f92a74e6dac3e58bda",
                 "size": 6089792
+            },
+            {
+                "version": "2.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -26102,6 +27398,12 @@
                 "state": "AVAILABLE",
                 "md5": "996255eaa00978bdaa7e0ec512f3a1c5",
                 "size": 70840256
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "647390eb070037bfdc35debc130ca0d6",
+                "size": 70869184
             }
         ]
     },
@@ -26114,6 +27416,12 @@
                 "state": "AVAILABLE",
                 "md5": "297c6d3fba280ac16968d037d3999a82",
                 "size": 70794048
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "dfd41294531dc8229d07c19acc335595",
+                "size": 70823360
             }
         ]
     },
@@ -26126,6 +27434,12 @@
                 "state": "AVAILABLE",
                 "md5": "e52681603c855d0ba5dec7007f8a3c71",
                 "size": 90287872
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "0bff3b710d5c12946623ab2ee2177047",
+                "size": 90084992
             }
         ]
     },
@@ -26138,6 +27452,12 @@
                 "state": "AVAILABLE",
                 "md5": "2272ed9c5f06f6fbc1dc4ad07eb140fe",
                 "size": 90195008
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "2590be3a3da2b5610fd368d0ef7e8434",
+                "size": 90111936
             }
         ]
     },
@@ -26150,6 +27470,12 @@
                 "state": "AVAILABLE",
                 "md5": "8336bcc28f6a22260eba04ac208bfc61",
                 "size": 57572192
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "e20f87167c315b0b63ca90d046a9ae37",
+                "size": 57516672
             }
         ]
     },
@@ -26162,6 +27488,12 @@
                 "state": "AVAILABLE",
                 "md5": "f2e7d139daa58b20347558673fac4f38",
                 "size": 141572512
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "caf7fe80193def47e02b4cc2637f0484",
+                "size": 142171520
             }
         ]
     },
@@ -26174,6 +27506,12 @@
                 "state": "AVAILABLE",
                 "md5": "0443aa773941d62c146d5f2f95c2cb2e",
                 "size": 141804864
+            },
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "9f57613ea6ef8cda6bafbbbe220757bb",
+                "size": 142214560
             }
         ]
     },
@@ -26210,6 +27548,1470 @@
                 "state": "AVAILABLE",
                 "md5": "eb5bbbaba8cd077d6a27c07bd350b9cf",
                 "size": 19678400
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_01.usm": {
+        "filename": "MazingerGoldenBomb_Ability_01.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "8ff5ef36180a4b4918bfd245d3e95e92",
+                "size": 1910336
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_02.usm": {
+        "filename": "MazingerGoldenBomb_Ability_02.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "1483bc0365504356cf6d12cd26cee970",
+                "size": 1800448
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_03.usm": {
+        "filename": "MazingerGoldenBomb_Ability_03.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "af872b741df6a30c93114c33c89b0be6",
+                "size": 2003808
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_04.usm": {
+        "filename": "MazingerGoldenBomb_Ability_04.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "72acf545dfdb856ae4497530ef5b6034",
+                "size": 1380800
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_05.usm": {
+        "filename": "MazingerGoldenBomb_Ability_05.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "960b3c47d7db2187e60811e36427e029",
+                "size": 1721088
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_06.usm": {
+        "filename": "MazingerGoldenBomb_Ability_06.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "b8504e5a4530d6652b72ffa9bf6dc0a5",
+                "size": 2050016
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_07.usm": {
+        "filename": "MazingerGoldenBomb_Ability_07.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "1db9e0ab8904e56d231609eb1a6cbb08",
+                "size": 1930848
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_08.usm": {
+        "filename": "MazingerGoldenBomb_Ability_08.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "b12342a61b8c27ccd08adda7d5053d9b",
+                "size": 2015840
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_09.usm": {
+        "filename": "MazingerGoldenBomb_Ability_09.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "7c01ad8fb54d28ef3a0998bfca92c9a6",
+                "size": 2177568
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_10.usm": {
+        "filename": "MazingerGoldenBomb_Ability_10.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "f22953c10aca260c417d78140a071bd2",
+                "size": 1884000
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_11.usm": {
+        "filename": "MazingerGoldenBomb_Ability_11.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "6d2a775a394079fa39097b3a9b7ea350",
+                "size": 2215072
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_12.usm": {
+        "filename": "MazingerGoldenBomb_Ability_12.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "a252dcd5f449026a20d931dce0125d3c",
+                "size": 1724160
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_13.usm": {
+        "filename": "MazingerGoldenBomb_Ability_13.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "fe75963a5b5fde0e1790bd6b3be0187c",
+                "size": 1803008
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_14.usm": {
+        "filename": "MazingerGoldenBomb_Ability_14.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "6aa8c568155a5a4b51eb65c7ef01324d",
+                "size": 1563232
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_15.usm": {
+        "filename": "MazingerGoldenBomb_Ability_15.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "62cf75de80f7e28aa7587b4bf02d3470",
+                "size": 1907424
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_16.usm": {
+        "filename": "MazingerGoldenBomb_Ability_16.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "278c3b1cdbc2e5adfc6ed61800218fd9",
+                "size": 1042592
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_17.usm": {
+        "filename": "MazingerGoldenBomb_Ability_17.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "ce049e265857486e6a87c3eeea19e1ac",
+                "size": 1403392
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_18.usm": {
+        "filename": "MazingerGoldenBomb_Ability_18.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "bc0b8cb2321ec0e49b89b7f9d4b0de12",
+                "size": 653408
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_19.usm": {
+        "filename": "MazingerGoldenBomb_Ability_19.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "ce78dd6ab2ffc5a1e180c374878a0d07",
+                "size": 825600
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_20.usm": {
+        "filename": "MazingerGoldenBomb_Ability_20.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "62204bda53a0491ebce562515ad70fb7",
+                "size": 653408
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_21.usm": {
+        "filename": "MazingerGoldenBomb_Ability_21.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "f57226674a33820f9b6c88670fcac1d4",
+                "size": 1810016
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_22.usm": {
+        "filename": "MazingerGoldenBomb_Ability_22.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "34f88c2f9d5f003f3e5f9fe1bff4f0c7",
+                "size": 1218976
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_23.usm": {
+        "filename": "MazingerGoldenBomb_Ability_23.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "e8a35f39b842c3b81f149304e6ed32ea",
+                "size": 985888
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/MazingerGoldenBomb_Ability_24.usm": {
+        "filename": "MazingerGoldenBomb_Ability_24.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "d3adbc36a8fb5724bd8c1fe3d2ca373d",
+                "size": 1929728
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/GachaPopup/GachaPopup_YiXuan_Loop.usm": {
+        "filename": "GachaPopup_YiXuan_Loop.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "7e97feb17eedcd3d454154a13ae5522a",
+                "size": 10038048
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/GachaPopup/GachaPopup_YiXuan_Start.usm": {
+        "filename": "GachaPopup_YiXuan_Start.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "ea19d883252379734e5b3618820fda6a",
+                "size": 12058976
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_10_Openning.usm": {
+        "filename": "CinemaFilm_10_Openning.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "b46a92855d77d0219aa05b0bab5d5898",
+                "size": 3147104
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_10_Playing.usm": {
+        "filename": "CinemaFilm_10_Playing.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "97921cc4a8ac563de15d3cec6e480e9d",
+                "size": 12819360
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_11_Openning.usm": {
+        "filename": "CinemaFilm_11_Openning.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "cfd3b67a4d7d8fa518bc3b272909decf",
+                "size": 2217696
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_11_Playing.usm": {
+        "filename": "CinemaFilm_11_Playing.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "fabc213c956f0762b16d50c7ea771923",
+                "size": 7371808
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_12_Openning.usm": {
+        "filename": "CinemaFilm_12_Openning.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "2d0bad6d5e77fe316474c1d9321df205",
+                "size": 2265248
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_12_Playing.usm": {
+        "filename": "CinemaFilm_12_Playing.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "96b8c7622897be45fd519ae1bda1c44b",
+                "size": 6941248
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_13_Openning.usm": {
+        "filename": "CinemaFilm_13_Openning.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "67bed8d23fd0d21944f9318dbdee79b9",
+                "size": 15053600
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_13_Playing.usm": {
+        "filename": "CinemaFilm_13_Playing.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "172150d4901885234f17c340641cc7d9",
+                "size": 4830304
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_1_Openning.usm": {
+        "filename": "CinemaFilm_1_Openning.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "8a6e36c387dee727f0820e17f49fd835",
+                "size": 1915328
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_1_Playing.usm": {
+        "filename": "CinemaFilm_1_Playing.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "bd37060a8ef9cf6b788e56a0e635d3c2",
+                "size": 4975168
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_2_Openning.usm": {
+        "filename": "CinemaFilm_2_Openning.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "7f41e75c75c9f2399a8c8b6892811200",
+                "size": 2453472
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_2_Playing.usm": {
+        "filename": "CinemaFilm_2_Playing.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "8693713e39cd34063089052553eaabbd",
+                "size": 9277120
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_3_Openning.usm": {
+        "filename": "CinemaFilm_3_Openning.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "2b443da94f2baa4ab42cd14c526427af",
+                "size": 4095200
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_3_Playing.usm": {
+        "filename": "CinemaFilm_3_Playing.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "611540b890731516995879a5691e8d48",
+                "size": 16287936
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_4_Openning.usm": {
+        "filename": "CinemaFilm_4_Openning.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "c85ce49dda7f3b74a6fb359ac1d0c956",
+                "size": 2420480
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_4_Playing.usm": {
+        "filename": "CinemaFilm_4_Playing.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "748ac57d9ed9f6a479fc4d6599f2bb21",
+                "size": 9098560
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_5_Openning.usm": {
+        "filename": "CinemaFilm_5_Openning.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "4b330de5ee9f9b3850ba70ce5faae584",
+                "size": 2463264
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_5_Playing.usm": {
+        "filename": "CinemaFilm_5_Playing.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "8e581903fc2e9f33e34dd4e846c601ef",
+                "size": 4897216
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_6_Openning.usm": {
+        "filename": "CinemaFilm_6_Openning.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "4f09ec5855cbcd25a138dd64a7fe12af",
+                "size": 1635616
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_6_Playing.usm": {
+        "filename": "CinemaFilm_6_Playing.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "8a719fe4745ecbce595fe12cbcffef86",
+                "size": 12314144
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_7_Openning.usm": {
+        "filename": "CinemaFilm_7_Openning.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "f2b9166d9b9948455a18fdd104502f30",
+                "size": 2021984
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_7_Playing.usm": {
+        "filename": "CinemaFilm_7_Playing.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "67c8109d0223ad5da4b1646f0c7bc762",
+                "size": 4925280
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_8_Openning.usm": {
+        "filename": "CinemaFilm_8_Openning.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "dcd10cb92f5138c60b69c5f18da9e7c4",
+                "size": 2885600
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_8_Playing.usm": {
+        "filename": "CinemaFilm_8_Playing.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "9911f99cbb1e82282c304068dca74755",
+                "size": 2685184
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_9_Openning.usm": {
+        "filename": "CinemaFilm_9_Openning.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "007861638b95171ccb419631a5b5bfb4",
+                "size": 2301536
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_9_Playing.usm": {
+        "filename": "CinemaFilm_9_Playing.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "568445f08ca14f1e2c841927af8f1a18",
+                "size": 3369504
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_End.usm": {
+        "filename": "CinemaFilm_End.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "fcd85735ade0cf92802bf35bf6a3e357",
+                "size": 4834624
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/ActivityCinema/CinemaFilm_GravityLogo.usm": {
+        "filename": "CinemaFilm_GravityLogo.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "ab50fe1e42ad0d97cfdfa2681eca92b1",
+                "size": 3193952
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/AllroundGeneralTutorial/TutorialBangbooPlatformer2_0.usm": {
+        "filename": "TutorialBangbooPlatformer2_0.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "63649ddf6a04fdc019303bb93c14b7e1",
+                "size": 3155712
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/AllroundGeneralTutorial/TutorialBezierCurve_Main_1.usm": {
+        "filename": "TutorialBezierCurve_Main_1.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "1007a38840053733e52b641bcac00343",
+                "size": 982784
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/AllroundGeneralTutorial/TutorialBezierCurve_Main_2.usm": {
+        "filename": "TutorialBezierCurve_Main_2.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "da5ee4288df37e4411c338c1162ab2f5",
+                "size": 985472
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/AllroundGeneralTutorial/TutorialBezierCurve_Main_3.usm": {
+        "filename": "TutorialBezierCurve_Main_3.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "bd785f3fba11561b00fde01fa7fdb6cc",
+                "size": 1162784
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/AllroundGeneralTutorial/TutorialBezierCurve_Side_1.usm": {
+        "filename": "TutorialBezierCurve_Side_1.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "6ef93ab86126f4e82d56089ddd77505c",
+                "size": 1176832
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/AllroundGeneralTutorial/TutorialBezierCurve_Side_2.usm": {
+        "filename": "TutorialBezierCurve_Side_2.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "ddd29d2f342a27e994075e14ec22a380",
+                "size": 1212512
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/AllroundGeneralTutorial/TutorialBezierCurve_Side_3.usm": {
+        "filename": "TutorialBezierCurve_Side_3.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "69f02b748a0edca720e596cffea5a30e",
+                "size": 1357600
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/AllroundGeneralTutorial/TutorialEtherEyes_1_1.usm": {
+        "filename": "TutorialEtherEyes_1_1.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "cef794c8dc0b3b9c47798f1060089396",
+                "size": 1193312
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/AllroundGeneralTutorial/TutorialEtherEyes_1_2.usm": {
+        "filename": "TutorialEtherEyes_1_2.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "786623ff7d1f44e945590cb2667b690b",
+                "size": 1317216
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/AllroundGeneralTutorial/TutorialEtherEyes_2.usm": {
+        "filename": "TutorialEtherEyes_2.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "c0525a1baad78fa6f177894853754229",
+                "size": 2945088
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/AllroundGeneralTutorial/TutorialEtherEyes_3.usm": {
+        "filename": "TutorialEtherEyes_3.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "0a0b44e83c99f8da286bb2f3c38dd30f",
+                "size": 2211232
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/AllroundGeneralTutorial/Tutorial_Hakoba_1100114.usm": {
+        "filename": "Tutorial_Hakoba_1100114.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "154cbd587ff9fb056a2c7deb9c4e44df",
+                "size": 1963392
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/AllroundGeneralTutorial/Tutorial_Hakoba_1100117.usm": {
+        "filename": "Tutorial_Hakoba_1100117.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "e9d37e3f6ffa432b3a1dd1035cd71363",
+                "size": 1416928
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/AllroundGeneralTutorial/Tutorial_SuibianTemple_Sale_1.usm": {
+        "filename": "Tutorial_SuibianTemple_Sale_1.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "e7b42773fd28e4e9fa6f405c9f64f2ea",
+                "size": 319168
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1191_4.usm": {
+        "filename": "TutorialAvatarVideo1191_4.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "80744d98aac4210fc1ccb9bab9ecf004",
+                "size": 856480
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1191_5.usm": {
+        "filename": "TutorialAvatarVideo1191_5.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "d20ad367e95da5a20377ccea6d4afac4",
+                "size": 984288
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1371_1.usm": {
+        "filename": "TutorialAvatarVideo1371_1.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "abb655c3deb59961136061f3b7640bc8",
+                "size": 1599072
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1371_2.usm": {
+        "filename": "TutorialAvatarVideo1371_2.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "e493e79d6a61489393c853b24af6de22",
+                "size": 1510080
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1391_1.usm": {
+        "filename": "TutorialAvatarVideo1391_1.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "c01a069267423eb05799eb88c0ca66b7",
+                "size": 1139424
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1391_2.usm": {
+        "filename": "TutorialAvatarVideo1391_2.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "302c5416dd2637756dc1b7a91dea4651",
+                "size": 855488
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1391_3.usm": {
+        "filename": "TutorialAvatarVideo1391_3.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "4897b102e3b71101b0e8ee9f2f3730d0",
+                "size": 834688
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1421_1.usm": {
+        "filename": "TutorialAvatarVideo1421_1.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "561304ef1ee25c1822da7adbe1a29eab",
+                "size": 955616
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1421_2.usm": {
+        "filename": "TutorialAvatarVideo1421_2.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "9cd96117bec79be9817fdebe1255341f",
+                "size": 1000928
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialEtherBarrier_01.usm": {
+        "filename": "TutorialEtherBarrier_01.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "6325f16974b8288e2a20f243dd065b31",
+                "size": 679584
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialEtherBarrier_02.usm": {
+        "filename": "TutorialEtherBarrier_02.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "8c5db579fa104eaf0b0cf320bc4c122f",
+                "size": 1173376
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialEtherBarrier_03.usm": {
+        "filename": "TutorialEtherBarrier_03.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "aac60e370bbc3f90cf9d63071eb0045c",
+                "size": 583264
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/BigScene/ViewPoint_Unlock.usm": {
+        "filename": "ViewPoint_Unlock.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "bce63759a9f9f0d2fa705c4a3bcce64b",
+                "size": 5401088
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_Jufufu.usm": {
+        "filename": "Gacha_Jufufu.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "247c4ebc91367f19944433e6ff26c665",
+                "size": 5077920
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_PanYinhu.usm": {
+        "filename": "Gacha_PanYinhu.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "193c833c5ba320b611ca3f3496b3771b",
+                "size": 4222112
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_WeaponContrast_Astra.usm": {
+        "filename": "Gacha_WeaponContrast_Astra.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "a1f09545c1a83f0663c88eeba527ffa1",
+                "size": 11358912
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_WeaponContrast_Caesar.usm": {
+        "filename": "Gacha_WeaponContrast_Caesar.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "055a6596ed6d20d9061a428956ab1686",
+                "size": 10220448
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_WeaponContrast_Jufufu.usm": {
+        "filename": "Gacha_WeaponContrast_Jufufu.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "21bf584bc955d3b5f2c0d43fe72ff86e",
+                "size": 8268064
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_WeaponContrast_YiXuan.usm": {
+        "filename": "Gacha_WeaponContrast_YiXuan.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "2a17c144b78037137986461610047f0e",
+                "size": 11182976
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_YiXuan.usm": {
+        "filename": "Gacha_YiXuan.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "0e92044d247c92521dfbe6d62bd29839",
+                "size": 3887744
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Launch/Hollow_Background_StandbyVideo.usm": {
+        "filename": "Hollow_Background_StandbyVideo.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "7e2a08ca481bd1b562f913646cebd6be",
+                "size": 543040
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Launch/Hollow_StandbyVideo.usm": {
+        "filename": "Hollow_StandbyVideo.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "3ba0c1ec889519259b0f842dea870863",
+                "size": 1030688
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/LoginBangumi/Ad_35_mux.usm": {
+        "filename": "Ad_35_mux.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "9944ab8f5747ab74bdc62c2d155efcbe",
+                "size": 11800768
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/LoginBangumi/Ad_42_mux.usm": {
+        "filename": "Ad_42_mux.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "0411c29657abf428bf33733dfe9041c4",
+                "size": 20673280
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/MainStory/PageVideo/ChapterPersonal/ChapterJufufuM1.usm": {
+        "filename": "ChapterJufufuM1.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "48d7e587eec3a654c78a290ecd6b81c4",
+                "size": 17737376
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C210_EP000.usm": {
+        "filename": "C210_EP000.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "4a519f1ba8c9b29a9679089f6e898326",
+                "size": 206839840
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C210_EP000B.usm": {
+        "filename": "C210_EP000B.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "9572f1c4872d1538e59087ddd6476a1c",
+                "size": 205643712
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C210_EP000G.usm": {
+        "filename": "C210_EP000G.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "c520a087e588901d5ff8ee859e4cf626",
+                "size": 205672192
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C210_EP010.usm": {
+        "filename": "C210_EP010.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "16dcf560e17b59a219e1a4382cb87b9c",
+                "size": 75607040
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C210_EP020B.usm": {
+        "filename": "C210_EP020B.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "8009cdf9e963a7956de62edd8595ca62",
+                "size": 50131040
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C210_EP020G.usm": {
+        "filename": "C210_EP020G.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "9b608a76dd306173774b9290ace19b53",
+                "size": 50137280
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C210_EP030B.usm": {
+        "filename": "C210_EP030B.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "a688c4a24f68d31eb36f56c04ee72a00",
+                "size": 57572576
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C210_EP030G.usm": {
+        "filename": "C210_EP030G.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "fda7b3b4e7561efa7a9070d7d3ecda72",
+                "size": 57608416
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C210_EP040B.usm": {
+        "filename": "C210_EP040B.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "a9706c10953f85b34f64878c1e972039",
+                "size": 109615136
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C210_EP040G.usm": {
+        "filename": "C210_EP040G.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "9911b928e09af7a04f20c06c3aec2431",
+                "size": 109623680
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C210_EP050B.usm": {
+        "filename": "C210_EP050B.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "ce5b5cee5569712e462acdac1256856f",
+                "size": 39493536
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C210_EP050G.usm": {
+        "filename": "C210_EP050G.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "86c25dc5761ed0960de84573ef45a9fe",
+                "size": 39483456
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C210_EP060B.usm": {
+        "filename": "C210_EP060B.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "7663bceeeaf7d95d2e4aad87686b6c8e",
+                "size": 143129056
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C210_EP060G.usm": {
+        "filename": "C210_EP060G.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "1d305e71067262b478b0bc4602f07354",
+                "size": 143132832
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C210_EP070B.usm": {
+        "filename": "C210_EP070B.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "86571d14af0ed1e2a15801c16d16b63d",
+                "size": 118368
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C210_EP070G.usm": {
+        "filename": "C210_EP070G.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "afacc28d9c2a6dc206a71c7e4981da54",
+                "size": 115808
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C210_EP100.usm": {
+        "filename": "C210_EP100.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "9aa7ec3732f2cc67cb9f27e0661de695",
+                "size": 95840
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C210_EP200.usm": {
+        "filename": "C210_EP200.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "fca2caeb47a6e987f1ef4f0cc08026a2",
+                "size": 19970816
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C777_EP120.usm": {
+        "filename": "C777_EP120.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "839b24c2784184f06dbb4ac5504f2cf0",
+                "size": 49912256
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/ChapterJuFufuMovieLogo.usm": {
+        "filename": "ChapterJuFufuMovieLogo.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "304d2486b41c7014cd425b0c380f2cb2",
+                "size": 18347712
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/Csr_C21_MainLong01_OverLookPollutionSource.usm": {
+        "filename": "Csr_C21_MainLong01_OverLookPollutionSource.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "3f3c743f78871d66cb4abeb483145bfe",
+                "size": 9314816
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/Cs_C21_Chapter08_010.usm": {
+        "filename": "Cs_C21_Chapter08_010.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "9996445d7d6688df5c6e912017f48769",
+                "size": 28721248
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Weapon/Weapon_A_1421.usm": {
+        "filename": "Weapon_A_1421.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "f41b23931002b4fc037bf6f14376493e",
+                "size": 2808352
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Weapon/Weapon_A_Common_14.usm": {
+        "filename": "Weapon_A_Common_14.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "76769617550cf79475d1f6699368c827",
+                "size": 3346176
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Weapon/Weapon_A_Common_16.usm": {
+        "filename": "Weapon_A_Common_16.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "f82ae82e4f828a00c02e8ccf7f6a3424",
+                "size": 4441984
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Weapon/Weapon_B_Common_15.usm": {
+        "filename": "Weapon_B_Common_15.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "b64abee9f468f1915943c44c22bbbbf2",
+                "size": 2505248
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Weapon/Weapon_S_1371.usm": {
+        "filename": "Weapon_S_1371.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "5db8fdf19c41174db05c8c35dc8f7d51",
+                "size": 7734016
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Weapon/Weapon_S_1391.usm": {
+        "filename": "Weapon_S_1391.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "4105497b60bf9410fdb75fa477be6bdc",
+                "size": 6100096
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Yorozuya/CommonMonsterVideo/MentorMevorakh.usm": {
+        "filename": "MentorMevorakh.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "state": "AVAILABLE",
+                "md5": "16aee7a94cd039597e5336b7deb48e86",
+                "size": 1781088
             }
         ]
     }
