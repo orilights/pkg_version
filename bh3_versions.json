@@ -146,5 +146,25 @@
             "password": "h6XjD8ReKlR1",
             "tag": "8.3.0"
         }
+    },
+    "8.4.0": {
+        "game": {
+            "full": {
+                "name": "BH3_v8.4.0_589030804b01.7z",
+                "url": "https://autopatchcn.bh3.com/ptpublic/rel/20250717152657_HmMWzKltujR0bm3L/PC/BH3_v8.4.0_589030804b01.7z",
+                "checksum": "e7aece7f28a667bba9ea0769c30fd16d",
+                "size": 23003662135
+            }
+        },
+        "voice": {},
+        "update": {},
+        "decompressed_path": "",
+        "chunk": {
+            "branch": "predownload",
+            "diff_tags": [],
+            "package_id": "jdEaAE9pKa",
+            "password": "OAvMeb9icV0x",
+            "tag": "8.4.0"
+        }
     }
 }

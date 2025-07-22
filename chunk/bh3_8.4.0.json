@@ -1,0 +1,84 @@
+{
+    "retcode": 0,
+    "message": "OK",
+    "data": {
+        "build_id": "gp54KMhmByFG",
+        "tag": "8.4.0",
+        "manifests": [
+            {
+                "category_id": "10161",
+                "category_name": "游戏资源-外网（新）",
+                "manifest": {
+                    "id": "manifest_d6e9d6889c9d77bd_0a18bd13dad0b3b4573da08e3148726a",
+                    "checksum": "0a18bd13dad0b3b4573da08e3148726a",
+                    "compressed_size": "123195",
+                    "uncompressed_size": "248171"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.bh3.com/ptpublic/rel/chunk/chunks/cxi8tkx5vdog/gp54KMhmByFG",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.bh3.com/ptpublic/rel/chunk/manifests/cxi8tkx5vdog/gp54KMhmByFG",
+                    "url_suffix": ""
+                },
+                "matching_field": "game",
+                "stats": {
+                    "compressed_size": "858829637",
+                    "uncompressed_size": "1537299806",
+                    "file_count": "267",
+                    "chunk_count": "1569"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "850448734",
+                    "uncompressed_size": "1516620919",
+                    "file_count": "267",
+                    "chunk_count": "1555"
+                }
+            },
+            {
+                "category_id": "10156",
+                "category_name": "asb-外网",
+                "manifest": {
+                    "id": "manifest_c1faddcaf8451bec_098853d96bfa9c9e0f5f9d09d8a9628e",
+                    "checksum": "098853d96bfa9c9e0f5f9d09d8a9628e",
+                    "compressed_size": "1965457",
+                    "uncompressed_size": "3658095"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.bh3.com/ptpublic/rel/chunk/chunks/cxi8tkx5vdog/gp54KMhmByFG",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.bh3.com/ptpublic/rel/chunk/manifests/cxi8tkx5vdog/gp54KMhmByFG",
+                    "url_suffix": ""
+                },
+                "matching_field": "asb",
+                "stats": {
+                    "compressed_size": "26442333173",
+                    "uncompressed_size": "29024336817",
+                    "file_count": "688",
+                    "chunk_count": "24725"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "26439776980",
+                    "uncompressed_size": "29021700090",
+                    "file_count": "688",
+                    "chunk_count": "24722"
+                }
+            }
+        ]
+    }
+}
