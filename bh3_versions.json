@@ -160,10 +160,10 @@
         "update": {},
         "decompressed_path": "https://autopatchcn.bh3.com/ptpublic/rel/20250717152657_HmMWzKltujR0bm3L/PC/extract",
         "chunk": {
-            "branch": "predownload",
+            "branch": "main",
             "diff_tags": [],
             "package_id": "jdEaAE9pKa",
-            "password": "OAvMeb9icV0x",
+            "password": "h6XjD8ReKlR1",
             "tag": "8.4.0"
         }
     }
