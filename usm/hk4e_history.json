@@ -3655,13 +3655,91 @@
     },
     "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Video_Reunion_57.usm": {
         "filename": "Video_Reunion_57.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "5.7.0",
                 "state": "AVAILABLE",
                 "md5": "5787fef5d18c3c18b086f2a8db6d18fc",
                 "size": 32753504
+            },
+            {
+                "version": "5.8.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_Natlan_AQ60062001_YNF_Boy.usm": {
+        "filename": "Cs_Natlan_AQ60062001_YNF_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "5.8.0",
+                "state": "AVAILABLE",
+                "md5": "6d43385e62ba11782ce005cfac28fe29",
+                "size": 255783936
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_Natlan_AQ60062001_YNF_Girl.usm": {
+        "filename": "Cs_Natlan_AQ60062001_YNF_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "5.8.0",
+                "state": "AVAILABLE",
+                "md5": "a579e101a137a8bc169c9eb058ba7cf5",
+                "size": 256123936
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_Natlan_LQ150441701_WTBY_Boy.usm": {
+        "filename": "Cs_Natlan_LQ150441701_WTBY_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "5.8.0",
+                "state": "AVAILABLE",
+                "md5": "7fa5da45a1064c0509dc5bd9732fa78f",
+                "size": 143223296
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_Natlan_LQ150441701_WTBY_Girl.usm": {
+        "filename": "Cs_Natlan_LQ150441701_WTBY_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "5.8.0",
+                "state": "AVAILABLE",
+                "md5": "5b16fe47033aea107986c6e0e383cbf0",
+                "size": 143237088
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_Natlan_LQ150441801_FMHY.usm": {
+        "filename": "Cs_Natlan_LQ150441801_FMHY.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "5.8.0",
+                "state": "AVAILABLE",
+                "md5": "f6807b72d2eec593311d6f87ae2375f8",
+                "size": 240626080
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Video_Reunion_58.usm": {
+        "filename": "Video_Reunion_58.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "5.8.0",
+                "state": "AVAILABLE",
+                "md5": "647525ad3014ea0c480e9083192fc01e",
+                "size": 25476608
             }
         ]
     }
