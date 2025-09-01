@@ -1571,5 +1571,178 @@
             "password": "FJCF1CT6Z4nz",
             "tag": "2.1.0"
         }
+    },
+    "2.2.0": {
+        "game": {
+            "segments": [
+                {
+                    "name": "juequling_2.2.0_AS.zip.001",
+                    "url": "https://autopatchcn.juequling.com/package_download/op/client_app/download/20250812112735_F9w8fDSRV9mlRWTN/VolumeZip/juequling_2.2.0_AS.zip.001",
+                    "checksum": "9f61bbc0eef73d854ac0c459d58157ec",
+                    "size": 6647971840
+                },
+                {
+                    "name": "juequling_2.2.0_AS.zip.002",
+                    "url": "https://autopatchcn.juequling.com/package_download/op/client_app/download/20250812112735_F9w8fDSRV9mlRWTN/VolumeZip/juequling_2.2.0_AS.zip.002",
+                    "checksum": "187321933a1f935454cfc315b395ece2",
+                    "size": 6647971840
+                },
+                {
+                    "name": "juequling_2.2.0_AS.zip.003",
+                    "url": "https://autopatchcn.juequling.com/package_download/op/client_app/download/20250812112735_F9w8fDSRV9mlRWTN/VolumeZip/juequling_2.2.0_AS.zip.003",
+                    "checksum": "6ee1edc0dbfbc73a8a48bf62113432ef",
+                    "size": 6647971840
+                },
+                {
+                    "name": "juequling_2.2.0_AS.zip.004",
+                    "url": "https://autopatchcn.juequling.com/package_download/op/client_app/download/20250812112735_F9w8fDSRV9mlRWTN/VolumeZip/juequling_2.2.0_AS.zip.004",
+                    "checksum": "e6dee566cdd838f47650e0fea037a84f",
+                    "size": 6647971840
+                },
+                {
+                    "name": "juequling_2.2.0_AS.zip.005",
+                    "url": "https://autopatchcn.juequling.com/package_download/op/client_app/download/20250812112735_F9w8fDSRV9mlRWTN/VolumeZip/juequling_2.2.0_AS.zip.005",
+                    "checksum": "d6b551d6af7002264ec4e2ecdb205c93",
+                    "size": 6647971840
+                },
+                {
+                    "name": "juequling_2.2.0_AS.zip.006",
+                    "url": "https://autopatchcn.juequling.com/package_download/op/client_app/download/20250812112735_F9w8fDSRV9mlRWTN/VolumeZip/juequling_2.2.0_AS.zip.006",
+                    "checksum": "b419911a8bc187828260137bbad577f4",
+                    "size": 6647971840
+                },
+                {
+                    "name": "juequling_2.2.0_AS.zip.007",
+                    "url": "https://autopatchcn.juequling.com/package_download/op/client_app/download/20250812112735_F9w8fDSRV9mlRWTN/VolumeZip/juequling_2.2.0_AS.zip.007",
+                    "checksum": "4b6416f094ca2ead8d9f0d2c670547d8",
+                    "size": 6647971840
+                },
+                {
+                    "name": "juequling_2.2.0_AS.zip.008",
+                    "url": "https://autopatchcn.juequling.com/package_download/op/client_app/download/20250812112735_F9w8fDSRV9mlRWTN/VolumeZip/juequling_2.2.0_AS.zip.008",
+                    "checksum": "31f95d6add9231262a99cb48c15062cf",
+                    "size": 6647971840
+                },
+                {
+                    "name": "juequling_2.2.0_AS.zip.009",
+                    "url": "https://autopatchcn.juequling.com/package_download/op/client_app/download/20250812112735_F9w8fDSRV9mlRWTN/VolumeZip/juequling_2.2.0_AS.zip.009",
+                    "checksum": "efdf5ae0e51e289695205369d76929db",
+                    "size": 6647971840
+                },
+                {
+                    "name": "juequling_2.2.0_AS.zip.010",
+                    "url": "https://autopatchcn.juequling.com/package_download/op/client_app/download/20250812112735_F9w8fDSRV9mlRWTN/VolumeZip/juequling_2.2.0_AS.zip.010",
+                    "checksum": "421309d422672e0e266cdd377b91fce5",
+                    "size": 6645129734
+                }
+            ]
+        },
+        "voice": {
+            "zh-cn": {
+                "name": "audio_zip_Cn.zip",
+                "url": "https://autopatchcn.juequling.com/package_download/op/client_app/download/20250812112735_F9w8fDSRV9mlRWTN/audio_zip_Cn.zip",
+                "checksum": "481924e98e52e07d147ad6d16823bcd3",
+                "size": 2256858880
+            },
+            "en-us": {
+                "name": "audio_zip_En.zip",
+                "url": "https://autopatchcn.juequling.com/package_download/op/client_app/download/20250812112735_F9w8fDSRV9mlRWTN/audio_zip_En.zip",
+                "checksum": "446099036cedc829317cf4de668ead4d",
+                "size": 2383129149
+            },
+            "ja-jp": {
+                "name": "audio_zip_Jp.zip",
+                "url": "https://autopatchcn.juequling.com/package_download/op/client_app/download/20250812112735_F9w8fDSRV9mlRWTN/audio_zip_Jp.zip",
+                "checksum": "3492ffbffe4f15337a67faa37673cf8b",
+                "size": 2742824065
+            },
+            "ko-kr": {
+                "name": "audio_zip_Kr.zip",
+                "url": "https://autopatchcn.juequling.com/package_download/op/client_app/download/20250812112735_F9w8fDSRV9mlRWTN/audio_zip_Kr.zip",
+                "checksum": "f611524cb12083c2bb6d8eb751731f87",
+                "size": 2256858880
+            }
+        },
+        "update": {
+            "2.1.0": {
+                "game": {
+                    "name": "game_2.1.0_2.2.0_hdiff_xARmtyURqIWoaeBq.zip",
+                    "url": "https://autopatchcn.juequling.com/pclauncher/nap_cn/game_2.1.0_2.2.0_hdiff_xARmtyURqIWoaeBq.zip",
+                    "checksum": "1452a6440cea7cf198da32d88fbed49b",
+                    "size": 6634745090
+                },
+                "voice": {
+                    "zh-cn": {
+                        "name": "audio_zh-cn_2.1.0_2.2.0_hdiff_iMQhEGgLdRuYIJbT.zip",
+                        "url": "https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_zh-cn_2.1.0_2.2.0_hdiff_iMQhEGgLdRuYIJbT.zip",
+                        "checksum": "7788d3b91a7de1b09ed94ecb624cf8af",
+                        "size": 192621612
+                    },
+                    "ko-kr": {
+                        "name": "audio_ko-kr_2.1.0_2.2.0_hdiff_ackuOBKmkSxlVWhE.zip",
+                        "url": "https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_ko-kr_2.1.0_2.2.0_hdiff_ackuOBKmkSxlVWhE.zip",
+                        "checksum": "0be7ae636cb642a34fd43bba707ab417",
+                        "size": 216932689
+                    },
+                    "en-us": {
+                        "name": "audio_en-us_2.1.0_2.2.0_hdiff_QWaRjxkeLObcDtuv.zip",
+                        "url": "https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_en-us_2.1.0_2.2.0_hdiff_QWaRjxkeLObcDtuv.zip",
+                        "checksum": "681720eb93dd41607ab0e05082cfdb84",
+                        "size": 174449344
+                    },
+                    "ja-jp": {
+                        "name": "audio_ja-jp_2.1.0_2.2.0_hdiff_kpjqEMDjDPecAIJF.zip",
+                        "url": "https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_ja-jp_2.1.0_2.2.0_hdiff_kpjqEMDjDPecAIJF.zip",
+                        "checksum": "a8480f4fdcfa61048b5ba58a12f2bcfe",
+                        "size": 195419148
+                    }
+                }
+            },
+            "2.0.0": {
+                "game": {
+                    "name": "game_2.0.0_2.2.0_hdiff_wgWaqHGQPanBaVzu.zip",
+                    "url": "https://autopatchcn.juequling.com/pclauncher/nap_cn/game_2.0.0_2.2.0_hdiff_wgWaqHGQPanBaVzu.zip",
+                    "checksum": "7ea7ab484b9f57b3b842fc364c52af7a",
+                    "size": 13063741778
+                },
+                "voice": {
+                    "zh-cn": {
+                        "name": "audio_zh-cn_2.0.0_2.2.0_hdiff_RLEsciaijvDAeTSk.zip",
+                        "url": "https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_zh-cn_2.0.0_2.2.0_hdiff_RLEsciaijvDAeTSk.zip",
+                        "checksum": "c7a700aed2db5e37d474d46944445b33",
+                        "size": 414669416
+                    },
+                    "ko-kr": {
+                        "name": "audio_ko-kr_2.0.0_2.2.0_hdiff_sqxWpbvxfIedhbQM.zip",
+                        "url": "https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_ko-kr_2.0.0_2.2.0_hdiff_sqxWpbvxfIedhbQM.zip",
+                        "checksum": "6862b54cf9d3a04e15643ed29fc00693",
+                        "size": 497193287
+                    },
+                    "en-us": {
+                        "name": "audio_en-us_2.0.0_2.2.0_hdiff_ZdHvalFFoZCqRmvP.zip",
+                        "url": "https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_en-us_2.0.0_2.2.0_hdiff_ZdHvalFFoZCqRmvP.zip",
+                        "checksum": "808bc4d837911f80dd50139934a65873",
+                        "size": 468211695
+                    },
+                    "ja-jp": {
+                        "name": "audio_ja-jp_2.0.0_2.2.0_hdiff_CynEqtQkVHEpiRqp.zip",
+                        "url": "https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_ja-jp_2.0.0_2.2.0_hdiff_CynEqtQkVHEpiRqp.zip",
+                        "checksum": "f788e7f5d49963d77bdd0a7852cd69a4",
+                        "size": 490684350
+                    }
+                }
+            }
+        },
+        "decompressed_path": "https://autopatchcn.juequling.com/package_download/op/client_app/download/20250812112735_F9w8fDSRV9mlRWTN/SplitAudioZip",
+        "chunk": {
+            "branch": "predownload",
+            "diff_tags": [
+                "2.1.0",
+                "2.0.0"
+            ],
+            "package_id": "FfGDa3bsvp",
+            "password": "xGT32wXaBk86",
+            "tag": "2.2.0"
+        }
     }
 }
