@@ -3847,13 +3847,163 @@
     },
     "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Video_Reunion_60.usm": {
         "filename": "Video_Reunion_60.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "6.0.0",
                 "state": "AVAILABLE",
                 "md5": "b4c8395da425e820fe5e153511c81947",
                 "size": 32667328
+            },
+            {
+                "version": "6.1.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_Beyond_Backstory_Boy.usm": {
+        "filename": "Cs_Beyond_Backstory_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.1.0",
+                "state": "AVAILABLE",
+                "md5": "10a441439aad078e088f58c13853753d",
+                "size": 195793024
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_Beyond_Backstory_Girl.usm": {
+        "filename": "Cs_Beyond_Backstory_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.1.0",
+                "state": "AVAILABLE",
+                "md5": "1c5da5858d6f233e235019392268ee7f",
+                "size": 195781248
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_NodKrai_AQ601205_ZSSN_Boy.usm": {
+        "filename": "Cs_NodKrai_AQ601205_ZSSN_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.1.0",
+                "state": "AVAILABLE",
+                "md5": "1e7a536ad6fbac753f4a7e2c6973a745",
+                "size": 232373440
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_NodKrai_AQ601205_ZSSN_Girl.usm": {
+        "filename": "Cs_NodKrai_AQ601205_ZSSN_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.1.0",
+                "state": "AVAILABLE",
+                "md5": "b106829c71aa47f4be2e25e93d7fceb2",
+                "size": 232385376
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_NodKrai_AQ601411_CYPK_Boy.usm": {
+        "filename": "Cs_NodKrai_AQ601411_CYPK_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.1.0",
+                "state": "AVAILABLE",
+                "md5": "5f143aa6beb543648960314fec7ce45e",
+                "size": 136422688
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_NodKrai_AQ601411_CYPK_Girl.usm": {
+        "filename": "Cs_NodKrai_AQ601411_CYPK_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.1.0",
+                "state": "AVAILABLE",
+                "md5": "1302993e0c835f036831a319cffc5dd4",
+                "size": 136437952
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_NodKrai_AQ601824_LH.usm": {
+        "filename": "Cs_NodKrai_AQ601824_LH.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.1.0",
+                "state": "AVAILABLE",
+                "md5": "3752ab68285094c78371af07e7ba3c5a",
+                "size": 333560864
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_NodKrai_AQ601914_NHL_Boy.usm": {
+        "filename": "Cs_NodKrai_AQ601914_NHL_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.1.0",
+                "state": "AVAILABLE",
+                "md5": "f21b0361628e053668afea6f6d27ca23",
+                "size": 236921920
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_NodKrai_AQ601914_NHL_Girl.usm": {
+        "filename": "Cs_NodKrai_AQ601914_NHL_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.1.0",
+                "state": "AVAILABLE",
+                "md5": "26c2ea1942bb4b377f92fb19baba060e",
+                "size": 236924000
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_NodKrai_AQ602009_LB_Boy.usm": {
+        "filename": "Cs_NodKrai_AQ602009_LB_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.1.0",
+                "state": "AVAILABLE",
+                "md5": "50369477ff37c4cdf4a653335f03fa3b",
+                "size": 288593440
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_NodKrai_AQ602009_LB_Girl.usm": {
+        "filename": "Cs_NodKrai_AQ602009_LB_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.1.0",
+                "state": "AVAILABLE",
+                "md5": "2adf8bb342db9ae3cb9795af39a542c5",
+                "size": 288564320
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Video_Reunion_61.usm": {
+        "filename": "Video_Reunion_61.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.1.0",
+                "state": "AVAILABLE",
+                "md5": "bcd404bf52eb88dd3e2f8f7d5995041f",
+                "size": 32270560
             }
         ]
     }
