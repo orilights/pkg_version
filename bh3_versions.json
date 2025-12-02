@@ -179,5 +179,18 @@
             "password": "h6XjD8ReKlR1",
             "tag": "8.5.0"
         }
+    },
+    "8.6.0": {
+        "game": {},
+        "voice": {},
+        "update": {},
+        "decompressed_path": null,
+        "chunk": {
+            "branch": "predownload",
+            "diff_tags": [],
+            "package_id": "jdEaAE9pKa",
+            "password": "OAvMeb9icV0x",
+            "tag": "8.6.0"
+        }
     }
 }
