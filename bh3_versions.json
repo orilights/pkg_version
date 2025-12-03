@@ -186,10 +186,10 @@
         "update": {},
         "decompressed_path": null,
         "chunk": {
-            "branch": "predownload",
+            "branch": "main",
             "diff_tags": [],
             "package_id": "jdEaAE9pKa",
-            "password": "OAvMeb9icV0x",
+            "password": "h6XjD8ReKlR1",
             "tag": "8.6.0"
         }
     }
