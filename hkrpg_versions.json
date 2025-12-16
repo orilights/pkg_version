@@ -2153,12 +2153,12 @@
         "update": {},
         "decompressed_path": null,
         "chunk": {
-            "branch": "predownload",
+            "branch": "main",
             "diff_tags": [
                 "3.7.0"
             ],
             "package_id": "Je5DM3y6Q2",
-            "password": "72TguY9jPv40",
+            "password": "xAghmdIRsgzX",
             "tag": "3.8.0"
         }
     }
