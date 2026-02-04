@@ -1,0 +1,4265 @@
+{
+    "retcode": 0,
+    "message": "OK",
+    "data": {
+        "build_id": "cPdnzfIc8kcO",
+        "tag": "2.6.0",
+        "manifests": [
+            {
+                "category_id": "10047",
+                "category_name": "游戏资源-外网",
+                "manifest": {
+                    "id": "manifest_02919bf7c24b4a32_b4619740bca8705697e72cecc9b33eb4",
+                    "checksum": "b4619740bca8705697e72cecc9b33eb4",
+                    "compressed_size": "4130747",
+                    "uncompressed_size": "8004164"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "game",
+                "stats": {
+                    "compressed_size": "52082913369",
+                    "uncompressed_size": "53238077247",
+                    "file_count": "8367",
+                    "chunk_count": "49658"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "51827992645",
+                    "uncompressed_size": "52975125962",
+                    "file_count": "8367",
+                    "chunk_count": "49402"
+                }
+            },
+            {
+                "category_id": "10070",
+                "category_name": "任务▶主线▶第六章",
+                "manifest": {
+                    "id": "manifest_047782d6d5c66bbc_dadc4a76f8f9080941be1a5a4dbca8bf",
+                    "checksum": "dadc4a76f8f9080941be1a5a4dbca8bf",
+                    "compressed_size": "8865",
+                    "uncompressed_size": "16291"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10108",
+                "stats": {
+                    "compressed_size": "131861018",
+                    "uncompressed_size": "131873568",
+                    "file_count": "4",
+                    "chunk_count": "109"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "131861018",
+                    "uncompressed_size": "131873568",
+                    "file_count": "4",
+                    "chunk_count": "109"
+                }
+            },
+            {
+                "category_id": "10071",
+                "category_name": "活动▶1.3版本",
+                "manifest": {
+                    "id": "manifest_7796e0c5f4dd54bd_3af3be0175e806a20adf7e54e7da77fd",
+                    "checksum": "3af3be0175e806a20adf7e54e7da77fd",
+                    "compressed_size": "552",
+                    "uncompressed_size": "1268"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "71300",
+                "stats": {
+                    "compressed_size": "767967",
+                    "uncompressed_size": "783136",
+                    "file_count": "5",
+                    "chunk_count": "5"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "767967",
+                    "uncompressed_size": "783136",
+                    "file_count": "5",
+                    "chunk_count": "5"
+                }
+            },
+            {
+                "category_id": "10072",
+                "category_name": "任务▶个人线▶猫又",
+                "manifest": {
+                    "id": "manifest_ef6d4e51cac0cf3e_ae144efa04d0bc01575314cada052a39",
+                    "checksum": "ae144efa04d0bc01575314cada052a39",
+                    "compressed_size": "4475",
+                    "uncompressed_size": "7964"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10202",
+                "stats": {
+                    "compressed_size": "62824288",
+                    "uncompressed_size": "62826688",
+                    "file_count": "1",
+                    "chunk_count": "54"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "62824288",
+                    "uncompressed_size": "62826688",
+                    "file_count": "1",
+                    "chunk_count": "54"
+                }
+            },
+            {
+                "category_id": "10073",
+                "category_name": "系统▶教学视频▶关卡玩法",
+                "manifest": {
+                    "id": "manifest_73442b96f0cb16d9_7a2e4c67f33e018fedd4f83df292f7e1",
+                    "checksum": "7a2e4c67f33e018fedd4f83df292f7e1",
+                    "compressed_size": "5133",
+                    "uncompressed_size": "14942"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "31003",
+                "stats": {
+                    "compressed_size": "39562519",
+                    "uncompressed_size": "39754368",
+                    "file_count": "47",
+                    "chunk_count": "58"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "39562519",
+                    "uncompressed_size": "39754368",
+                    "file_count": "47",
+                    "chunk_count": "58"
+                }
+            },
+            {
+                "category_id": "10074",
+                "category_name": "活动▶1.5版本",
+                "manifest": {
+                    "id": "manifest_f7d8856b9a59b83b_a0d9c5fe98e9fac24651e5292dd14fd4",
+                    "checksum": "a0d9c5fe98e9fac24651e5292dd14fd4",
+                    "compressed_size": "2877",
+                    "uncompressed_size": "5060"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "71500",
+                "stats": {
+                    "compressed_size": "41165876",
+                    "uncompressed_size": "41186848",
+                    "file_count": "1",
+                    "chunk_count": "34"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "41165876",
+                    "uncompressed_size": "41186848",
+                    "file_count": "1",
+                    "chunk_count": "34"
+                }
+            },
+            {
+                "category_id": "10075",
+                "category_name": "系统▶影像档案▶个人线▶猫又",
+                "manifest": {
+                    "id": "manifest_f7506540f65d76cf_997aa542b01252444ffdfc19bcb5cad5",
+                    "checksum": "997aa542b01252444ffdfc19bcb5cad5",
+                    "compressed_size": "589",
+                    "uncompressed_size": "868"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30102002",
+                "stats": {
+                    "compressed_size": "5613040",
+                    "uncompressed_size": "5614944",
+                    "file_count": "1",
+                    "chunk_count": "5"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "5613040",
+                    "uncompressed_size": "5614944",
+                    "file_count": "1",
+                    "chunk_count": "5"
+                }
+            },
+            {
+                "category_id": "10076",
+                "category_name": "任务▶主线▶第五章",
+                "manifest": {
+                    "id": "manifest_d86c777c84a6dfcc_45698706ee0dfffbef57ba13184150a7",
+                    "checksum": "45698706ee0dfffbef57ba13184150a7",
+                    "compressed_size": "67979",
+                    "uncompressed_size": "126008"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10106",
+                "stats": {
+                    "compressed_size": "998862954",
+                    "uncompressed_size": "998935648",
+                    "file_count": "15",
+                    "chunk_count": "855"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "998862954",
+                    "uncompressed_size": "998935648",
+                    "file_count": "15",
+                    "chunk_count": "855"
+                }
+            },
+            {
+                "category_id": "10077",
+                "category_name": "系统▶影像档案▶个人线▶格莉丝",
+                "manifest": {
+                    "id": "manifest_d7932f359acabff7_17e39d13143cb03dd6ac51624e254c61",
+                    "checksum": "17e39d13143cb03dd6ac51624e254c61",
+                    "compressed_size": "825",
+                    "uncompressed_size": "1303"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30102003",
+                "stats": {
+                    "compressed_size": "5831280",
+                    "uncompressed_size": "5833952",
+                    "file_count": "1",
+                    "chunk_count": "8"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "5831280",
+                    "uncompressed_size": "5833952",
+                    "file_count": "1",
+                    "chunk_count": "8"
+                }
+            },
+            {
+                "category_id": "10078",
+                "category_name": "任务▶主线▶第七章",
+                "manifest": {
+                    "id": "manifest_e8dc07d07ac8b86c_4d77bad0a9be788df7fc0eb1ad98b678",
+                    "checksum": "4d77bad0a9be788df7fc0eb1ad98b678",
+                    "compressed_size": "31310",
+                    "uncompressed_size": "58119"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10109",
+                "stats": {
+                    "compressed_size": "442785571",
+                    "uncompressed_size": "442844544",
+                    "file_count": "9",
+                    "chunk_count": "393"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "442785571",
+                    "uncompressed_size": "442844544",
+                    "file_count": "9",
+                    "chunk_count": "393"
+                }
+            },
+            {
+                "category_id": "10079",
+                "category_name": "系统▶回流功能",
+                "manifest": {
+                    "id": "manifest_4b86e772c08d1a9e_a34b7b573e9c4d23fd8e77ac6e05283f",
+                    "checksum": "a34b7b573e9c4d23fd8e77ac6e05283f",
+                    "compressed_size": "660",
+                    "uncompressed_size": "1075"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30300",
+                "stats": {
+                    "compressed_size": "5592733",
+                    "uncompressed_size": "5635488",
+                    "file_count": "2",
+                    "chunk_count": "6"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "5592733",
+                    "uncompressed_size": "5635488",
+                    "file_count": "2",
+                    "chunk_count": "6"
+                }
+            },
+            {
+                "category_id": "10080",
+                "category_name": "任务▶OVA▶简",
+                "manifest": {
+                    "id": "manifest_115d52c4cf2e6884_2b81834dbbed8e9974c07ec7e0bd3e60",
+                    "checksum": "2b81834dbbed8e9974c07ec7e0bd3e60",
+                    "compressed_size": "22369",
+                    "uncompressed_size": "41263"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10301",
+                "stats": {
+                    "compressed_size": "328796468",
+                    "uncompressed_size": "328812032",
+                    "file_count": "5",
+                    "chunk_count": "280"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "328796468",
+                    "uncompressed_size": "328812032",
+                    "file_count": "5",
+                    "chunk_count": "280"
+                }
+            },
+            {
+                "category_id": "10081",
+                "category_name": "系统▶影像档案▶主线▶第四章",
+                "manifest": {
+                    "id": "manifest_410d18dda48c1258_b236d6496f8f566f1cf9ced901897167",
+                    "checksum": "b236d6496f8f566f1cf9ced901897167",
+                    "compressed_size": "2502",
+                    "uncompressed_size": "5190"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30101005",
+                "stats": {
+                    "compressed_size": "26981707",
+                    "uncompressed_size": "27001824",
+                    "file_count": "10",
+                    "chunk_count": "27"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "26981707",
+                    "uncompressed_size": "27001824",
+                    "file_count": "10",
+                    "chunk_count": "27"
+                }
+            },
+            {
+                "category_id": "10082",
+                "category_name": "系统▶影像档案▶主线▶第五章",
+                "manifest": {
+                    "id": "manifest_43a76a670ce715d9_8ea5255d8c6c4d32d864a801d7130e46",
+                    "checksum": "8ea5255d8c6c4d32d864a801d7130e46",
+                    "compressed_size": "2415",
+                    "uncompressed_size": "4890"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30101006",
+                "stats": {
+                    "compressed_size": "25082923",
+                    "uncompressed_size": "25100736",
+                    "file_count": "9",
+                    "chunk_count": "26"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "25082923",
+                    "uncompressed_size": "25100736",
+                    "file_count": "9",
+                    "chunk_count": "26"
+                }
+            },
+            {
+                "category_id": "10083",
+                "category_name": "活动▶1.4版本",
+                "manifest": {
+                    "id": "manifest_cc614fcbfc16ae11_d2d0aff38970d21c0b96bd1de5e5bbdd",
+                    "checksum": "d2d0aff38970d21c0b96bd1de5e5bbdd",
+                    "compressed_size": "2373",
+                    "uncompressed_size": "4806"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "71400",
+                "stats": {
+                    "compressed_size": "20108134",
+                    "uncompressed_size": "20152320",
+                    "file_count": "10",
+                    "chunk_count": "25"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "20108134",
+                    "uncompressed_size": "20152320",
+                    "file_count": "10",
+                    "chunk_count": "25"
+                }
+            },
+            {
+                "category_id": "10084",
+                "category_name": "系统▶影像档案▶个人线▶橘福福",
+                "manifest": {
+                    "id": "manifest_0ac5db075ec292ad_0c141140703f30b05b0c7823f27486d4",
+                    "checksum": "0c141140703f30b05b0c7823f27486d4",
+                    "compressed_size": "670",
+                    "uncompressed_size": "1013"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30102017",
+                "stats": {
+                    "compressed_size": "7144757",
+                    "uncompressed_size": "7146592",
+                    "file_count": "1",
+                    "chunk_count": "6"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "7144757",
+                    "uncompressed_size": "7146592",
+                    "file_count": "1",
+                    "chunk_count": "6"
+                }
+            },
+            {
+                "category_id": "10085",
+                "category_name": "系统▶影像档案▶主线▶第六章",
+                "manifest": {
+                    "id": "manifest_0c124374a8b52788_e0a2784f1646aff94ca7c21ee44f0917",
+                    "checksum": "e0a2784f1646aff94ca7c21ee44f0917",
+                    "compressed_size": "2908",
+                    "uncompressed_size": "6015"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30101008",
+                "stats": {
+                    "compressed_size": "30262706",
+                    "uncompressed_size": "30284544",
+                    "file_count": "11",
+                    "chunk_count": "32"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "30262706",
+                    "uncompressed_size": "30284544",
+                    "file_count": "11",
+                    "chunk_count": "32"
+                }
+            },
+            {
+                "category_id": "10086",
+                "category_name": "空洞▶转场",
+                "manifest": {
+                    "id": "manifest_4190caa377728cbf_ede184fb7f0e52ead921c1d563c1019e",
+                    "checksum": "ede184fb7f0e52ead921c1d563c1019e",
+                    "compressed_size": "22290",
+                    "uncompressed_size": "58334"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "20103",
+                "stats": {
+                    "compressed_size": "202040976",
+                    "uncompressed_size": "202798080",
+                    "file_count": "156",
+                    "chunk_count": "258"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "202040976",
+                    "uncompressed_size": "202798080",
+                    "file_count": "156",
+                    "chunk_count": "258"
+                }
+            },
+            {
+                "category_id": "10087",
+                "category_name": "委托界面▶零号空洞",
+                "manifest": {
+                    "id": "manifest_ef9438b85cc29b9c_069a869bafb7d100362cf6a9186dbff5",
+                    "checksum": "069a869bafb7d100362cf6a9186dbff5",
+                    "compressed_size": "11403",
+                    "uncompressed_size": "24930"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "20207",
+                "stats": {
+                    "compressed_size": "117744127",
+                    "uncompressed_size": "117868640",
+                    "file_count": "53",
+                    "chunk_count": "126"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "117744127",
+                    "uncompressed_size": "117868640",
+                    "file_count": "53",
+                    "chunk_count": "126"
+                }
+            },
+            {
+                "category_id": "10088",
+                "category_name": "系统▶影像档案▶个人线▶浅羽悠真",
+                "manifest": {
+                    "id": "manifest_4645f84d6a431a2e_fb249505a4f0b2105dac2dd5335dd6da",
+                    "checksum": "fb249505a4f0b2105dac2dd5335dd6da",
+                    "compressed_size": "578",
+                    "uncompressed_size": "856"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30102010",
+                "stats": {
+                    "compressed_size": "4673168",
+                    "uncompressed_size": "4675104",
+                    "file_count": "1",
+                    "chunk_count": "5"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "4673168",
+                    "uncompressed_size": "4675104",
+                    "file_count": "1",
+                    "chunk_count": "5"
+                }
+            },
+            {
+                "category_id": "10089",
+                "category_name": "系统▶教学视频▶活动教学",
+                "manifest": {
+                    "id": "manifest_cf1c2466226b721d_e22802dd6add46ac4caeeb8c0e1d20bb",
+                    "checksum": "e22802dd6add46ac4caeeb8c0e1d20bb",
+                    "compressed_size": "8386",
+                    "uncompressed_size": "26743"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "31008",
+                "stats": {
+                    "compressed_size": "58970982",
+                    "uncompressed_size": "59284544",
+                    "file_count": "90",
+                    "chunk_count": "102"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "58970982",
+                    "uncompressed_size": "59284544",
+                    "file_count": "90",
+                    "chunk_count": "102"
+                }
+            },
+            {
+                "category_id": "10090",
+                "category_name": "系统▶结算界面",
+                "manifest": {
+                    "id": "manifest_6e3cc40f72cd1b71_f1e0041fde3ac1db4c75d0189fcb86fc",
+                    "checksum": "f1e0041fde3ac1db4c75d0189fcb86fc",
+                    "compressed_size": "3098",
+                    "uncompressed_size": "7530"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30700",
+                "stats": {
+                    "compressed_size": "24624026",
+                    "uncompressed_size": "24669664",
+                    "file_count": "20",
+                    "chunk_count": "33"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "24624026",
+                    "uncompressed_size": "24669664",
+                    "file_count": "20",
+                    "chunk_count": "33"
+                }
+            },
+            {
+                "category_id": "10091",
+                "category_name": "关卡▶式舆防卫战",
+                "manifest": {
+                    "id": "manifest_519f8f99a5ffbcd3_946f75c65d4b10cb8f790520699a9f16",
+                    "checksum": "946f75c65d4b10cb8f790520699a9f16",
+                    "compressed_size": "719",
+                    "uncompressed_size": "1303"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "60100",
+                "stats": {
+                    "compressed_size": "6636917",
+                    "uncompressed_size": "6643008",
+                    "file_count": "3",
+                    "chunk_count": "6"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "6636917",
+                    "uncompressed_size": "6643008",
+                    "file_count": "3",
+                    "chunk_count": "6"
+                }
+            },
+            {
+                "category_id": "10092",
+                "category_name": "任务▶个人线▶格莉丝",
+                "manifest": {
+                    "id": "manifest_c0bfaa592cd190a3_cf41a1a2ebb3b55ce228d5386dc45d72",
+                    "checksum": "cf41a1a2ebb3b55ce228d5386dc45d72",
+                    "compressed_size": "5904",
+                    "uncompressed_size": "10599"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10203",
+                "stats": {
+                    "compressed_size": "89563705",
+                    "uncompressed_size": "89566560",
+                    "file_count": "1",
+                    "chunk_count": "72"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "89563705",
+                    "uncompressed_size": "89566560",
+                    "file_count": "1",
+                    "chunk_count": "72"
+                }
+            },
+            {
+                "category_id": "10093",
+                "category_name": "系统▶教学视频▶空洞探索",
+                "manifest": {
+                    "id": "manifest_d898e91b6fec3b85_64b1f406cc80a16ae452be9f9c505502",
+                    "checksum": "64b1f406cc80a16ae452be9f9c505502",
+                    "compressed_size": "3598",
+                    "uncompressed_size": "10403"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "31004",
+                "stats": {
+                    "compressed_size": "26066514",
+                    "uncompressed_size": "26193056",
+                    "file_count": "32",
+                    "chunk_count": "41"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "26066514",
+                    "uncompressed_size": "26193056",
+                    "file_count": "32",
+                    "chunk_count": "41"
+                }
+            },
+            {
+                "category_id": "10094",
+                "category_name": "任务▶个人线▶丽娜",
+                "manifest": {
+                    "id": "manifest_1bbf54b5c0380073_cc6d415c1986ae6932d04fffdbc2c90d",
+                    "checksum": "cc6d415c1986ae6932d04fffdbc2c90d",
+                    "compressed_size": "4311",
+                    "uncompressed_size": "7667"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10206",
+                "stats": {
+                    "compressed_size": "55715594",
+                    "uncompressed_size": "55717504",
+                    "file_count": "1",
+                    "chunk_count": "52"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "55715594",
+                    "uncompressed_size": "55717504",
+                    "file_count": "1",
+                    "chunk_count": "52"
+                }
+            },
+            {
+                "category_id": "10095",
+                "category_name": "任务▶主线▶第三章",
+                "manifest": {
+                    "id": "manifest_1669ec8e2e05efc2_82d20b6e2521f0eca2f1b037c044919f",
+                    "checksum": "82d20b6e2521f0eca2f1b037c044919f",
+                    "compressed_size": "31340",
+                    "uncompressed_size": "57914"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10104",
+                "stats": {
+                    "compressed_size": "460666680",
+                    "uncompressed_size": "460701984",
+                    "file_count": "7",
+                    "chunk_count": "393"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "460666680",
+                    "uncompressed_size": "460701984",
+                    "file_count": "7",
+                    "chunk_count": "393"
+                }
+            },
+            {
+                "category_id": "10096",
+                "category_name": "系统▶影像档案▶个人线▶柏妮思",
+                "manifest": {
+                    "id": "manifest_be0a40083fb93a61_d0fd90b2b4e0c1839aaca6d4404a2537",
+                    "checksum": "d0fd90b2b4e0c1839aaca6d4404a2537",
+                    "compressed_size": "588",
+                    "uncompressed_size": "868"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30102008",
+                "stats": {
+                    "compressed_size": "6544467",
+                    "uncompressed_size": "6546592",
+                    "file_count": "1",
+                    "chunk_count": "5"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "6544467",
+                    "uncompressed_size": "6546592",
+                    "file_count": "1",
+                    "chunk_count": "5"
+                }
+            },
+            {
+                "category_id": "10097",
+                "category_name": "系统▶教学视频▶角色技能",
+                "manifest": {
+                    "id": "manifest_21f5b1b3e8246b3c_382aef52a5aa3f6e53fd7306f1fc0a22",
+                    "checksum": "382aef52a5aa3f6e53fd7306f1fc0a22",
+                    "compressed_size": "13349",
+                    "uncompressed_size": "38200"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "31002",
+                "stats": {
+                    "compressed_size": "123912759",
+                    "uncompressed_size": "124370912",
+                    "file_count": "119",
+                    "chunk_count": "166"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "123912759",
+                    "uncompressed_size": "124370912",
+                    "file_count": "119",
+                    "chunk_count": "166"
+                }
+            },
+            {
+                "category_id": "10098",
+                "category_name": "空洞▶棋盘事件",
+                "manifest": {
+                    "id": "manifest_f8629e8b7061c0cd_793e2bf9dfe6c490f38625c5a7ee3ea4",
+                    "checksum": "793e2bf9dfe6c490f38625c5a7ee3ea4",
+                    "compressed_size": "47259",
+                    "uncompressed_size": "146207"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "20101",
+                "stats": {
+                    "compressed_size": "335128775",
+                    "uncompressed_size": "343138464",
+                    "file_count": "487",
+                    "chunk_count": "570"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "335128775",
+                    "uncompressed_size": "343138464",
+                    "file_count": "487",
+                    "chunk_count": "570"
+                }
+            },
+            {
+                "category_id": "10099",
+                "category_name": "系统▶影像档案▶OVA▶耀嘉音",
+                "manifest": {
+                    "id": "manifest_34288d53d2b8fc88_6bc45de41aadfe2116d66c50fe7f7e57",
+                    "checksum": "6bc45de41aadfe2116d66c50fe7f7e57",
+                    "compressed_size": "2309",
+                    "uncompressed_size": "4746"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30102013",
+                "stats": {
+                    "compressed_size": "22147115",
+                    "uncompressed_size": "22162944",
+                    "file_count": "8",
+                    "chunk_count": "25"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "22147115",
+                    "uncompressed_size": "22162944",
+                    "file_count": "8",
+                    "chunk_count": "25"
+                }
+            },
+            {
+                "category_id": "10100",
+                "category_name": "活动▶1.1版本",
+                "manifest": {
+                    "id": "manifest_7071f3e6030f7229_b99fa4631fb7151ec59ae2c4ba6b06bb",
+                    "checksum": "b99fa4631fb7151ec59ae2c4ba6b06bb",
+                    "compressed_size": "230",
+                    "uncompressed_size": "287"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "71100",
+                "stats": {
+                    "compressed_size": "501923",
+                    "uncompressed_size": "504096",
+                    "file_count": "1",
+                    "chunk_count": "1"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "501923",
+                    "uncompressed_size": "504096",
+                    "file_count": "1",
+                    "chunk_count": "1"
+                }
+            },
+            {
+                "category_id": "10101",
+                "category_name": "系统▶影像档案▶个人线▶青衣",
+                "manifest": {
+                    "id": "manifest_bd0c2b3f0dd2cb79_5ceca86e8296f93705992edf21937bd8",
+                    "checksum": "5ceca86e8296f93705992edf21937bd8",
+                    "compressed_size": "592",
+                    "uncompressed_size": "869"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30102007",
+                "stats": {
+                    "compressed_size": "7233503",
+                    "uncompressed_size": "7235360",
+                    "file_count": "1",
+                    "chunk_count": "5"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "7233503",
+                    "uncompressed_size": "7235360",
+                    "file_count": "1",
+                    "chunk_count": "5"
+                }
+            },
+            {
+                "category_id": "10102",
+                "category_name": "系统▶影像档案▶主线▶序章",
+                "manifest": {
+                    "id": "manifest_433de8e3a1fb0782_e57073f74bac7d9d9ad3975d2cd1bad0",
+                    "checksum": "e57073f74bac7d9d9ad3975d2cd1bad0",
+                    "compressed_size": "2293",
+                    "uncompressed_size": "4624"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30101000",
+                "stats": {
+                    "compressed_size": "22323657",
+                    "uncompressed_size": "22339456",
+                    "file_count": "8",
+                    "chunk_count": "25"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "22323657",
+                    "uncompressed_size": "22339456",
+                    "file_count": "8",
+                    "chunk_count": "25"
+                }
+            },
+            {
+                "category_id": "10103",
+                "category_name": "任务▶个人线▶橘福福",
+                "manifest": {
+                    "id": "manifest_8cee743409576b93_da06c2b5a558fe0e25a48d61a4da1d3b",
+                    "checksum": "da06c2b5a558fe0e25a48d61a4da1d3b",
+                    "compressed_size": "2949",
+                    "uncompressed_size": "5180"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10214",
+                "stats": {
+                    "compressed_size": "40987236",
+                    "uncompressed_size": "40992224",
+                    "file_count": "2",
+                    "chunk_count": "34"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "40987236",
+                    "uncompressed_size": "40992224",
+                    "file_count": "2",
+                    "chunk_count": "34"
+                }
+            },
+            {
+                "category_id": "10104",
+                "category_name": "Gacha视频▶其他",
+                "manifest": {
+                    "id": "manifest_1e47c1a1cba33f16_2aec16cbdc8a623a2363a395bd25d9a6",
+                    "checksum": "2aec16cbdc8a623a2363a395bd25d9a6",
+                    "compressed_size": "1429",
+                    "uncompressed_size": "3852"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "40300",
+                "stats": {
+                    "compressed_size": "7489243",
+                    "uncompressed_size": "7545856",
+                    "file_count": "14",
+                    "chunk_count": "16"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "7489243",
+                    "uncompressed_size": "7545856",
+                    "file_count": "14",
+                    "chunk_count": "16"
+                }
+            },
+            {
+                "category_id": "10105",
+                "category_name": "任务▶个人线▶青衣",
+                "manifest": {
+                    "id": "manifest_28efadb1e015e1e0_22addb2ee0e1d0c0717c435db7c633f5",
+                    "checksum": "22addb2ee0e1d0c0717c435db7c633f5",
+                    "compressed_size": "6816",
+                    "uncompressed_size": "12395"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10207",
+                "stats": {
+                    "compressed_size": "89548399",
+                    "uncompressed_size": "89559776",
+                    "file_count": "3",
+                    "chunk_count": "83"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "89548399",
+                    "uncompressed_size": "89559776",
+                    "file_count": "3",
+                    "chunk_count": "83"
+                }
+            },
+            {
+                "category_id": "10106",
+                "category_name": "系统▶道观剧情",
+                "manifest": {
+                    "id": "manifest_9f5911b85c5492c9_7db63fcd1874b2c938e90e7f5c4ec4eb",
+                    "checksum": "7db63fcd1874b2c938e90e7f5c4ec4eb",
+                    "compressed_size": "1546",
+                    "uncompressed_size": "2566"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "31100",
+                "stats": {
+                    "compressed_size": "17081422",
+                    "uncompressed_size": "17087360",
+                    "file_count": "1",
+                    "chunk_count": "17"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "17081422",
+                    "uncompressed_size": "17087360",
+                    "file_count": "1",
+                    "chunk_count": "17"
+                }
+            },
+            {
+                "category_id": "10107",
+                "category_name": "系统▶绳网",
+                "manifest": {
+                    "id": "manifest_e21b63aa59b36dc5_a596be3167fc90bd2d2d3a56ea1eb2c3",
+                    "checksum": "a596be3167fc90bd2d2d3a56ea1eb2c3",
+                    "compressed_size": "3314",
+                    "uncompressed_size": "10343"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30200",
+                "stats": {
+                    "compressed_size": "27759912",
+                    "uncompressed_size": "27919904",
+                    "file_count": "36",
+                    "chunk_count": "41"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "27759912",
+                    "uncompressed_size": "27919904",
+                    "file_count": "36",
+                    "chunk_count": "41"
+                }
+            },
+            {
+                "category_id": "10108",
+                "category_name": "系统▶教学视频▶战斗规则",
+                "manifest": {
+                    "id": "manifest_a38dd8c3f1aeb72c_a4232849e88bed53586a2fb2914dbd0e",
+                    "checksum": "a4232849e88bed53586a2fb2914dbd0e",
+                    "compressed_size": "5196",
+                    "uncompressed_size": "13733"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "31001",
+                "stats": {
+                    "compressed_size": "39611668",
+                    "uncompressed_size": "39796064",
+                    "file_count": "45",
+                    "chunk_count": "58"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "39611668",
+                    "uncompressed_size": "39796064",
+                    "file_count": "45",
+                    "chunk_count": "58"
+                }
+            },
+            {
+                "category_id": "10109",
+                "category_name": "系统▶影像档案▶个人线▶丽娜",
+                "manifest": {
+                    "id": "manifest_97c0978c0c989693_f96e5612e80eb42e682f932ecc3f2cab",
+                    "checksum": "f96e5612e80eb42e682f932ecc3f2cab",
+                    "compressed_size": "746",
+                    "uncompressed_size": "1155"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30102006",
+                "stats": {
+                    "compressed_size": "5658861",
+                    "uncompressed_size": "5660736",
+                    "file_count": "1",
+                    "chunk_count": "7"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "5658861",
+                    "uncompressed_size": "5660736",
+                    "file_count": "1",
+                    "chunk_count": "7"
+                }
+            },
+            {
+                "category_id": "10110",
+                "category_name": "系统▶影像档案▶OVA▶简",
+                "manifest": {
+                    "id": "manifest_6abfa6f65b477efe_6ff91acbd3c1b375da16b3161f455fe2",
+                    "checksum": "6ff91acbd3c1b375da16b3161f455fe2",
+                    "compressed_size": "1543",
+                    "uncompressed_size": "3022"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30102011",
+                "stats": {
+                    "compressed_size": "14761724",
+                    "uncompressed_size": "14771616",
+                    "file_count": "5",
+                    "chunk_count": "16"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "14761724",
+                    "uncompressed_size": "14771616",
+                    "file_count": "5",
+                    "chunk_count": "16"
+                }
+            },
+            {
+                "category_id": "10111",
+                "category_name": "系统▶影像档案▶主线▶第七章",
+                "manifest": {
+                    "id": "manifest_7e24568a604df7e1_245fbddb30198386597154e5d378f8fe",
+                    "checksum": "245fbddb30198386597154e5d378f8fe",
+                    "compressed_size": "3084",
+                    "uncompressed_size": "6339"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30101009",
+                "stats": {
+                    "compressed_size": "30632221",
+                    "uncompressed_size": "30653952",
+                    "file_count": "11",
+                    "chunk_count": "34"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "30632221",
+                    "uncompressed_size": "30653952",
+                    "file_count": "11",
+                    "chunk_count": "34"
+                }
+            },
+            {
+                "category_id": "10112",
+                "category_name": "任务▶个人线▶11号",
+                "manifest": {
+                    "id": "manifest_6b2266d7d53bf67a_088d6f49911f2fd50396fcf736fc354a",
+                    "checksum": "088d6f49911f2fd50396fcf736fc354a",
+                    "compressed_size": "6915",
+                    "uncompressed_size": "12469"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10201",
+                "stats": {
+                    "compressed_size": "97247944",
+                    "uncompressed_size": "97252480",
+                    "file_count": "2",
+                    "chunk_count": "84"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "97247944",
+                    "uncompressed_size": "97252480",
+                    "file_count": "2",
+                    "chunk_count": "84"
+                }
+            },
+            {
+                "category_id": "10113",
+                "category_name": "系统▶教学视频▶零号空洞",
+                "manifest": {
+                    "id": "manifest_06bbc9faa4de6503_edf902bc8435a1dec6bce90b56e65d61",
+                    "checksum": "edf902bc8435a1dec6bce90b56e65d61",
+                    "compressed_size": "877",
+                    "uncompressed_size": "2093"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "31005",
+                "stats": {
+                    "compressed_size": "5828139",
+                    "uncompressed_size": "5880928",
+                    "file_count": "7",
+                    "chunk_count": "8"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "5828139",
+                    "uncompressed_size": "5880928",
+                    "file_count": "7",
+                    "chunk_count": "8"
+                }
+            },
+            {
+                "category_id": "10114",
+                "category_name": "系统▶影像档案▶主线▶第三章",
+                "manifest": {
+                    "id": "manifest_894ba4c8bd16ffc4_d3ae1115e52f13fefa2b37627a49051b",
+                    "checksum": "d3ae1115e52f13fefa2b37627a49051b",
+                    "compressed_size": "3072",
+                    "uncompressed_size": "6347"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30101004",
+                "stats": {
+                    "compressed_size": "31554307",
+                    "uncompressed_size": "31576096",
+                    "file_count": "11",
+                    "chunk_count": "34"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "31554307",
+                    "uncompressed_size": "31576096",
+                    "file_count": "11",
+                    "chunk_count": "34"
+                }
+            },
+            {
+                "category_id": "10115",
+                "category_name": "系统▶影像档案▶OVA▶月城柳",
+                "manifest": {
+                    "id": "manifest_97d00bf67dbc0c3a_f160ad16a7b30581cb78b00a50cd4611",
+                    "checksum": "f160ad16a7b30581cb78b00a50cd4611",
+                    "compressed_size": "2396",
+                    "uncompressed_size": "5062"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30102012",
+                "stats": {
+                    "compressed_size": "24733822",
+                    "uncompressed_size": "24751552",
+                    "file_count": "9",
+                    "chunk_count": "26"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "24733822",
+                    "uncompressed_size": "24751552",
+                    "file_count": "9",
+                    "chunk_count": "26"
+                }
+            },
+            {
+                "category_id": "10116",
+                "category_name": "任务▶个人线▶扳机",
+                "manifest": {
+                    "id": "manifest_63209b191e3d1374_e4bb4b3a3284f20e880d11063a168eb9",
+                    "checksum": "e4bb4b3a3284f20e880d11063a168eb9",
+                    "compressed_size": "4242",
+                    "uncompressed_size": "7526"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10212",
+                "stats": {
+                    "compressed_size": "60420117",
+                    "uncompressed_size": "60434272",
+                    "file_count": "1",
+                    "chunk_count": "51"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "60420117",
+                    "uncompressed_size": "60434272",
+                    "file_count": "1",
+                    "chunk_count": "51"
+                }
+            },
+            {
+                "category_id": "10117",
+                "category_name": "系统▶Gal视频资产",
+                "manifest": {
+                    "id": "manifest_da2a3c409d34c43a_78e8c100b862c36d9d15d813842a6413",
+                    "checksum": "78e8c100b862c36d9d15d813842a6413",
+                    "compressed_size": "485",
+                    "uncompressed_size": "1114"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30900",
+                "stats": {
+                    "compressed_size": "2991443",
+                    "uncompressed_size": "3027616",
+                    "file_count": "4",
+                    "chunk_count": "4"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "2991443",
+                    "uncompressed_size": "3027616",
+                    "file_count": "4",
+                    "chunk_count": "4"
+                }
+            },
+            {
+                "category_id": "10118",
+                "category_name": "系统▶爬塔",
+                "manifest": {
+                    "id": "manifest_1afe9341c8ec5712_c167fdc39da81a4755873d4431ab5719",
+                    "checksum": "c167fdc39da81a4755873d4431ab5719",
+                    "compressed_size": "10870",
+                    "uncompressed_size": "25932"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30800",
+                "stats": {
+                    "compressed_size": "92265796",
+                    "uncompressed_size": "92449952",
+                    "file_count": "65",
+                    "chunk_count": "122"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "92265796",
+                    "uncompressed_size": "92449952",
+                    "file_count": "65",
+                    "chunk_count": "122"
+                }
+            },
+            {
+                "category_id": "10119",
+                "category_name": "系统▶影像档案▶主线▶第二章",
+                "manifest": {
+                    "id": "manifest_5cecb2503d75bcc3_65ce126ae0c2227c884a6cb47c69a12d",
+                    "checksum": "65ce126ae0c2227c884a6cb47c69a12d",
+                    "compressed_size": "2653",
+                    "uncompressed_size": "5514"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30101002",
+                "stats": {
+                    "compressed_size": "28688194",
+                    "uncompressed_size": "28707936",
+                    "file_count": "10",
+                    "chunk_count": "29"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "28688194",
+                    "uncompressed_size": "28707936",
+                    "file_count": "10",
+                    "chunk_count": "29"
+                }
+            },
+            {
+                "category_id": "10120",
+                "category_name": "系统▶登录&创角流程",
+                "manifest": {
+                    "id": "manifest_cd98f2b7ab712557_366ebaa318ee457ccb6fd882f284f0bb",
+                    "checksum": "366ebaa318ee457ccb6fd882f284f0bb",
+                    "compressed_size": "5720",
+                    "uncompressed_size": "10973"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30400",
+                "stats": {
+                    "compressed_size": "71317976",
+                    "uncompressed_size": "71483744",
+                    "file_count": "11",
+                    "chunk_count": "67"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "71317976",
+                    "uncompressed_size": "71483744",
+                    "file_count": "11",
+                    "chunk_count": "67"
+                }
+            },
+            {
+                "category_id": "10121",
+                "category_name": "系统▶影像档案▶个人线▶珂蕾妲",
+                "manifest": {
+                    "id": "manifest_0828a2a193330e03_3a4293ce55fcee75df50fa70082c9cca",
+                    "checksum": "3a4293ce55fcee75df50fa70082c9cca",
+                    "compressed_size": "667",
+                    "uncompressed_size": "1013"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30102005",
+                "stats": {
+                    "compressed_size": "6304180",
+                    "uncompressed_size": "6306048",
+                    "file_count": "1",
+                    "chunk_count": "6"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "6304180",
+                    "uncompressed_size": "6306048",
+                    "file_count": "1",
+                    "chunk_count": "6"
+                }
+            },
+            {
+                "category_id": "10122",
+                "category_name": "系统▶影像档案▶个人线▶11号",
+                "manifest": {
+                    "id": "manifest_93a07ad3534b129f_f22bf3af4372b40232471fafce4beb77",
+                    "checksum": "f22bf3af4372b40232471fafce4beb77",
+                    "compressed_size": "738",
+                    "uncompressed_size": "1149"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30102001",
+                "stats": {
+                    "compressed_size": "6554239",
+                    "uncompressed_size": "6556544",
+                    "file_count": "1",
+                    "chunk_count": "7"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "6554239",
+                    "uncompressed_size": "6556544",
+                    "file_count": "1",
+                    "chunk_count": "7"
+                }
+            },
+            {
+                "category_id": "10123",
+                "category_name": "主城▶NPC挂件",
+                "manifest": {
+                    "id": "manifest_63414cd7bd90594e_3571650f4c0eb87c702362bfad4b92fe",
+                    "checksum": "3571650f4c0eb87c702362bfad4b92fe",
+                    "compressed_size": "224",
+                    "uncompressed_size": "263"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "50100",
+                "stats": {
+                    "compressed_size": "538451",
+                    "uncompressed_size": "540512",
+                    "file_count": "1",
+                    "chunk_count": "1"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "538451",
+                    "uncompressed_size": "540512",
+                    "file_count": "1",
+                    "chunk_count": "1"
+                }
+            },
+            {
+                "category_id": "10124",
+                "category_name": "任务▶OVA▶月城柳",
+                "manifest": {
+                    "id": "manifest_3afeef367fa9d120_2310168b67d4c295a90fe0796e1b6a18",
+                    "checksum": "2310168b67d4c295a90fe0796e1b6a18",
+                    "compressed_size": "13329",
+                    "uncompressed_size": "24466"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10302",
+                "stats": {
+                    "compressed_size": "183169492",
+                    "uncompressed_size": "183183072",
+                    "file_count": "3",
+                    "chunk_count": "166"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "183169492",
+                    "uncompressed_size": "183183072",
+                    "file_count": "3",
+                    "chunk_count": "166"
+                }
+            },
+            {
+                "category_id": "10125",
+                "category_name": "任务▶主线▶双子线",
+                "manifest": {
+                    "id": "manifest_f127b63bc9cb186a_75a363118947318cc8cd64bad8d82028",
+                    "checksum": "75a363118947318cc8cd64bad8d82028",
+                    "compressed_size": "11362",
+                    "uncompressed_size": "20717"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10107",
+                "stats": {
+                    "compressed_size": "160127432",
+                    "uncompressed_size": "160139104",
+                    "file_count": "2",
+                    "chunk_count": "141"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "160127432",
+                    "uncompressed_size": "160139104",
+                    "file_count": "2",
+                    "chunk_count": "141"
+                }
+            },
+            {
+                "category_id": "10126",
+                "category_name": "Gacha视频▶角色",
+                "manifest": {
+                    "id": "manifest_25f423e87364358e_6655a400216d9a0aa263d973e25184a0",
+                    "checksum": "6655a400216d9a0aa263d973e25184a0",
+                    "compressed_size": "6787",
+                    "uncompressed_size": "13772"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "40100",
+                "stats": {
+                    "compressed_size": "71260789",
+                    "uncompressed_size": "71313824",
+                    "file_count": "25",
+                    "chunk_count": "77"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "71260789",
+                    "uncompressed_size": "71313824",
+                    "file_count": "25",
+                    "chunk_count": "77"
+                }
+            },
+            {
+                "category_id": "10127",
+                "category_name": "主城▶场景物件",
+                "manifest": {
+                    "id": "manifest_b2339a14ddd081c6_67c37e6800b113b8afbf8627635a58ad",
+                    "checksum": "67c37e6800b113b8afbf8627635a58ad",
+                    "compressed_size": "483",
+                    "uncompressed_size": "1094"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "50200",
+                "stats": {
+                    "compressed_size": "2776852",
+                    "uncompressed_size": "2788960",
+                    "file_count": "4",
+                    "chunk_count": "4"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "2776852",
+                    "uncompressed_size": "2788960",
+                    "file_count": "4",
+                    "chunk_count": "4"
+                }
+            },
+            {
+                "category_id": "10128",
+                "category_name": "任务▶主线▶第四章",
+                "manifest": {
+                    "id": "manifest_501b6c1d03825ca4_1f537dbb0caa6856c6402de802d5cd56",
+                    "checksum": "1f537dbb0caa6856c6402de802d5cd56",
+                    "compressed_size": "43787",
+                    "uncompressed_size": "81133"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10105",
+                "stats": {
+                    "compressed_size": "641562401",
+                    "uncompressed_size": "641602336",
+                    "file_count": "12",
+                    "chunk_count": "549"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "641562401",
+                    "uncompressed_size": "641602336",
+                    "file_count": "12",
+                    "chunk_count": "549"
+                }
+            },
+            {
+                "category_id": "10129",
+                "category_name": "任务▶个人线▶浅羽悠真",
+                "manifest": {
+                    "id": "manifest_78caa98af2a0773b_e4f6573916157c7c8dcd93df066f81a6",
+                    "checksum": "e4f6573916157c7c8dcd93df066f81a6",
+                    "compressed_size": "7227",
+                    "uncompressed_size": "13064"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10210",
+                "stats": {
+                    "compressed_size": "100639488",
+                    "uncompressed_size": "100658720",
+                    "file_count": "1",
+                    "chunk_count": "89"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "100639488",
+                    "uncompressed_size": "100658720",
+                    "file_count": "1",
+                    "chunk_count": "89"
+                }
+            },
+            {
+                "category_id": "10130",
+                "category_name": "主城▶街机厅",
+                "manifest": {
+                    "id": "manifest_464bffef39b2feab_6e7614dccc497c15a25ec55460e02d94",
+                    "checksum": "6e7614dccc497c15a25ec55460e02d94",
+                    "compressed_size": "2980",
+                    "uncompressed_size": "6294"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "50300",
+                "stats": {
+                    "compressed_size": "28949223",
+                    "uncompressed_size": "28977504",
+                    "file_count": "13",
+                    "chunk_count": "32"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "28949223",
+                    "uncompressed_size": "28977504",
+                    "file_count": "13",
+                    "chunk_count": "32"
+                }
+            },
+            {
+                "category_id": "10132",
+                "category_name": "任务▶个人线▶莱特",
+                "manifest": {
+                    "id": "manifest_056c5f4de4c77490_db5341e3713dbf0e0b8d377337248f3c",
+                    "checksum": "db5341e3713dbf0e0b8d377337248f3c",
+                    "compressed_size": "2668",
+                    "uncompressed_size": "4613"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10209",
+                "stats": {
+                    "compressed_size": "36925515",
+                    "uncompressed_size": "36926432",
+                    "file_count": "1",
+                    "chunk_count": "31"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "36925515",
+                    "uncompressed_size": "36926432",
+                    "file_count": "1",
+                    "chunk_count": "31"
+                }
+            },
+            {
+                "category_id": "10131",
+                "category_name": "活动▶2.0版本▶电影院活动",
+                "manifest": {
+                    "id": "manifest_a9f669d7d9ff3f42_5cbca1c4088aa32cd1bdee93d70343e1",
+                    "checksum": "5cbca1c4088aa32cd1bdee93d70343e1",
+                    "compressed_size": "15795",
+                    "uncompressed_size": "32149"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "72001",
+                "stats": {
+                    "compressed_size": "201459498",
+                    "uncompressed_size": "201541728",
+                    "file_count": "38",
+                    "chunk_count": "189"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "201459498",
+                    "uncompressed_size": "201541728",
+                    "file_count": "38",
+                    "chunk_count": "189"
+                }
+            },
+            {
+                "category_id": "10133",
+                "category_name": "任务▶主线▶第一章",
+                "manifest": {
+                    "id": "manifest_98df001630d8d073_a4d0b4efc7d934500263e4ee34bb57a3",
+                    "checksum": "a4d0b4efc7d934500263e4ee34bb57a3",
+                    "compressed_size": "12793",
+                    "uncompressed_size": "23803"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10101",
+                "stats": {
+                    "compressed_size": "184281912",
+                    "uncompressed_size": "184309536",
+                    "file_count": "8",
+                    "chunk_count": "157"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "184281912",
+                    "uncompressed_size": "184309536",
+                    "file_count": "8",
+                    "chunk_count": "157"
+                }
+            },
+            {
+                "category_id": "10134",
+                "category_name": "任务▶个人线▶莱卡恩",
+                "manifest": {
+                    "id": "manifest_28d12217cf8cacfb_24c7b9b654f9159ede7ed24bfae4791c",
+                    "checksum": "24c7b9b654f9159ede7ed24bfae4791c",
+                    "compressed_size": "4237",
+                    "uncompressed_size": "7633"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10204",
+                "stats": {
+                    "compressed_size": "56156833",
+                    "uncompressed_size": "56161600",
+                    "file_count": "2",
+                    "chunk_count": "51"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "56156833",
+                    "uncompressed_size": "56161600",
+                    "file_count": "2",
+                    "chunk_count": "51"
+                }
+            },
+            {
+                "category_id": "10135",
+                "category_name": "系统▶教学视频▶街道信息",
+                "manifest": {
+                    "id": "manifest_79fbb5a5864651d6_85116fc151837d3c493943299ea54c6d",
+                    "checksum": "85116fc151837d3c493943299ea54c6d",
+                    "compressed_size": "6622",
+                    "uncompressed_size": "19094"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "31006",
+                "stats": {
+                    "compressed_size": "56691768",
+                    "uncompressed_size": "56976672",
+                    "file_count": "62",
+                    "chunk_count": "76"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "56691768",
+                    "uncompressed_size": "56976672",
+                    "file_count": "62",
+                    "chunk_count": "76"
+                }
+            },
+            {
+                "category_id": "10136",
+                "category_name": "系统▶影像档案▶主线▶双子线",
+                "manifest": {
+                    "id": "manifest_bd060e7f4a303406_7af13a152355250f3e85ea1275f6ca9b",
+                    "checksum": "7af13a152355250f3e85ea1275f6ca9b",
+                    "compressed_size": "660",
+                    "uncompressed_size": "999"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30101007",
+                "stats": {
+                    "compressed_size": "5762467",
+                    "uncompressed_size": "5764352",
+                    "file_count": "1",
+                    "chunk_count": "6"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "5762467",
+                    "uncompressed_size": "5764352",
+                    "file_count": "1",
+                    "chunk_count": "6"
+                }
+            },
+            {
+                "category_id": "10137",
+                "category_name": "系统▶登录广告",
+                "manifest": {
+                    "id": "manifest_354217b24ad92083_590c7261d2619e07dceb2a38f984cc59",
+                    "checksum": "590c7261d2619e07dceb2a38f984cc59",
+                    "compressed_size": "18861",
+                    "uncompressed_size": "36316"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30500",
+                "stats": {
+                    "compressed_size": "251952279",
+                    "uncompressed_size": "252028608",
+                    "file_count": "25",
+                    "chunk_count": "231"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "251952279",
+                    "uncompressed_size": "252028608",
+                    "file_count": "25",
+                    "chunk_count": "231"
+                }
+            },
+            {
+                "category_id": "10138",
+                "category_name": "系统▶影像档案▶个人线▶艾莲",
+                "manifest": {
+                    "id": "manifest_aa7f439fa6e1df9f_c6a6389b103a6a6230dd06a96ed89e92",
+                    "checksum": "c6a6389b103a6a6230dd06a96ed89e92",
+                    "compressed_size": "665",
+                    "uncompressed_size": "1008"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30102014",
+                "stats": {
+                    "compressed_size": "6561881",
+                    "uncompressed_size": "6563744",
+                    "file_count": "1",
+                    "chunk_count": "6"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "6561881",
+                    "uncompressed_size": "6563744",
+                    "file_count": "1",
+                    "chunk_count": "6"
+                }
+            },
+            {
+                "category_id": "10139",
+                "category_name": "任务▶主线▶第二章",
+                "manifest": {
+                    "id": "manifest_d62bb169d8a182dd_224608137bc87b3be036777c56133b34",
+                    "checksum": "224608137bc87b3be036777c56133b34",
+                    "compressed_size": "42251",
+                    "uncompressed_size": "78336"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10102",
+                "stats": {
+                    "compressed_size": "633021186",
+                    "uncompressed_size": "633069312",
+                    "file_count": "9",
+                    "chunk_count": "531"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "633021186",
+                    "uncompressed_size": "633069312",
+                    "file_count": "9",
+                    "chunk_count": "531"
+                }
+            },
+            {
+                "category_id": "10141",
+                "category_name": "任务▶主线▶第二章间章",
+                "manifest": {
+                    "id": "manifest_e8abf9f66714db77_142cb6983eefbb8d7be7d3eb1e19d93d",
+                    "checksum": "142cb6983eefbb8d7be7d3eb1e19d93d",
+                    "compressed_size": "17053",
+                    "uncompressed_size": "31944"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10103",
+                "stats": {
+                    "compressed_size": "237650505",
+                    "uncompressed_size": "237688800",
+                    "file_count": "12",
+                    "chunk_count": "210"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "237650505",
+                    "uncompressed_size": "237688800",
+                    "file_count": "12",
+                    "chunk_count": "210"
+                }
+            },
+            {
+                "category_id": "10142",
+                "category_name": "任务▶主线▶第八章",
+                "manifest": {
+                    "id": "manifest_fd05648ae6fb54d6_7b2a0c75446a4a0b1fff1e4668472898",
+                    "checksum": "7b2a0c75446a4a0b1fff1e4668472898",
+                    "compressed_size": "50300",
+                    "uncompressed_size": "93542"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10110",
+                "stats": {
+                    "compressed_size": "727267040",
+                    "uncompressed_size": "727387520",
+                    "file_count": "17",
+                    "chunk_count": "630"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "727267040",
+                    "uncompressed_size": "727387520",
+                    "file_count": "17",
+                    "chunk_count": "630"
+                }
+            },
+            {
+                "category_id": "10140",
+                "category_name": "null",
+                "manifest": {
+                    "id": "manifest_c36c5a1b2b546b19_efd72f5918a7ff6322cfdcf54c29bb2e",
+                    "checksum": "efd72f5918a7ff6322cfdcf54c29bb2e",
+                    "compressed_size": "48701",
+                    "uncompressed_size": "90910"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10100",
+                "stats": {
+                    "compressed_size": "689687180",
+                    "uncompressed_size": "689805696",
+                    "file_count": "20",
+                    "chunk_count": "609"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "689687180",
+                    "uncompressed_size": "689805696",
+                    "file_count": "20",
+                    "chunk_count": "609"
+                }
+            },
+            {
+                "category_id": "10143",
+                "category_name": "系统▶影像档案▶个人线▶莱卡恩",
+                "manifest": {
+                    "id": "manifest_f245d76fcd305658_32daabf4e663c43bc2fe138508fcacd7",
+                    "checksum": "32daabf4e663c43bc2fe138508fcacd7",
+                    "compressed_size": "419",
+                    "uncompressed_size": "577"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30102004",
+                "stats": {
+                    "compressed_size": "2828018",
+                    "uncompressed_size": "2829984",
+                    "file_count": "1",
+                    "chunk_count": "3"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "2828018",
+                    "uncompressed_size": "2829984",
+                    "file_count": "1",
+                    "chunk_count": "3"
+                }
+            },
+            {
+                "category_id": "10144",
+                "category_name": "系统▶影像档案▶主线▶第一章",
+                "manifest": {
+                    "id": "manifest_2e0e4ef863ac6be4_ffd0cea462f861c54da7aa075e5e64c1",
+                    "checksum": "ffd0cea462f861c54da7aa075e5e64c1",
+                    "compressed_size": "2568",
+                    "uncompressed_size": "5208"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30101001",
+                "stats": {
+                    "compressed_size": "26091093",
+                    "uncompressed_size": "26108832",
+                    "file_count": "9",
+                    "chunk_count": "28"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "26091093",
+                    "uncompressed_size": "26108832",
+                    "file_count": "9",
+                    "chunk_count": "28"
+                }
+            },
+            {
+                "category_id": "10146",
+                "category_name": "空洞▶背景",
+                "manifest": {
+                    "id": "manifest_bc0bc0c10aec7cc4_b0de0b2b028ee33c476681a7de22895e",
+                    "checksum": "b0de0b2b028ee33c476681a7de22895e",
+                    "compressed_size": "10734",
+                    "uncompressed_size": "21295"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "20102",
+                "stats": {
+                    "compressed_size": "129066135",
+                    "uncompressed_size": "129113984",
+                    "file_count": "23",
+                    "chunk_count": "125"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "129066135",
+                    "uncompressed_size": "129113984",
+                    "file_count": "23",
+                    "chunk_count": "125"
+                }
+            },
+            {
+                "category_id": "10147",
+                "category_name": "系统▶影像档案▶个人线▶莱特",
+                "manifest": {
+                    "id": "manifest_2ecc954b55111124_7aa82bb40881f1737fced69a70dcf955",
+                    "checksum": "7aa82bb40881f1737fced69a70dcf955",
+                    "compressed_size": "423",
+                    "uncompressed_size": "577"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30102009",
+                "stats": {
+                    "compressed_size": "3419719",
+                    "uncompressed_size": "3421664",
+                    "file_count": "1",
+                    "chunk_count": "3"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "3419719",
+                    "uncompressed_size": "3421664",
+                    "file_count": "1",
+                    "chunk_count": "3"
+                }
+            },
+            {
+                "category_id": "10148",
+                "category_name": "系统▶影像档案▶个人线▶sp安比",
+                "manifest": {
+                    "id": "manifest_b3b0150c927e8596_358b519114b42989439743c1bae3237c",
+                    "checksum": "358b519114b42989439743c1bae3237c",
+                    "compressed_size": "5287",
+                    "uncompressed_size": "9520"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30102015",
+                "stats": {
+                    "compressed_size": "74159571",
+                    "uncompressed_size": "74170048",
+                    "file_count": "3",
+                    "chunk_count": "63"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "74159571",
+                    "uncompressed_size": "74170048",
+                    "file_count": "3",
+                    "chunk_count": "63"
+                }
+            },
+            {
+                "category_id": "10149",
+                "category_name": "系统▶养成▶武器球",
+                "manifest": {
+                    "id": "manifest_4d760bc9c7cfcb58_7fb4bca02aa1a89e55c0c94cdaf9e7b4",
+                    "checksum": "7fb4bca02aa1a89e55c0c94cdaf9e7b4",
+                    "compressed_size": "29921",
+                    "uncompressed_size": "61498"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30600",
+                "stats": {
+                    "compressed_size": "366813730",
+                    "uncompressed_size": "366989600",
+                    "file_count": "86",
+                    "chunk_count": "359"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "366813730",
+                    "uncompressed_size": "366989600",
+                    "file_count": "86",
+                    "chunk_count": "359"
+                }
+            },
+            {
+                "category_id": "10150",
+                "category_name": "系统▶影像档案▶个人线▶扳机",
+                "manifest": {
+                    "id": "manifest_f2ebed6081f41617_afe4bacf219807b51fc2acf882d56ca8",
+                    "checksum": "afe4bacf219807b51fc2acf882d56ca8",
+                    "compressed_size": "577",
+                    "uncompressed_size": "857"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30102016",
+                "stats": {
+                    "compressed_size": "5772117",
+                    "uncompressed_size": "5774016",
+                    "file_count": "1",
+                    "chunk_count": "5"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "5772117",
+                    "uncompressed_size": "5774016",
+                    "file_count": "1",
+                    "chunk_count": "5"
+                }
+            },
+            {
+                "category_id": "10151",
+                "category_name": "任务▶OVA▶耀嘉音",
+                "manifest": {
+                    "id": "manifest_f2f66670c5f605cc_4bcb970c1d7bc298003c63cdabefdba3",
+                    "checksum": "4bcb970c1d7bc298003c63cdabefdba3",
+                    "compressed_size": "27456",
+                    "uncompressed_size": "50893"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10303",
+                "stats": {
+                    "compressed_size": "398844665",
+                    "uncompressed_size": "398875712",
+                    "file_count": "9",
+                    "chunk_count": "343"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "398844665",
+                    "uncompressed_size": "398875712",
+                    "file_count": "9",
+                    "chunk_count": "343"
+                }
+            },
+            {
+                "category_id": "10152",
+                "category_name": "任务▶个人线▶柏妮思",
+                "manifest": {
+                    "id": "manifest_1445ccaf3eac15eb_4364cc283d4cd7e0aabcc8ae01123c71",
+                    "checksum": "4364cc283d4cd7e0aabcc8ae01123c71",
+                    "compressed_size": "3453",
+                    "uncompressed_size": "6078"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10208",
+                "stats": {
+                    "compressed_size": "45670263",
+                    "uncompressed_size": "45670880",
+                    "file_count": "1",
+                    "chunk_count": "41"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "45670263",
+                    "uncompressed_size": "45670880",
+                    "file_count": "1",
+                    "chunk_count": "41"
+                }
+            },
+            {
+                "category_id": "10154",
+                "category_name": "活动▶2.0版本▶仪玄拍脸",
+                "manifest": {
+                    "id": "manifest_d8951a8965352dd3_7bfd3392163439ddb2c9a8fdd74e8e27",
+                    "checksum": "7bfd3392163439ddb2c9a8fdd74e8e27",
+                    "compressed_size": "863",
+                    "uncompressed_size": "1427"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "72002",
+                "stats": {
+                    "compressed_size": "8859928",
+                    "uncompressed_size": "8863904",
+                    "file_count": "2",
+                    "chunk_count": "8"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "8859928",
+                    "uncompressed_size": "8863904",
+                    "file_count": "2",
+                    "chunk_count": "8"
+                }
+            },
+            {
+                "category_id": "10153",
+                "category_name": "系统▶教学视频▶其他",
+                "manifest": {
+                    "id": "manifest_9be6eb92d2ff7dba_f044f8caf75782674f46bee02ccb6998",
+                    "checksum": "f044f8caf75782674f46bee02ccb6998",
+                    "compressed_size": "2850",
+                    "uncompressed_size": "7735"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "31007",
+                "stats": {
+                    "compressed_size": "21838361",
+                    "uncompressed_size": "21955936",
+                    "file_count": "25",
+                    "chunk_count": "31"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "21838361",
+                    "uncompressed_size": "21955936",
+                    "file_count": "25",
+                    "chunk_count": "31"
+                }
+            },
+            {
+                "category_id": "10158",
+                "category_name": "活动▶2.1版本▶邦布自走棋",
+                "manifest": {
+                    "id": "manifest_605f8fa8cd638113_96d7ee8614e2ec2c9e13a08e4a203d09",
+                    "checksum": "96d7ee8614e2ec2c9e13a08e4a203d09",
+                    "compressed_size": "603",
+                    "uncompressed_size": "948"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "72102",
+                "stats": {
+                    "compressed_size": "3409864",
+                    "uncompressed_size": "3415648",
+                    "file_count": "2",
+                    "chunk_count": "5"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "3409864",
+                    "uncompressed_size": "3415648",
+                    "file_count": "2",
+                    "chunk_count": "5"
+                }
+            },
+            {
+                "category_id": "10155",
+                "category_name": "活动▶2.0版本",
+                "manifest": {
+                    "id": "manifest_a1dec70ce82a5bd1_41925128148a266724e0513608767dc1",
+                    "checksum": "41925128148a266724e0513608767dc1",
+                    "compressed_size": "1062",
+                    "uncompressed_size": "2373"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "72000",
+                "stats": {
+                    "compressed_size": "7442645",
+                    "uncompressed_size": "7470208",
+                    "file_count": "7",
+                    "chunk_count": "10"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "7442645",
+                    "uncompressed_size": "7470208",
+                    "file_count": "7",
+                    "chunk_count": "10"
+                }
+            },
+            {
+                "category_id": "10159",
+                "category_name": "任务▶主线▶第九章",
+                "manifest": {
+                    "id": "manifest_2755c5cec75dfb20_e62e400cc2f55e9e7e6c8cf3c11f96f0",
+                    "checksum": "e62e400cc2f55e9e7e6c8cf3c11f96f0",
+                    "compressed_size": "32706",
+                    "uncompressed_size": "60939"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10111",
+                "stats": {
+                    "compressed_size": "474767134",
+                    "uncompressed_size": "474811328",
+                    "file_count": "15",
+                    "chunk_count": "408"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "474767134",
+                    "uncompressed_size": "474811328",
+                    "file_count": "15",
+                    "chunk_count": "408"
+                }
+            },
+            {
+                "category_id": "10160",
+                "category_name": "活动▶2.1版本▶夏活",
+                "manifest": {
+                    "id": "manifest_212100bd2d256994_7ffd78d237a9dc93ebb22eb5562af6d4",
+                    "checksum": "7ffd78d237a9dc93ebb22eb5562af6d4",
+                    "compressed_size": "3816",
+                    "uncompressed_size": "6769"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "72101",
+                "stats": {
+                    "compressed_size": "50070942",
+                    "uncompressed_size": "50077120",
+                    "file_count": "2",
+                    "chunk_count": "45"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "50070942",
+                    "uncompressed_size": "50077120",
+                    "file_count": "2",
+                    "chunk_count": "45"
+                }
+            },
+            {
+                "category_id": "10162",
+                "category_name": "活动▶2.1版本",
+                "manifest": {
+                    "id": "manifest_cdc2bede91c0717e_ef28ec26d8affd79b25516d59cb2ef8e",
+                    "checksum": "ef28ec26d8affd79b25516d59cb2ef8e",
+                    "compressed_size": "613",
+                    "uncompressed_size": "1115"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "72103",
+                "stats": {
+                    "compressed_size": "3884768",
+                    "uncompressed_size": "3895488",
+                    "file_count": "3",
+                    "chunk_count": "5"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "3884768",
+                    "uncompressed_size": "3895488",
+                    "file_count": "3",
+                    "chunk_count": "5"
+                }
+            },
+            {
+                "category_id": "10163",
+                "category_name": "系统▶影像档案▶个人线▶席德",
+                "manifest": {
+                    "id": "manifest_4a9c774819d708bd_d376649a553a74a7ea12b3d3b98c7f40",
+                    "checksum": "d376649a553a74a7ea12b3d3b98c7f40",
+                    "compressed_size": "504",
+                    "uncompressed_size": "719"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30102018",
+                "stats": {
+                    "compressed_size": "4491216",
+                    "uncompressed_size": "4493792",
+                    "file_count": "1",
+                    "chunk_count": "4"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "4491216",
+                    "uncompressed_size": "4493792",
+                    "file_count": "1",
+                    "chunk_count": "4"
+                }
+            },
+            {
+                "category_id": "10164",
+                "category_name": "任务▶主线▶第十章",
+                "manifest": {
+                    "id": "manifest_529ad002d75c252f_2308f6b0ec203923b6cc9d61974cd78e",
+                    "checksum": "2308f6b0ec203923b6cc9d61974cd78e",
+                    "compressed_size": "35221",
+                    "uncompressed_size": "65220"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10112",
+                "stats": {
+                    "compressed_size": "517888774",
+                    "uncompressed_size": "517932160",
+                    "file_count": "11",
+                    "chunk_count": "440"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "517888774",
+                    "uncompressed_size": "517932160",
+                    "file_count": "11",
+                    "chunk_count": "440"
+                }
+            },
+            {
+                "category_id": "10165",
+                "category_name": "任务▶个人线▶席德",
+                "manifest": {
+                    "id": "manifest_7550faf2fe5a0ffa_1e8234fb4ce52285b3bbe87ad4e37483",
+                    "checksum": "1e8234fb4ce52285b3bbe87ad4e37483",
+                    "compressed_size": "4002",
+                    "uncompressed_size": "7099"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10215",
+                "stats": {
+                    "compressed_size": "56418864",
+                    "uncompressed_size": "56431808",
+                    "file_count": "1",
+                    "chunk_count": "48"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "56418864",
+                    "uncompressed_size": "56431808",
+                    "file_count": "1",
+                    "chunk_count": "48"
+                }
+            },
+            {
+                "category_id": "10168",
+                "category_name": "系统▶教学视频▶敌人情报",
+                "manifest": {
+                    "id": "manifest_1feb52e36de52dfb_ff106774c54b537d358e27984c2043cb",
+                    "checksum": "ff106774c54b537d358e27984c2043cb",
+                    "compressed_size": "771",
+                    "uncompressed_size": "1573"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "31009",
+                "stats": {
+                    "compressed_size": "4444811",
+                    "uncompressed_size": "4456832",
+                    "file_count": "4",
+                    "chunk_count": "7"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "4444811",
+                    "uncompressed_size": "4456832",
+                    "file_count": "4",
+                    "chunk_count": "7"
+                }
+            },
+            {
+                "category_id": "10169",
+                "category_name": "系统▶影像档案▶个人线▶卢西娅",
+                "manifest": {
+                    "id": "manifest_b1dcca70f88a9872_55192aba75d650a0fd6759b0571f838d",
+                    "checksum": "55192aba75d650a0fd6759b0571f838d",
+                    "compressed_size": "814",
+                    "uncompressed_size": "1291"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "30102019",
+                "stats": {
+                    "compressed_size": "7288278",
+                    "uncompressed_size": "7290528",
+                    "file_count": "1",
+                    "chunk_count": "8"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "7288278",
+                    "uncompressed_size": "7290528",
+                    "file_count": "1",
+                    "chunk_count": "8"
+                }
+            },
+            {
+                "category_id": "10170",
+                "category_name": "任务▶个人线▶卢西娅",
+                "manifest": {
+                    "id": "manifest_989d16329f0a7871_ddb3c06d93c9f42aa7334f70dfe6c2b6",
+                    "checksum": "ddb3c06d93c9f42aa7334f70dfe6c2b6",
+                    "compressed_size": "3741",
+                    "uncompressed_size": "6642"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10216",
+                "stats": {
+                    "compressed_size": "51890893",
+                    "uncompressed_size": "51893216",
+                    "file_count": "1",
+                    "chunk_count": "45"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "51890893",
+                    "uncompressed_size": "51893216",
+                    "file_count": "1",
+                    "chunk_count": "45"
+                }
+            },
+            {
+                "category_id": "10172",
+                "category_name": "null",
+                "manifest": {
+                    "id": "manifest_2683991acead1971_32abc5efadd151ad06300986c7e3e8f6",
+                    "checksum": "32abc5efadd151ad06300986c7e3e8f6",
+                    "compressed_size": "1197",
+                    "uncompressed_size": "3802"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "72104",
+                "stats": {
+                    "compressed_size": "8404870",
+                    "uncompressed_size": "8445408",
+                    "file_count": "14",
+                    "chunk_count": "14"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "8404870",
+                    "uncompressed_size": "8445408",
+                    "file_count": "14",
+                    "chunk_count": "14"
+                }
+            },
+            {
+                "category_id": "10171",
+                "category_name": "任务▶主线▶第十一章",
+                "manifest": {
+                    "id": "manifest_3aa802429239bb79_09ffd246eb7270690eb11d05509ab05d",
+                    "checksum": "09ffd246eb7270690eb11d05509ab05d",
+                    "compressed_size": "46271",
+                    "uncompressed_size": "86082"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10113",
+                "stats": {
+                    "compressed_size": "669487451",
+                    "uncompressed_size": "669564096",
+                    "file_count": "16",
+                    "chunk_count": "580"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "669487451",
+                    "uncompressed_size": "669564096",
+                    "file_count": "16",
+                    "chunk_count": "580"
+                }
+            },
+            {
+                "category_id": "10173",
+                "category_name": "任务▶主线▶第十二章",
+                "manifest": {
+                    "id": "manifest_a59460e50f84344e_6af7694eacc2a2fd056f34684c9ab4b2",
+                    "checksum": "6af7694eacc2a2fd056f34684c9ab4b2",
+                    "compressed_size": "37659",
+                    "uncompressed_size": "69977"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10114",
+                "stats": {
+                    "compressed_size": "559311968",
+                    "uncompressed_size": "559367872",
+                    "file_count": "12",
+                    "chunk_count": "472"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "559311968",
+                    "uncompressed_size": "559367872",
+                    "file_count": "12",
+                    "chunk_count": "472"
+                }
+            },
+            {
+                "category_id": "10174",
+                "category_name": "活动▶2.5版本▶联机战斗",
+                "manifest": {
+                    "id": "manifest_413dab1edadfe887_5c804fb96d593718343540fad3f3db70",
+                    "checksum": "5c804fb96d593718343540fad3f3db70",
+                    "compressed_size": "2645",
+                    "uncompressed_size": "6306"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "72106",
+                "stats": {
+                    "compressed_size": "22513509",
+                    "uncompressed_size": "22623392",
+                    "file_count": "17",
+                    "chunk_count": "29"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "22513509",
+                    "uncompressed_size": "22623392",
+                    "file_count": "17",
+                    "chunk_count": "29"
+                }
+            },
+            {
+                "category_id": "10176",
+                "category_name": "任务▶主线▶第一章零号空洞特殊分支",
+                "manifest": {
+                    "id": "manifest_c66bbad7576dc88d_92049e47f6f56f9cdcb4b477779a11ef",
+                    "checksum": "92049e47f6f56f9cdcb4b477779a11ef",
+                    "compressed_size": "6940",
+                    "uncompressed_size": "12573"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10118",
+                "stats": {
+                    "compressed_size": "98836592",
+                    "uncompressed_size": "98838848",
+                    "file_count": "2",
+                    "chunk_count": "85"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "98836592",
+                    "uncompressed_size": "98838848",
+                    "file_count": "2",
+                    "chunk_count": "85"
+                }
+            },
+            {
+                "category_id": "10175",
+                "category_name": "活动▶2.5版本▶叶瞬光拍脸",
+                "manifest": {
+                    "id": "manifest_a646c4b4a86609f9_626367a0f03c9236e71e10ab2ecf70b8",
+                    "checksum": "626367a0f03c9236e71e10ab2ecf70b8",
+                    "compressed_size": "1113",
+                    "uncompressed_size": "1873"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "72105",
+                "stats": {
+                    "compressed_size": "11871623",
+                    "uncompressed_size": "11876192",
+                    "file_count": "2",
+                    "chunk_count": "11"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "11871623",
+                    "uncompressed_size": "11876192",
+                    "file_count": "2",
+                    "chunk_count": "11"
+                }
+            },
+            {
+                "category_id": "10177",
+                "category_name": "系统▶跃迁▶跃迁回顾",
+                "manifest": {
+                    "id": "manifest_2f91561331511719_c00f5f2c9737a0eab52ca3e18e33a510",
+                    "checksum": "c00f5f2c9737a0eab52ca3e18e33a510",
+                    "compressed_size": "16621",
+                    "uncompressed_size": "30489"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "31101",
+                "stats": {
+                    "compressed_size": "246924366",
+                    "uncompressed_size": "247039936",
+                    "file_count": "2",
+                    "chunk_count": "208"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "246924366",
+                    "uncompressed_size": "247039936",
+                    "file_count": "2",
+                    "chunk_count": "208"
+                }
+            },
+            {
+                "category_id": "10178",
+                "category_name": "任务▶主线▶第十三章",
+                "manifest": {
+                    "id": "manifest_c28934d4b2c241a1_3d249539e42983e0ac7cbd5a1621147e",
+                    "checksum": "3d249539e42983e0ac7cbd5a1621147e",
+                    "compressed_size": "61060",
+                    "uncompressed_size": "114055"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10115",
+                "stats": {
+                    "compressed_size": "889711301",
+                    "uncompressed_size": "889935296",
+                    "file_count": "28",
+                    "chunk_count": "763"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "889711301",
+                    "uncompressed_size": "889935296",
+                    "file_count": "28",
+                    "chunk_count": "763"
+                }
+            },
+            {
+                "category_id": "10185",
+                "category_name": "活动▶2.6版本▶偶像集赠活动",
+                "manifest": {
+                    "id": "manifest_12ccaa350d3b837d_152698789f16133a68ebf56546b7a3c8",
+                    "checksum": "152698789f16133a68ebf56546b7a3c8",
+                    "compressed_size": "2718",
+                    "uncompressed_size": "4771"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "72110",
+                "stats": {
+                    "compressed_size": "36558578",
+                    "uncompressed_size": "36559456",
+                    "file_count": "1",
+                    "chunk_count": "32"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "36558578",
+                    "uncompressed_size": "36559456",
+                    "file_count": "1",
+                    "chunk_count": "32"
+                }
+            },
+            {
+                "category_id": "10186",
+                "category_name": "活动▶2.5版本▶叶瞬光活动",
+                "manifest": {
+                    "id": "manifest_2b289cac252a9f3d_5cb659f826e54c38eed36ea39f6a3063",
+                    "checksum": "5cb659f826e54c38eed36ea39f6a3063",
+                    "compressed_size": "220",
+                    "uncompressed_size": "282"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "72108",
+                "stats": {
+                    "compressed_size": "593918",
+                    "uncompressed_size": "597920",
+                    "file_count": "1",
+                    "chunk_count": "1"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "593918",
+                    "uncompressed_size": "597920",
+                    "file_count": "1",
+                    "chunk_count": "1"
+                }
+            },
+            {
+                "category_id": "10187",
+                "category_name": "活动▶2.6版本▶偶像阵营拍脸",
+                "manifest": {
+                    "id": "manifest_e4269d5d829c1b26_95a86feda05c089be95d2e59bbdc25c0",
+                    "checksum": "95a86feda05c089be95d2e59bbdc25c0",
+                    "compressed_size": "1374",
+                    "uncompressed_size": "2326"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "72111",
+                "stats": {
+                    "compressed_size": "15541886",
+                    "uncompressed_size": "15545536",
+                    "file_count": "2",
+                    "chunk_count": "14"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "15541886",
+                    "uncompressed_size": "15545536",
+                    "file_count": "2",
+                    "chunk_count": "14"
+                }
+            },
+            {
+                "category_id": "10188",
+                "category_name": "主城▶主城小游戏",
+                "manifest": {
+                    "id": "manifest_45f8ddd2af5b6996_b290b9baca26a67bc66578e393e96e34",
+                    "checksum": "b290b9baca26a67bc66578e393e96e34",
+                    "compressed_size": "230",
+                    "uncompressed_size": "291"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "72109",
+                "stats": {
+                    "compressed_size": "468574",
+                    "uncompressed_size": "472032",
+                    "file_count": "1",
+                    "chunk_count": "1"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "468574",
+                    "uncompressed_size": "472032",
+                    "file_count": "1",
+                    "chunk_count": "1"
+                }
+            },
+            {
+                "category_id": "10189",
+                "category_name": "任务▶主线▶第十四章",
+                "manifest": {
+                    "id": "manifest_bf6d3ccfbd8a4d57_49c260d7c5484d05d92c7ef1996f5024",
+                    "checksum": "49c260d7c5484d05d92c7ef1996f5024",
+                    "compressed_size": "20471",
+                    "uncompressed_size": "38597"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "10116",
+                "stats": {
+                    "compressed_size": "290566522",
+                    "uncompressed_size": "291071264",
+                    "file_count": "15",
+                    "chunk_count": "253"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "290566522",
+                    "uncompressed_size": "291071264",
+                    "file_count": "15",
+                    "chunk_count": "253"
+                }
+            },
+            {
+                "category_id": "10190",
+                "category_name": "系统▶跃迁▶跃迁回顾（第二季第六章）",
+                "manifest": {
+                    "id": "manifest_f1df9769da267a5e_040e27861eda3031a6835c56a5a8f72a",
+                    "checksum": "040e27861eda3031a6835c56a5a8f72a",
+                    "compressed_size": "4556",
+                    "uncompressed_size": "8111"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "31102",
+                "stats": {
+                    "compressed_size": "63309158",
+                    "uncompressed_size": "63316032",
+                    "file_count": "1",
+                    "chunk_count": "55"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "63309158",
+                    "uncompressed_size": "63316032",
+                    "file_count": "1",
+                    "chunk_count": "55"
+                }
+            },
+            {
+                "category_id": "10191",
+                "category_name": "活动▶2.6版本▶春活",
+                "manifest": {
+                    "id": "manifest_884b7c599beebcf1_96e644cfffdce14689a23d5c4bb486f2",
+                    "checksum": "96e644cfffdce14689a23d5c4bb486f2",
+                    "compressed_size": "6935",
+                    "uncompressed_size": "12677"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "72107",
+                "stats": {
+                    "compressed_size": "102852653",
+                    "uncompressed_size": "102871008",
+                    "file_count": "4",
+                    "chunk_count": "84"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "102852653",
+                    "uncompressed_size": "102871008",
+                    "file_count": "4",
+                    "chunk_count": "84"
+                }
+            },
+            {
+                "category_id": "10048",
+                "category_name": "语音包-中文-外网",
+                "manifest": {
+                    "id": "manifest_6abe3d9d8ebe4ab9_3f948a9238846fd066781d1ac974759f",
+                    "checksum": "3f948a9238846fd066781d1ac974759f",
+                    "compressed_size": "219175",
+                    "uncompressed_size": "407121"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "zh-cn",
+                "stats": {
+                    "compressed_size": "3212646463",
+                    "uncompressed_size": "3225963876",
+                    "file_count": "58",
+                    "chunk_count": "2756"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "3211977645",
+                    "uncompressed_size": "3225295089",
+                    "file_count": "58",
+                    "chunk_count": "2755"
+                }
+            },
+            {
+                "category_id": "10049",
+                "category_name": "语音包-英文-外网",
+                "manifest": {
+                    "id": "manifest_6a47ba65484006a0_f2a81f7855283cf297175f175dbe7da1",
+                    "checksum": "f2a81f7855283cf297175f175dbe7da1",
+                    "compressed_size": "223671",
+                    "uncompressed_size": "415440"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "en-us",
+                "stats": {
+                    "compressed_size": "3286532814",
+                    "uncompressed_size": "3299916809",
+                    "file_count": "58",
+                    "chunk_count": "2813"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "3285810168",
+                    "uncompressed_size": "3299194194",
+                    "file_count": "58",
+                    "chunk_count": "2812"
+                }
+            },
+            {
+                "category_id": "10051",
+                "category_name": "语音包-日文-外网",
+                "manifest": {
+                    "id": "manifest_63284ee7763437ce_86a7dd5c7b910047039f467c9b2012f9",
+                    "checksum": "86a7dd5c7b910047039f467c9b2012f9",
+                    "compressed_size": "250504",
+                    "uncompressed_size": "465064"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "ja-jp",
+                "stats": {
+                    "compressed_size": "3691086726",
+                    "uncompressed_size": "3704345320",
+                    "file_count": "58",
+                    "chunk_count": "3154"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "3690126845",
+                    "uncompressed_size": "3703385489",
+                    "file_count": "58",
+                    "chunk_count": "3152"
+                }
+            },
+            {
+                "category_id": "10050",
+                "category_name": "语音包-韩文-外网",
+                "manifest": {
+                    "id": "manifest_cf7ec6788c44a786_d1b76ea08aa9ed389dfea7ab2dbe6580",
+                    "checksum": "d1b76ea08aa9ed389dfea7ab2dbe6580",
+                    "compressed_size": "237933",
+                    "uncompressed_size": "442086"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/chunks/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.juequling.com/pclauncher/manifests/cxi9diu5aadc/20260120/2.6.0/J4iO33J9cqrS",
+                    "url_suffix": ""
+                },
+                "matching_field": "ko-kr",
+                "stats": {
+                    "compressed_size": "3503695451",
+                    "uncompressed_size": "3516800203",
+                    "file_count": "58",
+                    "chunk_count": "2996"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "3502946322",
+                    "uncompressed_size": "3516051121",
+                    "file_count": "58",
+                    "chunk_count": "2994"
+                }
+            }
+        ]
+    }
+}
