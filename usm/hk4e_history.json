@@ -4172,6 +4172,12 @@
                 "state": "AVAILABLE",
                 "md5": "99b0e2634e266803a3e37220ee81fa83",
                 "size": 218941824
+            },
+            {
+                "version": "6.4.0",
+                "state": "AVAILABLE",
+                "md5": "3cd1ae45b6a9f4e44352f8b908bd042c",
+                "size": 218941824
             }
         ]
     },
@@ -4183,6 +4189,12 @@
                 "version": "6.3.0",
                 "state": "AVAILABLE",
                 "md5": "0159d902aeeeaba53bdd06a33f62d79e",
+                "size": 219248736
+            },
+            {
+                "version": "6.4.0",
+                "state": "AVAILABLE",
+                "md5": "847cdeff3177980deb20abb9de222c5b",
                 "size": 219248736
             }
         ]
@@ -4261,13 +4273,79 @@
     },
     "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Video_Reunion_63.usm": {
         "filename": "Video_Reunion_63.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "6.3.0",
                 "state": "AVAILABLE",
                 "md5": "0f7bd76d46da93233aeb20d9b892fcc0",
                 "size": 45560448
+            },
+            {
+                "version": "6.4.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_MD_EQ402311501_BD_Boy.usm": {
+        "filename": "Cs_MD_EQ402311501_BD_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.4.0",
+                "state": "AVAILABLE",
+                "md5": "2d7c75abb85a71f6bcea835a215e7edf",
+                "size": 289040128
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_MD_EQ402311501_BD_Girl.usm": {
+        "filename": "Cs_MD_EQ402311501_BD_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.4.0",
+                "state": "AVAILABLE",
+                "md5": "7a09ed60ecb85e50508b4ead58d9d4d0",
+                "size": 289022944
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_NodKrai_LQ1601109_LLDZ_Boy.usm": {
+        "filename": "Cs_NodKrai_LQ1601109_LLDZ_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.4.0",
+                "state": "AVAILABLE",
+                "md5": "acf2931d2784429504a0ea517ca0b0ec",
+                "size": 238887616
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_NodKrai_LQ1601109_LLDZ_Girl.usm": {
+        "filename": "Cs_NodKrai_LQ1601109_LLDZ_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.4.0",
+                "state": "AVAILABLE",
+                "md5": "850efc207cca52d81e044dd859e7b493",
+                "size": 238894496
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Video_Reunion_64.usm": {
+        "filename": "Video_Reunion_64.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.4.0",
+                "state": "AVAILABLE",
+                "md5": "c0cc00833a416cdc27ae26d35e20bf2e",
+                "size": 25222176
             }
         ]
     }
