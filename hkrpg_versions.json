@@ -2564,12 +2564,12 @@
         },
         "decompressed_path": "https://autopatchcn.bhsr.com/client/cn/20260313155616_cP7atEVtiQSKCLy4/PC/unzip/",
         "chunk": {
-            "branch": "predownload",
+            "branch": "main",
             "diff_tags": [
                 "4.0.0"
             ],
             "package_id": "Je5DM3y6Q2",
-            "password": "72TguY9jPv40",
+            "password": "xAghmdIRsgzX",
             "tag": "4.1.0"
         }
     }
