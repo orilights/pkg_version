@@ -5184,5 +5184,21 @@
             "password": "CW8GbLNU8f",
             "tag": "6.4.0"
         }
+    },
+    "6.5.0": {
+        "game": {},
+        "voice": {},
+        "update": {},
+        "decompressed_path": null,
+        "chunk": {
+            "branch": "predownload",
+            "diff_tags": [
+                "6.4.0",
+                "6.3.0"
+            ],
+            "package_id": "8xfMve0uwQ",
+            "password": "EPq5oNru9q",
+            "tag": "6.5.0"
+        }
     }
 }

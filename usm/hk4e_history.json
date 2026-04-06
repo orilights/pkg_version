@@ -290,6 +290,12 @@
                 "state": "AVAILABLE",
                 "md5": "9dee1b3a61598535314026fa1ec54e41",
                 "size": 93372064
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "825c1de5d483a8d33ae3dc92119578cb",
+                "size": 93282656
             }
         ]
     },
@@ -308,6 +314,12 @@
                 "state": "AVAILABLE",
                 "md5": "f616bf43eac5dd09a344e46ef2495222",
                 "size": 93353376
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "848b32d979310fcbf0e13e801d1aa64a",
+                "size": 93299808
             }
         ]
     },
@@ -326,6 +338,12 @@
                 "state": "AVAILABLE",
                 "md5": "5557aefdab01718c8b956f717fa74cba",
                 "size": 214622624
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "5dc02447fa6815b4dc7ebe9a188cc748",
+                "size": 215060832
             }
         ]
     },
@@ -344,6 +362,12 @@
                 "state": "AVAILABLE",
                 "md5": "e45016caf6d35b17bef9f57e02469d37",
                 "size": 214514368
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "799258f004349487e048621e68ef70d2",
+                "size": 215036256
             }
         ]
     },
@@ -998,6 +1022,12 @@
                 "state": "AVAILABLE",
                 "md5": "41b3c4611ba4fbabe3a6580ab1125e90",
                 "size": 345518656
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "1d40a18bfefe10ee7bbdfe67e48b7949",
+                "size": 342608768
             }
         ]
     },
@@ -1016,6 +1046,12 @@
                 "state": "AVAILABLE",
                 "md5": "205b535f754977cc4942aa7300ac420d",
                 "size": 345298720
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "95367d9257221c673b63728c7097597d",
+                "size": 342421024
             }
         ]
     },
@@ -3152,6 +3188,12 @@
                 "state": "AVAILABLE",
                 "md5": "c7706d63ee2a21d60558a8e6d7c99ed0",
                 "size": 131499776
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "7df6644dd750572ae533b3644f86e000",
+                "size": 131500768
             }
         ]
     },
@@ -3164,6 +3206,12 @@
                 "state": "AVAILABLE",
                 "md5": "dfecb9ec2d9f90a845d7871daed12f64",
                 "size": 131508320
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "da1065726fe0fbd348ae32cb883dec6f",
+                "size": 131509312
             }
         ]
     },
@@ -3176,6 +3224,12 @@
                 "state": "AVAILABLE",
                 "md5": "b1117e1c6792720487e9b717a4bf58c9",
                 "size": 172494752
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "60569476d383f6849e6243043a5742c8",
+                "size": 172495744
             }
         ]
     },
@@ -3188,6 +3242,12 @@
                 "state": "AVAILABLE",
                 "md5": "d890e57fa4c379ae3335a5c15295edca",
                 "size": 172439840
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "8e574f3749253174b1f4e21bddb4e205",
+                "size": 172440832
             }
         ]
     },
@@ -3200,6 +3260,12 @@
                 "state": "AVAILABLE",
                 "md5": "78dfdc2fed1fa2f981bc4389f2928177",
                 "size": 155315424
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "a23dacd427540a5e9cdd9a41be6a9a32",
+                "size": 155316416
             }
         ]
     },
@@ -3212,6 +3278,12 @@
                 "state": "AVAILABLE",
                 "md5": "e09425c7dc6f6027604efc4920b3d577",
                 "size": 155327520
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "ebbd444e3920bf307f0a05bb53362bdb",
+                "size": 155328512
             }
         ]
     },
@@ -3236,6 +3308,12 @@
                 "state": "AVAILABLE",
                 "md5": "8020a6dd4259f8466ac1951e8a5e9712",
                 "size": 167768352
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "a85034ecfd185613e11c70da683b224c",
+                "size": 167769344
             }
         ]
     },
@@ -3248,6 +3326,12 @@
                 "state": "AVAILABLE",
                 "md5": "47a793da91a0704185ac59e9c763a6b7",
                 "size": 167782432
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "ebfef8e8007fc4bb5d520cff834fe6a6",
+                "size": 167783424
             }
         ]
     },
@@ -3260,6 +3344,12 @@
                 "state": "AVAILABLE",
                 "md5": "28a58cc2a77ce7f9105338b39428b522",
                 "size": 149241696
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "cb5c226877cbbe865081d03e5738e8e2",
+                "size": 149242688
             }
         ]
     },
@@ -3272,6 +3362,12 @@
                 "state": "AVAILABLE",
                 "md5": "3d8676fa8786eef26b65490428b6c0c8",
                 "size": 149241728
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "9c9a2f171ff655e8dc8e9519eefc3aee",
+                "size": 149242720
             }
         ]
     },
@@ -3338,6 +3434,12 @@
                 "state": "AVAILABLE",
                 "md5": "5b20accea75747d8e654eda0d62a7b66",
                 "size": 179687680
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "d300a662f62f58d576a0ba249869e743",
+                "size": 179688672
             }
         ]
     },
@@ -3350,6 +3452,12 @@
                 "state": "AVAILABLE",
                 "md5": "71fb4f4832fce2d27a988b29b993d3ca",
                 "size": 179725824
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "f5d6f537b52982ed47eb134791aa23c9",
+                "size": 179726816
             }
         ]
     },
@@ -3416,6 +3524,12 @@
                 "state": "AVAILABLE",
                 "md5": "95b5ad3e8122bc3e1b7661de455c21c6",
                 "size": 159833088
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "dc68b51d75c9f62a33c26a839767ad1f",
+                "size": 159834080
             }
         ]
     },
@@ -3428,6 +3542,12 @@
                 "state": "AVAILABLE",
                 "md5": "64b2eb5dfb0ef961054c95444fc71be7",
                 "size": 159849696
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "2719b4f36b7f59e20f288b56f8940877",
+                "size": 159850688
             }
         ]
     },
@@ -3500,6 +3620,12 @@
                 "state": "AVAILABLE",
                 "md5": "458b70de8f2d1e75070e3a6799556b06",
                 "size": 118483424
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "89feb6120c12e53f5515dba19b0db27b",
+                "size": 118483424
             }
         ]
     },
@@ -3511,6 +3637,12 @@
                 "version": "5.6.0",
                 "state": "AVAILABLE",
                 "md5": "c667dd659206fbdc6fe785f3209c02e9",
+                "size": 118489792
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "1a1ddc68bc77aaf27018b06964abf916",
                 "size": 118489792
             }
         ]
@@ -3530,6 +3662,12 @@
                 "state": "AVAILABLE",
                 "md5": "c16804f2d7e322bee41dea80cc0d1a61",
                 "size": 187031840
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "0e8b0363d6c45d5c056ec23822781c6b",
+                "size": 187031840
             }
         ]
     },
@@ -3547,6 +3685,12 @@
                 "version": "5.7.0",
                 "state": "AVAILABLE",
                 "md5": "9aaaab268cf048f40083e047b7ed1952",
+                "size": 187012032
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "f0514f358124122ce83b79bfef962aee",
                 "size": 187012032
             }
         ]
@@ -3578,6 +3722,12 @@
                 "state": "AVAILABLE",
                 "md5": "7b7469d20af969901ff94dbeea968a2f",
                 "size": 45535776
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "0aad32e4d0830a20623b954b6b71779c",
+                "size": 45535776
             }
         ]
     },
@@ -3589,6 +3739,12 @@
                 "version": "5.7.0",
                 "state": "AVAILABLE",
                 "md5": "69ebf755a1e9f85d9ac34a36232dffe3",
+                "size": 45522528
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "ca47b275d927748b0121ee9603b2b305",
                 "size": 45522528
             }
         ]
@@ -3602,6 +3758,12 @@
                 "state": "AVAILABLE",
                 "md5": "405536715f43d777bb58eb00424192f5",
                 "size": 100080672
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "936523b2da653105a2b520d2e54700d1",
+                "size": 100080672
             }
         ]
     },
@@ -3613,6 +3775,12 @@
                 "version": "5.7.0",
                 "state": "AVAILABLE",
                 "md5": "046dd7cf05937a400827acc2722e5939",
+                "size": 99676224
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "eb07910c4a5dc2694e1ed126190f8d75",
                 "size": 99676224
             }
         ]
@@ -3638,6 +3806,12 @@
                 "state": "AVAILABLE",
                 "md5": "54f40fcb60c9abe6baea3edd124b0d5e",
                 "size": 128297856
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "4cb9a2b8e079aca692ddccbcf02a07f3",
+                "size": 128297856
             }
         ]
     },
@@ -3649,6 +3823,12 @@
                 "version": "5.7.0",
                 "state": "AVAILABLE",
                 "md5": "9595132c5c36716e2c76f77e807f4fd6",
+                "size": 128283296
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "bb4e56019092f886a8e516c57972b729",
                 "size": 128283296
             }
         ]
@@ -4112,6 +4292,12 @@
                 "state": "AVAILABLE",
                 "md5": "14c55f544ec23ac7ea7c761e2eeafca9",
                 "size": 249110048
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "646de9204aff13f8bc73081c405c6364",
+                "size": 252985024
             }
         ]
     },
@@ -4291,25 +4477,37 @@
     },
     "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_MD_EQ402311501_BD_Boy.usm": {
         "filename": "Cs_MD_EQ402311501_BD_Boy.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "6.4.0",
                 "state": "AVAILABLE",
                 "md5": "2d7c75abb85a71f6bcea835a215e7edf",
                 "size": 289040128
+            },
+            {
+                "version": "6.5.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_MD_EQ402311501_BD_Girl.usm": {
         "filename": "Cs_MD_EQ402311501_BD_Girl.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "6.4.0",
                 "state": "AVAILABLE",
                 "md5": "7a09ed60ecb85e50508b4ead58d9d4d0",
                 "size": 289022944
+            },
+            {
+                "version": "6.5.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -4322,6 +4520,12 @@
                 "state": "AVAILABLE",
                 "md5": "acf2931d2784429504a0ea517ca0b0ec",
                 "size": 238887616
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "04eb94885704c395c8669a581df5ccb5",
+                "size": 238881792
             }
         ]
     },
@@ -4334,18 +4538,114 @@
                 "state": "AVAILABLE",
                 "md5": "850efc207cca52d81e044dd859e7b493",
                 "size": 238894496
+            },
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "725ef0f0ddde8bf1cac36c61415fadf3",
+                "size": 238891328
             }
         ]
     },
     "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Video_Reunion_64.usm": {
         "filename": "Video_Reunion_64.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "6.4.0",
                 "state": "AVAILABLE",
                 "md5": "c0cc00833a416cdc27ae26d35e20bf2e",
                 "size": 25222176
+            },
+            {
+                "version": "6.5.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_NodKrai_EQ4023813_MYZ_Boy.usm": {
+        "filename": "Cs_NodKrai_EQ4023813_MYZ_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "e9faae1ae673c262133a724532b9ddcd",
+                "size": 248535392
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_NodKrai_EQ4023813_MYZ_Girl.usm": {
+        "filename": "Cs_NodKrai_EQ4023813_MYZ_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "1ccc53f7d378aa53772ae9d0bc66541c",
+                "size": 248516544
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_NodKrai_LQ1602007_BBBJS_Boy.usm": {
+        "filename": "Cs_NodKrai_LQ1602007_BBBJS_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "7e38011ee429c3eaa96a9fa22d201c2d",
+                "size": 231746752
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_NodKrai_LQ1602007_BBBJS_Girl.usm": {
+        "filename": "Cs_NodKrai_LQ1602007_BBBJS_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "3f04261112a7527997f6855529faaf0a",
+                "size": 231739456
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_NodKrai_LQ1602013_BBJS_Boy.usm": {
+        "filename": "Cs_NodKrai_LQ1602013_BBJS_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "e468cfaf54287259deb34a25899f3d27",
+                "size": 63449888
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_NodKrai_LQ1602013_BBJS_Girl.usm": {
+        "filename": "Cs_NodKrai_LQ1602013_BBJS_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "b66666f3c2d2721387a7dd382c080858",
+                "size": 63439552
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Video_Reunion_65.usm": {
+        "filename": "Video_Reunion_65.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "6.5.0",
+                "state": "AVAILABLE",
+                "md5": "3408544410f6abf9de562933e02f6a2a",
+                "size": 25106432
             }
         ]
     }
