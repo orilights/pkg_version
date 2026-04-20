@@ -11420,6 +11420,12 @@
                 "state": "AVAILABLE",
                 "md5": "e782385719cd1316cd33c9f518c2ac53",
                 "size": 13509568
+            },
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "cf79c3a163f92d99a7cc38dec01c5bc7",
+                "size": 13221248
             }
         ]
     },
@@ -11432,6 +11438,12 @@
                 "state": "AVAILABLE",
                 "md5": "80ba32f06d54c17f1053dbe72c81e052",
                 "size": 13523424
+            },
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "0dbd51a704db43d4e6bf2902347e8487",
+                "size": 13248864
             }
         ]
     },
@@ -11444,6 +11456,12 @@
                 "state": "AVAILABLE",
                 "md5": "018a7d891bb3db59d9838bfe43a6d9fa",
                 "size": 57738336
+            },
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "bd699a389cc94b1b75f3104bb898614a",
+                "size": 56682304
             }
         ]
     },
@@ -11456,6 +11474,12 @@
                 "state": "AVAILABLE",
                 "md5": "55d6879b65c624ab26acd0b103147346",
                 "size": 57248416
+            },
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "27a0645d1bd87e991a1ff6a81bfdc2cc",
+                "size": 56729248
             }
         ]
     },
@@ -11468,6 +11492,12 @@
                 "state": "AVAILABLE",
                 "md5": "15bcd6f0ca1bc8f0389c37d00be6a028",
                 "size": 45022944
+            },
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "9490a6130cddb02e9017d9012d68964e",
+                "size": 44063488
             }
         ]
     },
@@ -11480,6 +11510,12 @@
                 "state": "AVAILABLE",
                 "md5": "ceb5c306d0de9c0bdc50217d1da706dd",
                 "size": 44628288
+            },
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "a6f003ca34eaaef2bffdb0ebba57c2ec",
+                "size": 44162208
             }
         ]
     },
@@ -11504,6 +11540,12 @@
                 "state": "AVAILABLE",
                 "md5": "0d82354b1bb3ebbf8497602236d7431b",
                 "size": 78202048
+            },
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "be039505cc74b981acf2465a83d68aad",
+                "size": 76593280
             }
         ]
     },
@@ -11516,6 +11558,12 @@
                 "state": "AVAILABLE",
                 "md5": "4a1bcb9bfa22df4c1b6941fd71d4bbdc",
                 "size": 77422272
+            },
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "b08fd6542b661f473223e7a522eb3b29",
+                "size": 76371072
             }
         ]
     },
@@ -13292,6 +13340,426 @@
                 "state": "AVAILABLE",
                 "md5": "fbf7cd99b69e0158232da187d8b448cd",
                 "size": 14192960
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/Chap05_TV_Video_Wolf99901.usm": {
+        "filename": "Chap05_TV_Video_Wolf99901.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "72837c8f5a079563291fc69dddbb20f2",
+                "size": 24544
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/Chap05_TV_Video_Wolf99902.usm": {
+        "filename": "Chap05_TV_Video_Wolf99902.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "7f7c82d3f29cc02863f37e2627def46b",
+                "size": 24544
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/Chap05_TV_Video_Wolf99903.usm": {
+        "filename": "Chap05_TV_Video_Wolf99903.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "938fb6f4ec8de1353aed100ecea0d98c",
+                "size": 24544
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/Chap05_TV_Video_Wolf99904.usm": {
+        "filename": "Chap05_TV_Video_Wolf99904.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "134cb4251bc5b043f9cc0afa26a84c5d",
+                "size": 24544
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_AvatarShowLoop_1506.usm": {
+        "filename": "CS_AvatarShowLoop_1506.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "99d370eb30870fa88c11f47cb0ae312d",
+                "size": 5908000
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_AvatarShowTransition_1506.usm": {
+        "filename": "CS_AvatarShowTransition_1506.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "915b369050780d18d895f3c982ecb89a",
+                "size": 3119072
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_AvatarShow_1506.usm": {
+        "filename": "CS_AvatarShow_1506.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "0737aec8da688c7c5fee8c44e5de71f2",
+                "size": 10667456
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_Chap05_Act210_f.usm": {
+        "filename": "CS_Chap05_Act210_f.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "06c3de0f6d3f2ff534b65a16d0c214df",
+                "size": 33859392
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_Chap05_Act210_m.usm": {
+        "filename": "CS_Chap05_Act210_m.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "e5a0afc6af74c1835c28e7373a859099",
+                "size": 33877984
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_Chap05_Act230.usm": {
+        "filename": "CS_Chap05_Act230.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "3627d02a83f8bc5d0b837b048a3dfb21",
+                "size": 103855360
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_Chap05_Act240_f.usm": {
+        "filename": "CS_Chap05_Act240_f.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "89bc3c3a0488efa03a68f1e2dbb48950",
+                "size": 33077888
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_Chap05_Act240_m.usm": {
+        "filename": "CS_Chap05_Act240_m.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "d2a8301a359247f3283dc1bb1af30435",
+                "size": 33071520
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_Chap05_Act250_f.usm": {
+        "filename": "CS_Chap05_Act250_f.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "ac5c51f7e8c7eba3b9434ab2284e99ab",
+                "size": 36795808
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_Chap05_Act250_m.usm": {
+        "filename": "CS_Chap05_Act250_m.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "492ca690bb2219a685ebe337f0481bf6",
+                "size": 36789280
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_Chap05_Act260_f.usm": {
+        "filename": "CS_Chap05_Act260_f.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "90e42d8f58f2201205e9e2429b50a6b8",
+                "size": 60538048
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_Chap05_Act260_m.usm": {
+        "filename": "CS_Chap05_Act260_m.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "17a7f1e49aaec1c3d1f489766a3ad227",
+                "size": 60471104
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_Chap05_Act270_f.usm": {
+        "filename": "CS_Chap05_Act270_f.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "25538b78c706c57b6a4e8ece858f7916",
+                "size": 17344448
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_Chap05_Act270_m.usm": {
+        "filename": "CS_Chap05_Act270_m.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "175509afb46e68c6e9f683761c91f454",
+                "size": 17343008
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_Chap05_Act280_f.usm": {
+        "filename": "CS_Chap05_Act280_f.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "275950b20a5ae53150e15a46aeec3b7a",
+                "size": 92997088
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_Chap05_Act280_m.usm": {
+        "filename": "CS_Chap05_Act280_m.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "f00a580e858d98dcba6b493c3a9c5aea",
+                "size": 93261696
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_Chap05_Act289.usm": {
+        "filename": "CS_Chap05_Act289.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "892ca64436f4a98157011dcd1c4106d3",
+                "size": 10016832
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_ChapLoop05_Act0150.usm": {
+        "filename": "CS_ChapLoop05_Act0150.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "c88ae8f3b062e29d3817be7257a85614",
+                "size": 9446176
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_ChapLoop05_Act0160.usm": {
+        "filename": "CS_ChapLoop05_Act0160.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "0b3b7bdc58277d0bcb834aa22fa855d2",
+                "size": 9462752
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_ChapLoop05_Act0170.usm": {
+        "filename": "CS_ChapLoop05_Act0170.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "8940a17efec61e96e5946478cbf213ec",
+                "size": 9453120
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_ChapLoop05_Act0171.usm": {
+        "filename": "CS_ChapLoop05_Act0171.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "8f14995478aebf67763e7b402839275c",
+                "size": 9462144
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_ChapLoop05_Act0180.usm": {
+        "filename": "CS_ChapLoop05_Act0180.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "2c771bf28872aa30356433e3a8e3097f",
+                "size": 9330336
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_ChapLoop05_Act0200.usm": {
+        "filename": "CS_ChapLoop05_Act0200.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "79b045d8d385be98d7298840f5d4b424",
+                "size": 9412064
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/CS_ChapLoop05_Act0210.usm": {
+        "filename": "CS_ChapLoop05_Act0210.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "c877acdd75706f0f0a3ff7eb0a177e25",
+                "size": 9366368
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/Guide/Activity_DiceCombatV2_Guide_Entrance.usm": {
+        "filename": "Activity_DiceCombatV2_Guide_Entrance.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "a882bc5d78db191d3b13efae3f391901",
+                "size": 20825856
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/Guide/Level_4D_Windmill.usm": {
+        "filename": "Level_4D_Windmill.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "9a913e0221853debeca8f1ab63f6c884",
+                "size": 5981504
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/Guide/Level_5D_DargonDog.usm": {
+        "filename": "Level_5D_DargonDog.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "6403f0c916253567203c40906f856a27",
+                "size": 14299552
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/Guide/Level_5D_Gline.usm": {
+        "filename": "Level_5D_Gline.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "86aece66d6cdbbc51ee2134cea1d1dda",
+                "size": 8846944
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/Guide/Level_5D_Robot.usm": {
+        "filename": "Level_5D_Robot.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "f35e16a74c969bf60b32e0c7f22757f0",
+                "size": 6873152
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/Guide/Level_5D_RobotUp.usm": {
+        "filename": "Level_5D_RobotUp.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "47594c358bb88a5c300ab1ccde2198b8",
+                "size": 6556736
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/Guide/Level_5D_Smile.usm": {
+        "filename": "Level_5D_Smile.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.2.0",
+                "state": "AVAILABLE",
+                "md5": "7fec703d8bae362fe4f034883b8d8bb9",
+                "size": 11058208
             }
         ]
     }
