@@ -3596,6 +3596,12 @@
                 "state": "AVAILABLE",
                 "md5": "6efad00624d4baee8ff1e6d14f442165",
                 "size": 51896960
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "1b03c98df3c6b7b3315e5c67acea4c1d",
+                "size": 53133472
             }
         ]
     },
@@ -3608,6 +3614,12 @@
                 "state": "AVAILABLE",
                 "md5": "fb3fd7dde84a61689b10010cdbaee6cf",
                 "size": 51806400
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "2de0bc8fb43cefd5aba4f4d06aab8f93",
+                "size": 53056704
             }
         ]
     },
@@ -3620,6 +3632,12 @@
                 "state": "AVAILABLE",
                 "md5": "b5dc3099745413895c9c89cd1d474ce3",
                 "size": 57269536
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "779d0237cb91c8c6dabcaf3939f19f77",
+                "size": 56778976
             }
         ]
     },
@@ -3632,6 +3650,12 @@
                 "state": "AVAILABLE",
                 "md5": "49b587a02183b493eca11c42fc2bd75f",
                 "size": 57290048
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "e01c0287527fe66a470813b3d8ddb507",
+                "size": 56742912
             }
         ]
     },
@@ -3644,6 +3668,12 @@
                 "state": "AVAILABLE",
                 "md5": "d5f84b8e1227e2099800106e9dbbba8a",
                 "size": 83889728
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "30bc03471abfde53f24784f74b6c8ab3",
+                "size": 83099424
             }
         ]
     },
@@ -3656,6 +3686,12 @@
                 "state": "AVAILABLE",
                 "md5": "160eb09a359451bffc5ccb125a53643a",
                 "size": 83899232
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "0d639494e8e1ad458bf2ae95184a4512",
+                "size": 83112064
             }
         ]
     },
@@ -4250,6 +4286,12 @@
                 "state": "AVAILABLE",
                 "md5": "355be8e3c11e07fb45ce3cf51ed984ed",
                 "size": 96511136
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "1d0b9eaa326e263b3c083ff0469b07ca",
+                "size": 96155808
             }
         ]
     },
@@ -4262,6 +4304,12 @@
                 "state": "AVAILABLE",
                 "md5": "148953e954a40cffd82edaee2c06f6a0",
                 "size": 94554944
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "f15d22528c589366e45eefc4af290922",
+                "size": 95786112
             }
         ]
     },
@@ -4274,6 +4322,12 @@
                 "state": "AVAILABLE",
                 "md5": "019ea679c3263892fcf524fef765399e",
                 "size": 39155744
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "9f057a2b9e5875b8d652dcbec2a87ca3",
+                "size": 38510528
             }
         ]
     },
@@ -4286,6 +4340,12 @@
                 "state": "AVAILABLE",
                 "md5": "c1e0149a906ab49361ce94aec4cb7d0d",
                 "size": 39053696
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "3adbd52fee2d1b4eca9a146b81709082",
+                "size": 38481984
             }
         ]
     },
@@ -4310,6 +4370,12 @@
                 "state": "AVAILABLE",
                 "md5": "52056148a3129d1827903e8855aade5a",
                 "size": 77807008
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "8cf6868f2995fd4c1311cb2cab5f6a5c",
+                "size": 78832736
             }
         ]
     },
@@ -4322,6 +4388,12 @@
                 "state": "AVAILABLE",
                 "md5": "6cf62567b7197b773d51fbae8cdbef39",
                 "size": 77354432
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "c0bb605bd4a16fedcf4f23c875c574a1",
+                "size": 78681600
             }
         ]
     },
@@ -5468,6 +5540,12 @@
                 "state": "AVAILABLE",
                 "md5": "85f985b06c2d74a97245e78a7a8e4b08",
                 "size": 27532416
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "41309e0997dd5be7ed7cf6d306355a1a",
+                "size": 27576576
             }
         ]
     },
@@ -5486,6 +5564,12 @@
                 "state": "AVAILABLE",
                 "md5": "07e8a78726e85c2933c524696ca27be8",
                 "size": 27533600
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "d7a5af9e5f7be73dd68fd95b46572535",
+                "size": 27537856
             }
         ]
     },
@@ -10244,6 +10328,12 @@
                 "state": "AVAILABLE",
                 "md5": "2550f4455f043bc7b48099fb1853d51e",
                 "size": 83948608
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "97f7a1705650f3ed8a8f06a7394d494b",
+                "size": 80408640
             }
         ]
     },
@@ -10256,6 +10346,12 @@
                 "state": "AVAILABLE",
                 "md5": "331ab7d6519edb0b36ceaa143d5f91f5",
                 "size": 83943808
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "2603211e1bcfb75368b354fdf9a1866b",
+                "size": 80148608
             }
         ]
     },
@@ -13352,6 +13448,12 @@
                 "state": "AVAILABLE",
                 "md5": "72837c8f5a079563291fc69dddbb20f2",
                 "size": 24544
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "38a5e8e41fdf089c2e49f3979850b3a0",
+                "size": 8417120
             }
         ]
     },
@@ -13364,6 +13466,12 @@
                 "state": "AVAILABLE",
                 "md5": "7f7c82d3f29cc02863f37e2627def46b",
                 "size": 24544
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "6f477b4016c955badc8033f72684e356",
+                "size": 29596768
             }
         ]
     },
@@ -13376,6 +13484,12 @@
                 "state": "AVAILABLE",
                 "md5": "938fb6f4ec8de1353aed100ecea0d98c",
                 "size": 24544
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "b0a9dba37630836f39f410db557faed8",
+                "size": 9080864
             }
         ]
     },
@@ -13388,6 +13502,12 @@
                 "state": "AVAILABLE",
                 "md5": "134cb4251bc5b043f9cc0afa26a84c5d",
                 "size": 24544
+            },
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "d903d674615c303f11f0e6cd73192c60",
+                "size": 8363296
             }
         ]
     },
@@ -13760,6 +13880,102 @@
                 "state": "AVAILABLE",
                 "md5": "7fec703d8bae362fe4f034883b8d8bb9",
                 "size": 11058208
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/Guide/Activity_ChenLingfes_Guide_Entrance.usm": {
+        "filename": "Activity_ChenLingfes_Guide_Entrance.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "204e71392c362c3af0728e0f84de0380",
+                "size": 14842752
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/Guide/Activity_PixAir.usm": {
+        "filename": "Activity_PixAir.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "e82ec7950b5275c31f1fecfd2c966392",
+                "size": 16893536
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/Guide/Level_5D_FixedJoy.usm": {
+        "filename": "Level_5D_FixedJoy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "33ca0f2fc5198f98db9295ffa282804d",
+                "size": 3353152
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/Guide/Level_5D_Ice.usm": {
+        "filename": "Level_5D_Ice.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "6d9f0ae4515c92036c2fe3ac07e87ed6",
+                "size": 14957376
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/Guide/Level_5D_Ice_2.usm": {
+        "filename": "Level_5D_Ice_2.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "a35abb75721f4caba039c6c4613410a6",
+                "size": 13337600
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/Guide/Level_5D_Ice_3.usm": {
+        "filename": "Level_5D_Ice_3.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "0441a35fd7ef1ac533d04c53183c4a8c",
+                "size": 5310688
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/Guide/Level_5D_MoveJoy.usm": {
+        "filename": "Level_5D_MoveJoy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "29e351724b07f2ec5ba955287197ef32",
+                "size": 6189248
+            }
+        ]
+    },
+    "StarRail_Data/StreamingAssets/Video/Windows/Guide/Level_5D_Snow.usm": {
+        "filename": "Level_5D_Snow.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "4.3.0",
+                "state": "AVAILABLE",
+                "md5": "ccd772f7750a01a9256dd6d236807862",
+                "size": 14308064
             }
         ]
     }
