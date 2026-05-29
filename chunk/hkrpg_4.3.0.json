@@ -1,0 +1,195 @@
+{
+    "retcode": 0,
+    "message": "OK",
+    "data": {
+        "build_id": "ny0UlmudJQXE",
+        "tag": "4.3.0",
+        "manifests": [
+            {
+                "category_id": "10054",
+                "category_name": "正式环境-游戏包体",
+                "manifest": {
+                    "id": "manifest_266761e7c7f9b577_bcb0f611f05e8b0b215033ffc64d745a",
+                    "checksum": "bcb0f611f05e8b0b215033ffc64d745a",
+                    "compressed_size": "6633469",
+                    "uncompressed_size": "12951836"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.bhsr.com/client/sophon/chunks/cxi9zq9xwjk0/20260523/4.3.0/LaLMLscBHXBm",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.bhsr.com/client/sophon/manifests/cxi9zq9xwjk0/20260523/4.3.0/LaLMLscBHXBm",
+                    "url_suffix": ""
+                },
+                "matching_field": "game",
+                "stats": {
+                    "compressed_size": "87504883717",
+                    "uncompressed_size": "89607504921",
+                    "file_count": "9884",
+                    "chunk_count": "81296"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "87276010936",
+                    "uncompressed_size": "89378406189",
+                    "file_count": "9884",
+                    "chunk_count": "81072"
+                }
+            },
+            {
+                "category_id": "10055",
+                "category_name": "正式环境-中文语音包",
+                "manifest": {
+                    "id": "manifest_202ee3535b2cdb54_d721eb65c8d50a66b5ca68465fc1ae14",
+                    "checksum": "d721eb65c8d50a66b5ca68465fc1ae14",
+                    "compressed_size": "764342",
+                    "uncompressed_size": "1465417"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.bhsr.com/client/sophon/chunks/cxi9zq9xwjk0/20260523/4.3.0/LaLMLscBHXBm",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.bhsr.com/client/sophon/manifests/cxi9zq9xwjk0/20260523/4.3.0/LaLMLscBHXBm",
+                    "url_suffix": ""
+                },
+                "matching_field": "zh-cn",
+                "stats": {
+                    "compressed_size": "11241342208",
+                    "uncompressed_size": "11258158794",
+                    "file_count": "326",
+                    "chunk_count": "9770"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "11241339940",
+                    "uncompressed_size": "11258158632",
+                    "file_count": "326",
+                    "chunk_count": "9608"
+                }
+            },
+            {
+                "category_id": "10056",
+                "category_name": "正式环境-英语语音包",
+                "manifest": {
+                    "id": "manifest_eea0c2868861d479_feb5d9b1e708367af59342142c2625ae",
+                    "checksum": "feb5d9b1e708367af59342142c2625ae",
+                    "compressed_size": "932099",
+                    "uncompressed_size": "1774579"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.bhsr.com/client/sophon/chunks/cxi9zq9xwjk0/20260523/4.3.0/LaLMLscBHXBm",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.bhsr.com/client/sophon/manifests/cxi9zq9xwjk0/20260523/4.3.0/LaLMLscBHXBm",
+                    "url_suffix": ""
+                },
+                "matching_field": "en-us",
+                "stats": {
+                    "compressed_size": "13675698713",
+                    "uncompressed_size": "13765038732",
+                    "file_count": "326",
+                    "chunk_count": "11905"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "13675696445",
+                    "uncompressed_size": "13765038570",
+                    "file_count": "326",
+                    "chunk_count": "11743"
+                }
+            },
+            {
+                "category_id": "10057",
+                "category_name": "正式环境-日语语音包",
+                "manifest": {
+                    "id": "manifest_bc5c9575d77529cb_0094a371c64165f3de921a18b73b69d7",
+                    "checksum": "0094a371c64165f3de921a18b73b69d7",
+                    "compressed_size": "955437",
+                    "uncompressed_size": "1818427"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.bhsr.com/client/sophon/chunks/cxi9zq9xwjk0/20260523/4.3.0/LaLMLscBHXBm",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.bhsr.com/client/sophon/manifests/cxi9zq9xwjk0/20260523/4.3.0/LaLMLscBHXBm",
+                    "url_suffix": ""
+                },
+                "matching_field": "ja-jp",
+                "stats": {
+                    "compressed_size": "13921111055",
+                    "uncompressed_size": "14102170408",
+                    "file_count": "326",
+                    "chunk_count": "12205"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "13920806795",
+                    "uncompressed_size": "14101868276",
+                    "file_count": "326",
+                    "chunk_count": "12042"
+                }
+            },
+            {
+                "category_id": "10058",
+                "category_name": "正式环境-韩语语音包",
+                "manifest": {
+                    "id": "manifest_8026f6d9278ac1ce_a0c99ac1882afe75d66c90433296d633",
+                    "checksum": "a0c99ac1882afe75d66c90433296d633",
+                    "compressed_size": "772504",
+                    "uncompressed_size": "1479627"
+                },
+                "chunk_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.bhsr.com/client/sophon/chunks/cxi9zq9xwjk0/20260523/4.3.0/LaLMLscBHXBm",
+                    "url_suffix": ""
+                },
+                "manifest_download": {
+                    "encryption": 0,
+                    "password": "",
+                    "compression": 1,
+                    "url_prefix": "https://autopatchcn.bhsr.com/client/sophon/manifests/cxi9zq9xwjk0/20260523/4.3.0/LaLMLscBHXBm",
+                    "url_suffix": ""
+                },
+                "matching_field": "ko-kr",
+                "stats": {
+                    "compressed_size": "11158908237",
+                    "uncompressed_size": "11372565917",
+                    "file_count": "326",
+                    "chunk_count": "9882"
+                },
+                "deduplicated_stats": {
+                    "compressed_size": "11158905969",
+                    "uncompressed_size": "11372565755",
+                    "file_count": "326",
+                    "chunk_count": "9720"
+                }
+            }
+        ]
+    }
+}
