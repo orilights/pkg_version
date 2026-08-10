@@ -4933,13 +4933,139 @@
     },
     "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Video_Reunion_67.usm": {
         "filename": "Video_Reunion_67.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "6.7.0",
                 "state": "AVAILABLE",
                 "md5": "c22cc9d2978bb1d577f7856b0c831755",
                 "size": 25995616
+            },
+            {
+                "version": "7.0.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ70081401_YD_Boy.usm": {
+        "filename": "Cs_ZD_AQ70081401_YD_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.0.0",
+                "state": "AVAILABLE",
+                "md5": "23fb6ec5e45910baaa4a1edd7f56ca3c",
+                "size": 442752
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ70081401_YD_Girl.usm": {
+        "filename": "Cs_ZD_AQ70081401_YD_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.0.0",
+                "state": "AVAILABLE",
+                "md5": "bc61c91f313cba96abfef122844c66b6",
+                "size": 442752
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ70091101_ED_Boy.usm": {
+        "filename": "Cs_ZD_AQ70091101_ED_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.0.0",
+                "state": "AVAILABLE",
+                "md5": "f1b11ad3452982f0d4f8927e54d3e076",
+                "size": 443392
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ70091101_ED_Girl.usm": {
+        "filename": "Cs_ZD_AQ70091101_ED_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.0.0",
+                "state": "AVAILABLE",
+                "md5": "9dce14e38cc3dd9e062fc420c4628ca2",
+                "size": 443392
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ70091701_DC_Boy.usm": {
+        "filename": "Cs_ZD_AQ70091701_DC_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.0.0",
+                "state": "AVAILABLE",
+                "md5": "76c40cc50e2a55700091a7b53263005d",
+                "size": 443392
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ70091701_DC_Girl.usm": {
+        "filename": "Cs_ZD_AQ70091701_DC_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.0.0",
+                "state": "AVAILABLE",
+                "md5": "e8939535ae0cca04899b11cfae827562",
+                "size": 443392
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ70091801_HY.usm": {
+        "filename": "Cs_ZD_AQ70091801_HY.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.0.0",
+                "state": "AVAILABLE",
+                "md5": "63b1db05e3475876fa4917c19cc5183e",
+                "size": 442752
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ70131201_TLBD_Boy.usm": {
+        "filename": "Cs_ZD_AQ70131201_TLBD_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.0.0",
+                "state": "AVAILABLE",
+                "md5": "3595e1244ba5330d08221c36d6d7fffc",
+                "size": 442752
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ70131201_TLBD_Girl.usm": {
+        "filename": "Cs_ZD_AQ70131201_TLBD_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.0.0",
+                "state": "AVAILABLE",
+                "md5": "e04c3735e8020841f8122597bd57d965",
+                "size": 442752
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Video_Reunion_70.usm": {
+        "filename": "Video_Reunion_70.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.0.0",
+                "state": "AVAILABLE",
+                "md5": "ba3ad0d1d0917c22c2c7b073bb47c8ce",
+                "size": 42341088
             }
         ]
     }
