@@ -4904,6 +4904,12 @@
                 "state": "DELETED",
                 "md5": null,
                 "size": null
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "167f7d93e0cd4bf9b53d64d6946d60e4",
+                "size": 4247904
             }
         ]
     },
@@ -25304,6 +25310,12 @@
                 "state": "DELETED",
                 "md5": null,
                 "size": null
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "3d3a4fe024b256c5a7766d4f0ea5d139",
+                "size": 2738752
             }
         ]
     },
@@ -27572,6 +27584,12 @@
                 "state": "DELETED",
                 "md5": null,
                 "size": null
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "3862a609e0ac674437c9a44867f2eecf",
+                "size": 2659040
             }
         ]
     },
@@ -29828,6 +29846,12 @@
                 "state": "DELETED",
                 "md5": null,
                 "size": null
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "7280da265324c0967f6c4a4123244f9e",
+                "size": 2482080
             }
         ]
     },
@@ -33224,6 +33248,12 @@
                 "state": "AVAILABLE",
                 "md5": "4a9aa4ac6b6a39285305324ee8895683",
                 "size": 2379392
+            },
+            {
+                "version": "3.2.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -34652,6 +34682,12 @@
                 "state": "DELETED",
                 "md5": null,
                 "size": null
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "770cbb6f0bd7724c0a835a778815b6e4",
+                "size": 3374400
             }
         ]
     },
@@ -34730,6 +34766,12 @@
                 "state": "DELETED",
                 "md5": null,
                 "size": null
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "ea296ca66cc7ff4fd2076d7fa0f33a39",
+                "size": 8029376
             }
         ]
     },
@@ -35780,6 +35822,12 @@
                 "state": "DELETED",
                 "md5": null,
                 "size": null
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "b24a78417607329b30d10467ebc8179b",
+                "size": 4053216
             }
         ]
     },
@@ -35840,6 +35888,12 @@
                 "state": "DELETED",
                 "md5": null,
                 "size": null
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "f2545211995fbbd0c95396366de4c5ea",
+                "size": 8357760
             }
         ]
     },
@@ -35858,6 +35912,12 @@
                 "state": "DELETED",
                 "md5": null,
                 "size": null
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "d9c90caac02cdd953df8b0239ad233d0",
+                "size": 8221504
             }
         ]
     },
@@ -39194,6 +39254,12 @@
                 "state": "AVAILABLE",
                 "md5": "825397bd8026a24885d2b0bc9198059b",
                 "size": 8291744
+            },
+            {
+                "version": "3.2.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -39230,6 +39296,12 @@
                 "state": "AVAILABLE",
                 "md5": "24e477626b5bc2923301949bb9af801f",
                 "size": 4598720
+            },
+            {
+                "version": "3.2.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -40472,6 +40544,12 @@
                 "state": "AVAILABLE",
                 "md5": "7ad6d9a5a83ebb917b7112c00b43dcc2",
                 "size": 8593568
+            },
+            {
+                "version": "3.2.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -41810,6 +41888,12 @@
                 "state": "AVAILABLE",
                 "md5": "1888558fc6d2079fa63495d08ac48f2a",
                 "size": 4568416
+            },
+            {
+                "version": "3.2.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -41834,6 +41918,12 @@
                 "state": "AVAILABLE",
                 "md5": "719be6924ffbe4628f6a63ec5b8da5e4",
                 "size": 7747584
+            },
+            {
+                "version": "3.2.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -43700,6 +43790,12 @@
                 "state": "AVAILABLE",
                 "md5": "bad3e0288469c977290d77a44f4a35a7",
                 "size": 3831712
+            },
+            {
+                "version": "3.2.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -44402,6 +44498,12 @@
                 "state": "DELETED",
                 "md5": null,
                 "size": null
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "c6692d6383c57327a2d1cd3b248f49b2",
+                "size": 4060448
             }
         ]
     },
@@ -44654,6 +44756,12 @@
                 "state": "DELETED",
                 "md5": null,
                 "size": null
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "b19e7badf6d66fc67a74f51e625d1f68",
+                "size": 4474592
             }
         ]
     },
@@ -45764,6 +45872,12 @@
                 "state": "AVAILABLE",
                 "md5": "552ce9521b7fa9af05b28fa67b5db657",
                 "size": 31573600
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "0011996c1ad63aa49e4a098a60626919",
+                "size": 13664768
             }
         ]
     },
@@ -45812,6 +45926,12 @@
                 "state": "AVAILABLE",
                 "md5": "b9c37eb8ce41a1e9a9130b775df45a6b",
                 "size": 1646592
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "d0e30e3c3884b84ac33c019c60ff1ef8",
+                "size": 1645376
             }
         ]
     },
@@ -45997,49 +46117,73 @@
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_Remielle.usm": {
         "filename": "Gacha_Remielle.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "3.1.0",
                 "state": "AVAILABLE",
                 "md5": "aef2df994ec52a4e7e71c0a5fe1f337e",
                 "size": 2763744
+            },
+            {
+                "version": "3.2.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_Sigrid.usm": {
         "filename": "Gacha_Sigrid.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "3.1.0",
                 "state": "AVAILABLE",
                 "md5": "5a7cbe1feeccbe8d83a0050a9d307193",
                 "size": 2784512
+            },
+            {
+                "version": "3.2.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_WeaponContrast_Aria.usm": {
         "filename": "Gacha_WeaponContrast_Aria.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "3.1.0",
                 "state": "AVAILABLE",
                 "md5": "b0519595bc8361324614cc134c6c9c8c",
                 "size": 8044288
+            },
+            {
+                "version": "3.2.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/LoginBangumi/Ad_43_mux.usm": {
         "filename": "Ad_43_mux.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "3.1.0",
                 "state": "AVAILABLE",
                 "md5": "3b57272cc3cb9f410809bde2870402e9",
                 "size": 18973728
+            },
+            {
+                "version": "3.2.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -46064,6 +46208,12 @@
                 "state": "AVAILABLE",
                 "md5": "9c10c450444687509db4da3a9cac9932",
                 "size": 52284736
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "c049d575ac7444bcf09f3f70dd3455f8",
+                "size": 52286592
             }
         ]
     },
@@ -46076,6 +46226,12 @@
                 "state": "AVAILABLE",
                 "md5": "22acc23b091ae1b1938b5ca74c2d7c68",
                 "size": 52286176
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "a43039907d752e38daa77736d7fdbf47",
+                "size": 52286688
             }
         ]
     },
@@ -46136,6 +46292,12 @@
                 "state": "AVAILABLE",
                 "md5": "e92781a05715cd380533293dff673522",
                 "size": 144992
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "c80b940fcb1bb9f87db68e3ea965a9cd",
+                "size": 31432960
             }
         ]
     },
@@ -46148,6 +46310,12 @@
                 "state": "AVAILABLE",
                 "md5": "002c4f26aa9856a3579445c1fd72c63b",
                 "size": 27276064
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "4c1ce5b905e985c5343d3049ae9c218f",
+                "size": 27269696
             }
         ]
     },
@@ -46160,6 +46328,12 @@
                 "state": "AVAILABLE",
                 "md5": "b5337553eb61a85c48791ff24bc3855d",
                 "size": 144992
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "1c579ea9be16c1864665a471a27cbbb8",
+                "size": 64409472
             }
         ]
     },
@@ -46220,6 +46394,12 @@
                 "state": "AVAILABLE",
                 "md5": "8681aea842f811f8ebd1cadfa1f155a0",
                 "size": 144992
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "8e8bb2bc8292fffd2ef7ecc6bf4f16bc",
+                "size": 26619488
             }
         ]
     },
@@ -46232,6 +46412,12 @@
                 "state": "AVAILABLE",
                 "md5": "af3c4e4c0a248dfa7be361f5fd8ad472",
                 "size": 1541888
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "cac99f95869e1db8fa7a481fbee4f74e",
+                "size": 314880
             }
         ]
     },
@@ -46244,6 +46430,12 @@
                 "state": "AVAILABLE",
                 "md5": "654865a3af1e4c7172bc7246cdff42b7",
                 "size": 13320224
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "f5268cab311e47218d3c838de87a761c",
+                "size": 2688384
             }
         ]
     },
@@ -46256,6 +46448,12 @@
                 "state": "AVAILABLE",
                 "md5": "f7720d4075ddd14fc55eb0f85e06249f",
                 "size": 1394464
+            },
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "ef6876d26cd805d4291875b05d064610",
+                "size": 276704
             }
         ]
     },
@@ -46280,6 +46478,438 @@
                 "state": "AVAILABLE",
                 "md5": "a95f89d5a3383a8a2d448d613b656dd9",
                 "size": 4507808
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/ActivitySummer3_1.usm": {
+        "filename": "ActivitySummer3_1.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "295018b6282c9ba31920273f7d66b8df",
+                "size": 6596352
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/GachaPopup/GachaPopup_Remielle_Loop.usm": {
+        "filename": "GachaPopup_Remielle_Loop.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "eb1282d4b1a3a21131bdcbef700cb9c8",
+                "size": 5917664
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/GachaPopup/GachaPopup_Remielle_Start.usm": {
+        "filename": "GachaPopup_Remielle_Start.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "c288547643dc09180ffe8a698141acc5",
+                "size": 13118304
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/AllroundGeneralTutorial/Zenkov_Sanctuary_Screen_001.usm": {
+        "filename": "Zenkov_Sanctuary_Screen_001.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "5197a0a8c058f2c2ff26a675627dd6d7",
+                "size": 2118528
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/AllroundGeneralTutorial/Zenkov_Sanctuary_Screen_002.usm": {
+        "filename": "Zenkov_Sanctuary_Screen_002.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "6660d5ce36073f4186245ad55cf99a3b",
+                "size": 2485600
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/AllroundGeneralTutorial/Zenkov_Sanctuary_Screen_003.usm": {
+        "filename": "Zenkov_Sanctuary_Screen_003.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "868307aa85abd2cb702e4c8b3359eec6",
+                "size": 2473856
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/AllroundGeneralTutorial/Zenkov_Sanctuary_Screen_004.usm": {
+        "filename": "Zenkov_Sanctuary_Screen_004.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "30f07c5e2cb7fef2f52e52a7f268663c",
+                "size": 2424256
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1021_3.usm": {
+        "filename": "TutorialAvatarVideo1021_3.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "dacce15375c2217198d8ddeaa7c5f60c",
+                "size": 748128
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1021_4.usm": {
+        "filename": "TutorialAvatarVideo1021_4.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "9a8406b8fb3e1bae4f08e017e1e6212c",
+                "size": 492960
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1211_2.usm": {
+        "filename": "TutorialAvatarVideo1211_2.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "aa227f1ab2ed045f3db028e08498e1fd",
+                "size": 1585248
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1261_4.usm": {
+        "filename": "TutorialAvatarVideo1261_4.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "fac3f0dec513f10da4566d36fd840090",
+                "size": 507424
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1261_5.usm": {
+        "filename": "TutorialAvatarVideo1261_5.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "9787ce47a3634e10b857ca7a6e3d7c58",
+                "size": 596928
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1581_1.usm": {
+        "filename": "TutorialAvatarVideo1581_1.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "94ff5a2046b08f950d40b4b45e6b2de3",
+                "size": 1162400
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1581_2.usm": {
+        "filename": "TutorialAvatarVideo1581_2.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "b659404df435c125eaadb8d808118e7b",
+                "size": 1878432
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1581_3.usm": {
+        "filename": "TutorialAvatarVideo1581_3.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "66bdbb8c3bc3cc416a636152f2f42c62",
+                "size": 672640
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1591_1.usm": {
+        "filename": "TutorialAvatarVideo1591_1.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "13c528d088c7afd3d2a77a0472ff7fcf",
+                "size": 666112
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1591_2.usm": {
+        "filename": "TutorialAvatarVideo1591_2.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "c5ec26be079e4b9a04715b056ea51b61",
+                "size": 1017504
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialElementLumenVideo_1.usm": {
+        "filename": "TutorialElementLumenVideo_1.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "9c0c620175cfaa08ede79cbbae9f7cec",
+                "size": 1361216
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_Claret.usm": {
+        "filename": "Gacha_Claret.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "c43fb0c2e07b8fbeb47e066cc12daa0d",
+                "size": 3350016
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_Pryce.usm": {
+        "filename": "Gacha_Pryce.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "d39d89f4cf52062c62e3c9b7a10c8e0a",
+                "size": 2779136
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_WeaponContrast_NangongYu.usm": {
+        "filename": "Gacha_WeaponContrast_NangongYu.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "152373972de81296cd7cc5f99e1e921b",
+                "size": 8449408
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_WeaponContrast_Promeia.usm": {
+        "filename": "Gacha_WeaponContrast_Promeia.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "eaabdf4559fde384c65a307a29cc668a",
+                "size": 8191968
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C320_EP010.usm": {
+        "filename": "C320_EP010.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "acefeff551673b01ed1f8453601fffb1",
+                "size": 42725632
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C320_EP020B.usm": {
+        "filename": "C320_EP020B.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "ba11894a405d11e30fe4924e6afe96e6",
+                "size": 26354784
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C320_EP020G.usm": {
+        "filename": "C320_EP020G.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "688b2f13b726696153b17c7bdb4487c5",
+                "size": 26355264
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C320_EP030B.usm": {
+        "filename": "C320_EP030B.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "596411d4b4d6537602e0a6864620eca3",
+                "size": 24592672
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C320_EP030G.usm": {
+        "filename": "C320_EP030G.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "2d8e05ea5510d54584a2583e0c031714",
+                "size": 24540704
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C320_EP040B.usm": {
+        "filename": "C320_EP040B.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "e6f5b69c3091c5e68bb28ede477f74cb",
+                "size": 36722112
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C320_EP040G.usm": {
+        "filename": "C320_EP040G.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "a5d3d2f79e3ceb1818dec3bc65a1990c",
+                "size": 36723008
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C320_EP050B.usm": {
+        "filename": "C320_EP050B.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "af51687e54f10035dbfe0a6b0df12d5a",
+                "size": 144992
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C320_EP050G.usm": {
+        "filename": "C320_EP050G.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "fc8f7ddf741b2b2fecd9b328d765cc86",
+                "size": 144992
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Weapon/Weapon_A_Common_17.usm": {
+        "filename": "Weapon_A_Common_17.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "3d1ad7fce780840d7f4aa18fa1909328",
+                "size": 4326848
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Weapon/Weapon_A_Common_21.usm": {
+        "filename": "Weapon_A_Common_21.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "d0796cdf36b1a4bd47bec12c098be539",
+                "size": 6902976
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Weapon/Weapon_B_Common_16.usm": {
+        "filename": "Weapon_B_Common_16.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "746a2005d538bd3a233fa06fcf3bbff1",
+                "size": 2506976
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Weapon/Weapon_S_1611.usm": {
+        "filename": "Weapon_S_1611.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "28310b773f425e7dd90e57c96f2d0e5f",
+                "size": 5023968
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Weapon/Weapon_S_1621.usm": {
+        "filename": "Weapon_S_1621.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.2.0",
+                "state": "AVAILABLE",
+                "md5": "65ef6c92ee024ae90d84395330ded2b3",
+                "size": 4660064
             }
         ]
     }
