@@ -3292,13 +3292,13 @@
         },
         "decompressed_path": "https://autopatchcn.juequling.com/package_download/op/client_app/download/20260822101115_aoL548kCAqyTM11P/SplitAudioZip",
         "chunk": {
-            "branch": "predownload",
+            "branch": "main",
             "diff_tags": [
                 "3.1.0",
                 "3.0.0"
             ],
             "package_id": "FfGDa3bsvp",
-            "password": "xGT32wXaBk86",
+            "password": "FJCF1CT6Z4nz",
             "tag": "3.2.0"
         }
     }
