@@ -158,6 +158,12 @@
                 "state": "AVAILABLE",
                 "md5": "08762616a03ea6bb6e1d6109da4c4184",
                 "size": 76356000
+            },
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "1da5ed67345e03d16c9e85f55b581f72",
+                "size": 76360448
             }
         ]
     },
@@ -4958,6 +4964,12 @@
                 "state": "AVAILABLE",
                 "md5": "23fb6ec5e45910baaa4a1edd7f56ca3c",
                 "size": 442752
+            },
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "b780da0c1895b579a05bca02aaaa3287",
+                "size": 259596032
             }
         ]
     },
@@ -4970,6 +4982,12 @@
                 "state": "AVAILABLE",
                 "md5": "bc61c91f313cba96abfef122844c66b6",
                 "size": 442752
+            },
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "2c7eb16f6944bb98bfe17e0088fda383",
+                "size": 259626368
             }
         ]
     },
@@ -4982,6 +5000,12 @@
                 "state": "AVAILABLE",
                 "md5": "f1b11ad3452982f0d4f8927e54d3e076",
                 "size": 443392
+            },
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "e6357b79ea8aa5142dc19b0190eb85d6",
+                "size": 267730592
             }
         ]
     },
@@ -4994,6 +5018,12 @@
                 "state": "AVAILABLE",
                 "md5": "9dce14e38cc3dd9e062fc420c4628ca2",
                 "size": 443392
+            },
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "6198222d93dd2e6686101733148f28b4",
+                "size": 267758016
             }
         ]
     },
@@ -5006,6 +5036,12 @@
                 "state": "AVAILABLE",
                 "md5": "76c40cc50e2a55700091a7b53263005d",
                 "size": 443392
+            },
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "7e5471e2d9ef93ddc1edf37571e4946d",
+                "size": 104560352
             }
         ]
     },
@@ -5018,6 +5054,12 @@
                 "state": "AVAILABLE",
                 "md5": "e8939535ae0cca04899b11cfae827562",
                 "size": 443392
+            },
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "32b2f14599bc1fa28db1979c2de9ee1f",
+                "size": 104558784
             }
         ]
     },
@@ -5030,6 +5072,12 @@
                 "state": "AVAILABLE",
                 "md5": "63b1db05e3475876fa4917c19cc5183e",
                 "size": 442752
+            },
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "f37ae334c7b2736da2cabe60e899d419",
+                "size": 235432480
             }
         ]
     },
@@ -5042,6 +5090,12 @@
                 "state": "AVAILABLE",
                 "md5": "3595e1244ba5330d08221c36d6d7fffc",
                 "size": 442752
+            },
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "6e42374dd3a7928481684935833d9c91",
+                "size": 119314848
             }
         ]
     },
@@ -5054,18 +5108,162 @@
                 "state": "AVAILABLE",
                 "md5": "e04c3735e8020841f8122597bd57d965",
                 "size": 442752
+            },
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "9140af9fae935ac09038da282e9aa65d",
+                "size": 119324960
             }
         ]
     },
     "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Video_Reunion_70.usm": {
         "filename": "Video_Reunion_70.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "7.0.0",
                 "state": "AVAILABLE",
                 "md5": "ba3ad0d1d0917c22c2c7b073bb47c8ce",
                 "size": 42341088
+            },
+            {
+                "version": "7.1.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_LY_EQ4025110_ZY.usm": {
+        "filename": "Cs_LY_EQ4025110_ZY.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "cd1385128992fb04a53bb2b479302019",
+                "size": 201416544
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ70171401_UR_Boy.usm": {
+        "filename": "Cs_ZD_AQ70171401_UR_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "ce5dd991c509982e3e5a4b97a8ceb907",
+                "size": 350470112
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ70171401_UR_Girl.usm": {
+        "filename": "Cs_ZD_AQ70171401_UR_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "5db22051c9ad83bc414d395b8133e0f0",
+                "size": 350480128
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ70190901_HE.usm": {
+        "filename": "Cs_ZD_AQ70190901_HE.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "b60d62657db46e71f8f596139b806552",
+                "size": 420633792
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ70200801_TFR_Boy.usm": {
+        "filename": "Cs_ZD_AQ70200801_TFR_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "0f4a5944af532aa8c5f4f9901e95adc7",
+                "size": 370173408
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ70200801_TFR_Girl.usm": {
+        "filename": "Cs_ZD_AQ70200801_TFR_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "2601c402139ea6f10f2f7c459dddd0ee",
+                "size": 370181344
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ70201101_RTF_Boy.usm": {
+        "filename": "Cs_ZD_AQ70201101_RTF_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "7bf3cdf31974aec48917c7f659dfd346",
+                "size": 245485952
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ70201101_RTF_Girl.usm": {
+        "filename": "Cs_ZD_AQ70201101_RTF_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "479a9fc6abb06da87c65f2b2022939b5",
+                "size": 245489568
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ70201201_SLT.usm": {
+        "filename": "Cs_ZD_AQ70201201_SLT.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "ac2197290075e9d62b1ed0abc226121b",
+                "size": 133650592
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Video_Reunion_67_test.usm": {
+        "filename": "Video_Reunion_67_test.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "ce6dc7a117e2d1d21e356e6f6cd6d48d",
+                "size": 25995616
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Video_Reunion_71.usm": {
+        "filename": "Video_Reunion_71.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.1.0",
+                "state": "AVAILABLE",
+                "md5": "55dc229cb036027d97605bb79cd15708",
+                "size": 30975104
             }
         ]
     }
