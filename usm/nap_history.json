@@ -44504,6 +44504,12 @@
                 "state": "AVAILABLE",
                 "md5": "c6692d6383c57327a2d1cd3b248f49b2",
                 "size": 4060448
+            },
+            {
+                "version": "3.3.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -44762,6 +44768,12 @@
                 "state": "AVAILABLE",
                 "md5": "b19e7badf6d66fc67a74f51e625d1f68",
                 "size": 4474592
+            },
+            {
+                "version": "3.3.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -45260,6 +45272,12 @@
                 "state": "DELETED",
                 "md5": null,
                 "size": null
+            },
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "967b2ff65db9afa4691e7460f4d66a7d",
+                "size": 2767040
             }
         ]
     },
@@ -45278,6 +45296,12 @@
                 "state": "DELETED",
                 "md5": null,
                 "size": null
+            },
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "4510a33dcee5818023a57ad57e03dd2e",
+                "size": 2960832
             }
         ]
     },
@@ -45296,6 +45320,12 @@
                 "state": "DELETED",
                 "md5": null,
                 "size": null
+            },
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "555425f9bb1684a30ddf2ea4580028ae",
+                "size": 8437440
             }
         ]
     },
@@ -45332,6 +45362,12 @@
                 "state": "DELETED",
                 "md5": null,
                 "size": null
+            },
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "387faf8e03b46adfe6d5785a893ece29",
+                "size": 8442048
             }
         ]
     },
@@ -46699,49 +46735,73 @@
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_Claret.usm": {
         "filename": "Gacha_Claret.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "3.2.0",
                 "state": "AVAILABLE",
                 "md5": "c43fb0c2e07b8fbeb47e066cc12daa0d",
                 "size": 3350016
+            },
+            {
+                "version": "3.3.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_Pryce.usm": {
         "filename": "Gacha_Pryce.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "3.2.0",
                 "state": "AVAILABLE",
                 "md5": "d39d89f4cf52062c62e3c9b7a10c8e0a",
                 "size": 2779136
+            },
+            {
+                "version": "3.3.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_WeaponContrast_NangongYu.usm": {
         "filename": "Gacha_WeaponContrast_NangongYu.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "3.2.0",
                 "state": "AVAILABLE",
                 "md5": "152373972de81296cd7cc5f99e1e921b",
                 "size": 8449408
+            },
+            {
+                "version": "3.3.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
     "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_WeaponContrast_Promeia.usm": {
         "filename": "Gacha_WeaponContrast_Promeia.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "3.2.0",
                 "state": "AVAILABLE",
                 "md5": "eaabdf4559fde384c65a307a29cc668a",
                 "size": 8191968
+            },
+            {
+                "version": "3.3.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -46814,6 +46874,12 @@
                 "state": "AVAILABLE",
                 "md5": "e6f5b69c3091c5e68bb28ede477f74cb",
                 "size": 36722112
+            },
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "c62e11960453e1b636baea4130f1b9c8",
+                "size": 36662400
             }
         ]
     },
@@ -46838,6 +46904,12 @@
                 "state": "AVAILABLE",
                 "md5": "af51687e54f10035dbfe0a6b0df12d5a",
                 "size": 144992
+            },
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "1dba1d9ee1c25f3c2964c36235edb069",
+                "size": 61047424
             }
         ]
     },
@@ -46850,6 +46922,12 @@
                 "state": "AVAILABLE",
                 "md5": "fc8f7ddf741b2b2fecd9b328d765cc86",
                 "size": 144992
+            },
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "de760c8ba052f1cd7e08c947c52a76c6",
+                "size": 61038816
             }
         ]
     },
@@ -46910,6 +46988,390 @@
                 "state": "AVAILABLE",
                 "md5": "65ef6c92ee024ae90d84395330ded2b3",
                 "size": 4660064
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Activity/ScaryNight3_3.usm": {
+        "filename": "ScaryNight3_3.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "44019717284882eab305f4283268f722",
+                "size": 5792768
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/AllroundGeneralTutorial/Tutorial_HardCore_SymbioticEtherealSinner_02.usm": {
+        "filename": "Tutorial_HardCore_SymbioticEtherealSinner_02.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "bcdcdbdf4d01c3e5be0d6624d30ff333",
+                "size": 392992
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1101_3.usm": {
+        "filename": "TutorialAvatarVideo1101_3.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "4a1bc8d263969382ebd4e317668c2d77",
+                "size": 703680
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1611_1.usm": {
+        "filename": "TutorialAvatarVideo1611_1.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "98aab77d1314015a69b6ad0aced0f1b6",
+                "size": 997856
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1611_2.usm": {
+        "filename": "TutorialAvatarVideo1611_2.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "776aa133292ce98ad790fcc7d5430c7c",
+                "size": 569248
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1611_3.usm": {
+        "filename": "TutorialAvatarVideo1611_3.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "41131461c65e15d72856fc9743fae8e2",
+                "size": 625696
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1621_1.usm": {
+        "filename": "TutorialAvatarVideo1621_1.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "ab35f36f2505eaf442658783e11292dd",
+                "size": 806432
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/TutorialAvatarVideo1621_2.usm": {
+        "filename": "TutorialAvatarVideo1621_2.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "70facc6a88b34460bd1ee75511256f69",
+                "size": 1104576
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/Tutorial_Armorer_01.usm": {
+        "filename": "Tutorial_Armorer_01.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "669a0bd4de13ab6895c3c48a061b8188",
+                "size": 696640
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/Tutorial_Armorer_02.usm": {
+        "filename": "Tutorial_Armorer_02.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "c750890750fda2e27c99dc5aafa28250",
+                "size": 544768
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Battle/Tutorial_MainStory_Wrestle_1.usm": {
+        "filename": "Tutorial_MainStory_Wrestle_1.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "eab9a30c6af63e9cfd0e3cd18d29c07b",
+                "size": 1235840
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_Pheony.usm": {
+        "filename": "Gacha_Pheony.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "426b3428a9369a8729da87bd1f913109",
+                "size": 4303520
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Gacha/Gacha_Severian.usm": {
+        "filename": "Gacha_Severian.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "47afaea0c0f5ea1ea995543b4c9ca520",
+                "size": 2888544
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/HardCore/HardCore_Monster_Hayyot_HC.usm": {
+        "filename": "HardCore_Monster_Hayyot_HC.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "aadbe0ae302814c35d8678d0f62c7ca2",
+                "size": 14964256
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/HardCore/HardCore_Monster_HereticJester_HC.usm": {
+        "filename": "HardCore_Monster_HereticJester_HC.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "c1af1e0f4a3be4d5398b804f4d2df697",
+                "size": 8710816
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/HardCore/HardCore_Monster_InfernalRevenant_HC.usm": {
+        "filename": "HardCore_Monster_InfernalRevenant_HC.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "72424016f2e9048e2364b291940d9d84",
+                "size": 12426656
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C330_EP010B.usm": {
+        "filename": "C330_EP010B.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "73ce7b0687e6652ca96402c785e66f7e",
+                "size": 29250496
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C330_EP010G.usm": {
+        "filename": "C330_EP010G.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "1c34fce2f1c696e3bff0e47610feec4d",
+                "size": 29261344
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C330_EP020B.usm": {
+        "filename": "C330_EP020B.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "d4bdfe375f51b7edf66dd11907f7ff3e",
+                "size": 39069376
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C330_EP020G.usm": {
+        "filename": "C330_EP020G.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "ecbd6a404802d35546c4bab384a7d3ff",
+                "size": 38964224
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C330_EP030B.usm": {
+        "filename": "C330_EP030B.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "fec155155c9eeda8d76fd629ba0ae682",
+                "size": 35074176
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C330_EP030G.usm": {
+        "filename": "C330_EP030G.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "66131f4e9a7c9452f4391ca6b48e810b",
+                "size": 35124480
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C330_EP040.usm": {
+        "filename": "C330_EP040.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "5911467492a67c76dbeca6f0dae328a7",
+                "size": 29802240
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C330_EP050B.usm": {
+        "filename": "C330_EP050B.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "d983a60a86a5e78870283f0bf3f2dc4d",
+                "size": 64645984
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C330_EP050G.usm": {
+        "filename": "C330_EP050G.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "0587f17d43212be5ad2b0f8e7b6f2203",
+                "size": 64625440
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C330_EP060B.usm": {
+        "filename": "C330_EP060B.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "d7035fd53e6b48611537ea1b154f7ae8",
+                "size": 23903488
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Procedure/C330_EP060G.usm": {
+        "filename": "C330_EP060G.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "91e633c4d5bdf88fe6d9c3530e0f6b28",
+                "size": 23884224
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/StrategyGuide/Role63_01.usm": {
+        "filename": "Role63_01.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "00fe032decc116f4158ad9646bc96d47",
+                "size": 1924000
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/StrategyGuide/Role65_01.usm": {
+        "filename": "Role65_01.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "63c8d6f603ffbd648b2aad2157cdef8a",
+                "size": 1236960
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/StrategyGuide/Role67_01.usm": {
+        "filename": "Role67_01.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "3d18e98dba8196d2d5433acd4788c74b",
+                "size": 3099008
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Weapon/Weapon_A_Common_22.usm": {
+        "filename": "Weapon_A_Common_22.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "c313b2f0ed9d2304e5e6dead75d8ac8e",
+                "size": 4168896
+            }
+        ]
+    },
+    "ZenlessZoneZero_Data/StreamingAssets/Video/HD/Weapon/Weapon_S_1631.usm": {
+        "filename": "Weapon_S_1631.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "3.3.0",
+                "state": "AVAILABLE",
+                "md5": "08ff449ae3e4ea32bb4d08306b687d6c",
+                "size": 4510112
             }
         ]
     }
