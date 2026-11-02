@@ -5137,13 +5137,19 @@
     },
     "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_LY_EQ4025110_ZY.usm": {
         "filename": "Cs_LY_EQ4025110_ZY.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "7.1.0",
                 "state": "AVAILABLE",
                 "md5": "cd1385128992fb04a53bb2b479302019",
                 "size": 201416544
+            },
+            {
+                "version": "7.2.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
             }
         ]
     },
@@ -5156,6 +5162,12 @@
                 "state": "AVAILABLE",
                 "md5": "ce5dd991c509982e3e5a4b97a8ceb907",
                 "size": 350470112
+            },
+            {
+                "version": "7.2.0",
+                "state": "AVAILABLE",
+                "md5": "3acc83e8969a6ffc37a5cf49e83c67a3",
+                "size": 350470112
             }
         ]
     },
@@ -5167,6 +5179,12 @@
                 "version": "7.1.0",
                 "state": "AVAILABLE",
                 "md5": "5db22051c9ad83bc414d395b8133e0f0",
+                "size": 350480128
+            },
+            {
+                "version": "7.2.0",
+                "state": "AVAILABLE",
+                "md5": "562f580fdf8980a7dc7b4738a0d381e5",
                 "size": 350480128
             }
         ]
@@ -5257,13 +5275,91 @@
     },
     "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Video_Reunion_71.usm": {
         "filename": "Video_Reunion_71.usm",
-        "state": "AVAILABLE",
+        "state": "DELETED",
         "versions": [
             {
                 "version": "7.1.0",
                 "state": "AVAILABLE",
                 "md5": "55dc229cb036027d97605bb79cd15708",
                 "size": 30975104
+            },
+            {
+                "version": "7.2.0",
+                "state": "DELETED",
+                "md5": null,
+                "size": null
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ702318_SN.usm": {
+        "filename": "Cs_ZD_AQ702318_SN.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.2.0",
+                "state": "AVAILABLE",
+                "md5": "ffff82638d965379887350735c47c405",
+                "size": 159348960
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ702323_OD.usm": {
+        "filename": "Cs_ZD_AQ702323_OD.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.2.0",
+                "state": "AVAILABLE",
+                "md5": "d1877c2d5a8ec10410a057a5a6feb27f",
+                "size": 54358432
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ702514_SR.usm": {
+        "filename": "Cs_ZD_AQ702514_SR.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.2.0",
+                "state": "AVAILABLE",
+                "md5": "9cec0a9224bd54533ca422baf56f0314",
+                "size": 99250144
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ703109_ZS_Boy.usm": {
+        "filename": "Cs_ZD_AQ703109_ZS_Boy.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.2.0",
+                "state": "AVAILABLE",
+                "md5": "e035cddcba1be8db61f5bba9517899ad",
+                "size": 107632032
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Cs_ZD_AQ703109_ZS_Girl.usm": {
+        "filename": "Cs_ZD_AQ703109_ZS_Girl.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.2.0",
+                "state": "AVAILABLE",
+                "md5": "ebcfeac6639c83ae9d6ae774de9da47d",
+                "size": 107645600
+            }
+        ]
+    },
+    "YuanShen_Data/StreamingAssets/VideoAssets/StandaloneWindows64/Video_Reunion_72.usm": {
+        "filename": "Video_Reunion_72.usm",
+        "state": "AVAILABLE",
+        "versions": [
+            {
+                "version": "7.2.0",
+                "state": "AVAILABLE",
+                "md5": "d6463a59e49d0b941b17ca73cb2bc448",
+                "size": 27010016
             }
         ]
     }
